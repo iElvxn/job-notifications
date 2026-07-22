@@ -1,62 +1,86 @@
 # job-notifications
 
-Watches [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-for new active Software Engineering new-grad postings and sends new ones to a Discord
-channel via webhook. Runs on a GitHub Actions cron schedule (every 30 minutes) — no
-server to maintain.
+Watches for new-grad SWE postings across many sources and pings a Discord
+channel via webhook, usually within 15 minutes of a role going live. Runs free
+on a GitHub Actions cron — no server to maintain.
+
+## Sources
+
+| Source | What it covers | How |
+|---|---|---|
+| `simplify` | Broad baseline: hundreds of companies incl. Microsoft/Apple/Meta/Google | [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) `listings.json` (curated, updated hourly) |
+| `amazon` | Amazon SDE new-grad roles, minutes after posting | amazon.jobs `search.json` (unofficial GET API) |
+| `greenhouse/*` | Stripe, Databricks, Anthropic | official public board API |
+| `ashby/*` | OpenAI, Ramp, Notion | official public posting API |
+| `lever/*` | (none yet — adapter ready) | official public postings API |
+| `workday/*` | NVIDIA, Salesforce | unofficial cxs API (POST, 20 results/page) |
+| `eightfold/*` | Netflix | unofficial Eightfold API |
+
+Direct-company sources apply a **balanced new-grad title filter** (matches
+"new grad" / "university graduate" / "entry level" / "SWE I" / class-year
+tokens; rejects senior/staff/intern/PhD/level-II+) plus a **US-only location
+filter**. SimplifyJobs is already new-grad-curated, so only the location
+filter applies there.
 
 ## How it works
 
-1. `scraper/fetch.py` downloads the repo's `listings.json` and filters to postings
-   that are `active`, `is_visible`, and in the `Software Engineering` category.
-2. `scraper/store.py` keeps a SQLite file (`data/seen_jobs.db`) of job IDs already
-   notified about, so nothing gets sent twice. This file is committed back to the repo
-   after each run so state persists between Action runs.
-3. `scraper/notify.py` posts new jobs to Discord as embeds (title, company, locations,
-   sponsorship, application link), batched up to Discord's 10-embeds-per-message limit.
-4. `scraper/main.py` ties it together. On the very first run it seeds the database
-   with all currently-active jobs *without* notifying, so you don't get spammed with
-   the entire backlog.
+1. `notifier/sources/` — one adapter per source family; generic ATS adapters
+   (Greenhouse/Lever/Ashby/Workday/Eightfold) are driven by
+   `config/companies.yml`, so adding a company is a config edit, not code.
+   Every adapter returns normalized `Job`s with `uid = "<source>:<native_id>"`.
+2. `notifier/state.py` — `data/seen.json` records every uid already notified
+   (plus which sources have been seeded). Committed back to the repo after
+   each run so state persists with human-readable diffs.
+3. `notifier/main.py` — polls every source with per-source error isolation
+   (one broken API never kills the run; the run only fails if *all* sources
+   fail), then posts genuinely new jobs to Discord as embeds, color-coded by
+   source.
+4. **First run of any source seeds silently** — adding a new company never
+   spams the channel with its backlog.
 
 ## Setup
 
-1. In Discord: **Channel Settings → Integrations → Webhooks → New Webhook**, copy the
-   webhook URL.
-2. In the GitHub repo: **Settings → Secrets and variables → Actions → New repository
-   secret**, name it `DISCORD_WEBHOOK_URL`, paste the webhook URL.
-3. Push to `main` (or trigger the "Scrape new-grad SWE jobs" workflow manually via
-   **Actions → Run workflow**) to do the initial seeding run.
-4. After that, the workflow runs automatically every 30 minutes and only notifies on
-   genuinely new postings.
+1. In Discord: **Channel Settings → Integrations → Webhooks → New Webhook**,
+   copy the webhook URL.
+2. In the GitHub repo: **Settings → Secrets and variables → Actions → New
+   repository secret**, name `DISCORD_WEBHOOK_URL`, paste the URL.
+3. Trigger the "Poll new-grad SWE jobs" workflow manually (**Actions → Run
+   workflow**) to do the initial silent seeding run.
+4. It then runs every 15 minutes and pings only on genuinely new postings.
+
+### Adding a company
+
+Find the company's ATS from its careers-page URL and add an entry to
+`config/companies.yml`:
+
+- `boards.greenhouse.io/<token>` → `greenhouse:` block
+- `jobs.ashbyhq.com/<board>` → `ashby:` block
+- `jobs.lever.co/<slug>` → `lever:` block
+- `<tenant>.wd<N>.myworkdayjobs.com/<site>` → `workday:` block
+- Eightfold-powered sites (`/api/apply/v2/jobs` in network tab) → `eightfold:` block
+
+The new source seeds silently on its next run.
+
+If a company uses nonstandard titling for new-grad roles, add an
+`extra_include` regex to its entry — e.g. Salesforce calls the level
+"AMTS"/"MTS", so its entry carries `extra_include: '\ba?mts\b'`. The pattern
+is OR'd with the standard new-grad signals (senior/staff/intern exclusions
+still apply).
 
 ### Running locally
 
 ```bash
 pip install -r requirements.txt
 export DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/..."   # PowerShell: $env:DISCORD_WEBHOOK_URL="..."
-python -m scraper.main
+python -m notifier.main
+pytest   # filter + adapter parsing tests
 ```
 
-## Future sources
+## Phase 2 ideas (not built)
 
-Currently this only pulls from SimplifyJobs, which already aggregates hundreds of
-companies' career pages and is updated hourly. LinkedIn/Indeed are intentionally
-excluded — both actively fight scrapers (Cloudflare, ToS enforcement), making them a
-poor fit for a low-maintenance personal tool.
-
-If you want to add specific companies not covered by SimplifyJobs, these ATS vendors
-publish legitimate public JSON APIs (the same data that powers their own careers
-pages, no auth or scraping required):
-
-| ATS | Endpoint | Notes |
-|---|---|---|
-| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true` | `{token}` is the slug in `boards.greenhouse.io/{token}` |
-| Lever | `https://api.lever.co/v0/postings/{company}?mode=json` | `{company}` is the slug in `jobs.lever.co/{company}` |
-| Ashby | `https://api.ashbyhq.com/posting-api/job-board/{company}` | `{company}` is the slug in `jobs.ashbyhq.com/{company}` |
-| Workday | no single public API; per-tenant endpoints vary | more brittle, lowest priority |
-
-To add one, write a module (e.g. `scraper/fetch_greenhouse.py`) that returns a list of
-dicts in the same shape used internally (`id`, `company_name`, `title`, `url`,
-`locations`), then merge its results into the job list in `scraper/main.py`. Prefix
-each source's `id` with the source name (e.g. `f"greenhouse:{job['id']}"`) before
-dedup so IDs from different sources can't collide.
+- **Microsoft / Apple / Meta / Google bespoke adapters** — their career sites
+  need CSRF/GraphQL tokens or client-side RPC (Google embeds no job JSON in
+  the page at all, verified 2026-07-21). Covered by `simplify` meanwhile. An
+  Apify-actor-backed adapter is a drop-in fallback if faster coverage is ever
+  worth paying for.
+- **LinkedIn/Indeed** — intentionally excluded; both actively fight scrapers.

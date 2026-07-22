@@ -1,0 +1,44 @@
+# Companies polled directly, grouped by ATS. All slugs verified live 2026-07-21.
+# To add a company: find its ATS from the careers-page URL, add an entry here.
+# New sources seed silently on their first run (no notification backlog spam).
+
+greenhouse:
+  - company: Stripe
+    token: stripe
+  - company: Databricks
+    token: databricks
+  - company: Anthropic
+    token: anthropic
+
+ashby:
+  - company: OpenAI
+    board: openai
+  - company: Ramp
+    board: ramp
+  - company: Notion
+    board: notion
+
+lever: []
+  # - company: ExampleCo
+  #   slug: exampleco
+
+workday:
+  - company: NVIDIA
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+    search: new grad software engineer
+  - company: Salesforce
+    host: salesforce.wd12.myworkdayjobs.com
+    tenant: salesforce
+    site: External_Career_Site
+    search: new grad software engineer
+    # Salesforce titles its new-grad/entry level "AMTS"/"MTS" (but SMTS/LMTS
+    # are senior/lead — \b keeps those out).
+    extra_include: '\ba?mts\b'
+
+eightfold:
+  - company: Netflix
+    base: https://explore.jobs.netflix.net
+    domain: netflix.com
+    query: software engineer

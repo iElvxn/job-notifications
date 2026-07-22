@@ -1,15 +1,19 @@
-name: Scrape new-grad SWE jobs
+name: Poll new-grad SWE jobs
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
+concurrency:
+  group: poll-jobs
+  cancel-in-progress: false
+
 jobs:
-  scrape:
+  poll:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -20,14 +24,25 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python -m scraper.main
+      - run: python -m notifier.main
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
 
-      - name: Commit updated seen-jobs database
+      - name: Commit updated seen-jobs state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen_jobs.db
-          git diff --cached --quiet || git commit -m "Update seen jobs database"
+          git add data/seen.json
+          if git diff --cached --quiet; then
+            echo "No state changes"
+            exit 0
+          fi
+          git commit -m "Update seen jobs state"
+          # Retry push with rebase in case another run raced us.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase
+          done
           git push
