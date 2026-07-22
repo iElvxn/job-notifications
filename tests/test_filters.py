@@ -66,6 +66,9 @@ US_LOCATIONS = [
     "US, CA, Santa Clara",  # Workday's locationsText format
     "Remote",  # bare remote assumed US-inclusive
     "Austin, Texas, United States of America",
+    "NYC",  # bare major-metro names without a state
+    "San Francisco",
+    "Seattle",
 ]
 
 NON_US_LOCATIONS = [

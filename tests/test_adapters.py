@@ -167,7 +167,7 @@ def test_amazon_parse():
 
 def test_simplify_parse():
     payload = [
-        {
+        {  # legacy category value -> kept
             "id": "s1",
             "active": True,
             "is_visible": True,
@@ -177,27 +177,67 @@ def test_simplify_parse():
             "url": "https://example.com/1",
             "locations": ["Menlo Park, CA"],
         },
-        {  # inactive -> dropped
+        {  # current main category -> kept
             "id": "s2",
+            "active": True,
+            "is_visible": True,
+            "category": "Software",
+            "company_name": "Google",
+            "title": "Software Engineer, New Grad",
+            "url": "https://example.com/2",
+            "locations": ["Mountain View, CA"],
+        },
+        {  # AI/ML/Data included in full -> kept
+            "id": "s3",
+            "active": True,
+            "is_visible": True,
+            "category": "AI/ML/Data",
+            "company_name": "OpenAI",
+            "title": "Machine Learning Engineer, New Grad",
+            "url": "https://example.com/3",
+            "locations": ["San Francisco, CA"],
+        },
+        {  # Quant included in full -> kept
+            "id": "s4",
+            "active": True,
+            "is_visible": True,
+            "category": "Quant",
+            "company_name": "HRT",
+            "title": "Quantitative Researcher, New Grad",
+            "url": "https://example.com/4",
+            "locations": ["NYC"],
+        },
+        {  # Hardware -> dropped
+            "id": "s7",
+            "active": True,
+            "is_visible": True,
+            "category": "Hardware",
+            "company_name": "X",
+            "title": "ASIC Design Engineer, New Grad",
+            "url": "u",
+            "locations": ["NYC"],
+        },
+        {  # inactive -> dropped
+            "id": "s5",
             "active": False,
             "is_visible": True,
-            "category": "Software Engineering",
+            "category": "Software",
             "company_name": "X",
             "title": "T",
             "url": "u",
             "locations": ["NYC"],
         },
-        {  # wrong category -> dropped
-            "id": "s3",
+        {  # unrelated category -> dropped
+            "id": "s6",
             "active": True,
             "is_visible": True,
-            "category": "Data Science",
+            "category": "Product",
             "company_name": "X",
-            "title": "T",
+            "title": "Product Manager, New Grad",
             "url": "u",
             "locations": ["NYC"],
         },
     ]
     jobs = simplify._to_jobs(payload)
-    assert [j.native_id for j in jobs] == ["s1"]
+    assert [j.native_id for j in jobs] == ["s1", "s2", "s3", "s4"]
     assert jobs[0].source == "simplify"

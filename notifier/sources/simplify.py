@@ -16,6 +16,18 @@ LISTINGS_URL = (
     "New-Grad-Positions/dev/.github/scripts/listings.json"
 )
 
+# Simplify's current main category is "Software"; "Software Engineering" and
+# "Data Science, AI & Machine Learning" are legacy values still present on a
+# handful of listings. AI/ML/Data and Quant included in full by user choice
+# (2026-07-22); Hardware and Product intentionally excluded.
+_CATEGORIES = {
+    "Software",
+    "Software Engineering",
+    "AI/ML/Data",
+    "Data Science, AI & Machine Learning",
+    "Quant",
+}
+
 
 def _to_jobs(payload: list) -> list[Job]:
     jobs = []
@@ -23,7 +35,7 @@ def _to_jobs(payload: list) -> list[Job]:
         if not (
             item.get("active")
             and item.get("is_visible")
-            and item.get("category") == "Software Engineering"
+            and item.get("category") in _CATEGORIES
         ):
             continue
         job = Job(

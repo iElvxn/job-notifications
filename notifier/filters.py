@@ -48,6 +48,12 @@ _SOFTWARE = re.compile(
 )
 
 
+def is_software_title(title: str) -> bool:
+    """Loose engineering check used to gate adjacent categories (AI/ML, Quant)
+    from pre-curated feeds like SimplifyJobs."""
+    return bool(_SOFTWARE.search(title))
+
+
 def compile_extra(pattern: str | None) -> re.Pattern | None:
     """Compile a per-company extra include pattern from companies.yml
     (e.g. Salesforce titles new-grad roles 'MTS'/'AMTS')."""
@@ -88,6 +94,18 @@ _STATE_NAMES = {
 }
 
 
+# Major US metros that often appear without a state qualifier.
+_US_CITIES = {
+    "nyc", "new york city", "san francisco", "sf", "seattle", "austin",
+    "boston", "chicago", "los angeles", "san jose", "palo alto",
+    "mountain view", "sunnyvale", "santa clara", "menlo park", "cupertino",
+    "redmond", "bellevue", "denver", "atlanta", "miami", "dallas", "houston",
+    "san diego", "irvine", "portland", "pittsburgh", "philadelphia",
+    "washington dc", "washington d c", "salt lake city", "raleigh",
+    "minneapolis", "nashville", "phoenix", "detroit", "charlotte",
+}
+
+
 def is_us_location(location: str) -> bool:
     if _US_HINTS.search(location):
         return True
@@ -96,7 +114,11 @@ def is_us_location(location: str) -> bool:
         return True
     for token in re.split(r"[,;/()\-–]", location):
         token = token.strip()
-        if token in _STATE_ABBRS or token.lower() in _STATE_NAMES:
+        if (
+            token in _STATE_ABBRS
+            or token.lower() in _STATE_NAMES
+            or token.lower() in _US_CITIES
+        ):
             return True
     return False
 
