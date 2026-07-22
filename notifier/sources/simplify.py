@@ -6,6 +6,8 @@ filter. This is also the safety net for companies without a direct adapter
 yet (Microsoft, Apple, Meta, ...).
 """
 
+from datetime import datetime, timezone
+
 import requests
 
 from notifier.filters import job_in_us
@@ -38,6 +40,7 @@ def _to_jobs(payload: list) -> list[Job]:
             and item.get("category") in _CATEGORIES
         ):
             continue
+        posted = item.get("date_posted")
         job = Job(
             source="simplify",
             native_id=str(item["id"]),
@@ -45,6 +48,9 @@ def _to_jobs(payload: list) -> list[Job]:
             title=item["title"],
             url=item["url"],
             locations=item.get("locations") or [],
+            posted_at=datetime.fromtimestamp(posted, tz=timezone.utc).date().isoformat()
+            if posted
+            else None,
         )
         if job_in_us(job):
             jobs.append(job)
