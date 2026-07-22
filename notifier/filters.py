@@ -18,6 +18,7 @@ _INCLUDE = re.compile(
     | early[ -]career
     | early[ -]in[ -]career
     | entry[ -]level
+    | \bjunior\b
     | campus
     | \bgraduate\b
     | (software\ )?engineer\ (i|1)\b
@@ -106,3 +107,18 @@ def job_in_us(job: Job) -> bool:
     if not job.locations:
         return True
     return any(is_us_location(loc) for loc in job.locations)
+
+
+# --- Cross-source dedup ------------------------------------------------------
+
+_NON_ALNUM = re.compile(r"[^a-z0-9]+")
+
+
+def dedup_key(job: Job) -> str:
+    """Normalized company|title key so the same role arriving from two sources
+    (e.g. simplify and a direct adapter) only notifies once. Company collapses
+    to its first alphanumeric token ("Amazon.com Services LLC" -> "amazon")."""
+    company_tokens = _NON_ALNUM.split(job.company.lower())
+    company = next((t for t in company_tokens if t), "")
+    title = _NON_ALNUM.sub(" ", job.title.lower()).strip()
+    return f"{company}|{title}"

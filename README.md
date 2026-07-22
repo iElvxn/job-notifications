@@ -1,8 +1,9 @@
 # job-notifications
 
-Watches for new-grad SWE postings across many sources and pings a Discord
+Watches for new-grad SWE postings across 40+ sources and pings a Discord
 channel via webhook, usually within 15 minutes of a role going live. Runs free
-on a GitHub Actions cron — no server to maintain.
+on a GitHub Actions cron — no server to maintain. (The repo is public so
+Actions minutes are unlimited; the webhook URL lives in a repo secret.)
 
 ## Sources
 
@@ -10,11 +11,24 @@ on a GitHub Actions cron — no server to maintain.
 |---|---|---|
 | `simplify` | Broad baseline: hundreds of companies incl. Microsoft/Apple/Meta/Google | [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) `listings.json` (curated, updated hourly) |
 | `amazon` | Amazon SDE new-grad roles, minutes after posting | amazon.jobs `search.json` (unofficial GET API) |
-| `greenhouse/*` | Stripe, Databricks, Anthropic | official public board API |
-| `ashby/*` | OpenAI, Ramp, Notion | official public posting API |
-| `lever/*` | (none yet — adapter ready) | official public postings API |
-| `workday/*` | NVIDIA, Salesforce | unofficial cxs API (POST, 20 results/page) |
-| `eightfold/*` | Netflix | unofficial Eightfold API |
+| `greenhouse/*` | Stripe, Databricks, Anthropic, Figma, Coinbase, Datadog, Waymo, xAI, + ~20 more incl. quant (HRT, Jump, Akuna, IMC) | official public board API |
+| `ashby/*` | OpenAI, Ramp, Notion, Cursor, Linear, Modal | official public posting API |
+| `lever/*` | Palantir, Plaid | official public postings API |
+| `workday/*` | NVIDIA, Salesforce, Adobe (university site) | unofficial cxs API (POST, 20 results/page) |
+| `eightfold/*` | Netflix, Snowflake | unofficial Eightfold API |
+
+**Tiers:** tier-1 companies (the dream list) are polled every run (~15 min);
+tier-2 (`tier: 2` in the config) roughly every other run (~30 min), gated by
+elapsed time in state rather than wall-clock minutes because Actions cron
+fires late routinely.
+
+**Cross-source dedup:** a role already notified under the same normalized
+company+title (e.g. via SimplifyJobs *and* a direct adapter) is only sent
+once; dedup keys are pruned from state after 90 days.
+
+**Not pollable (own portals, covered via `simplify` only):** Jane Street,
+Two Sigma, Citadel, Tesla, Uber, Microsoft, Apple, Meta, Google. Intuit's
+Workday tenant rejects anonymous API calls.
 
 Direct-company sources apply a **balanced new-grad title filter** (matches
 "new grad" / "university graduate" / "entry level" / "SWE I" / class-year

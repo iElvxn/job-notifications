@@ -1,6 +1,12 @@
-# Companies polled directly, grouped by ATS. All slugs verified live 2026-07-21.
+# Companies polled directly, grouped by ATS. All slugs verified live 2026-07-22.
 # To add a company: find its ATS from the careers-page URL, add an entry here.
 # New sources seed silently on their first run (no notification backlog spam).
+#
+# tier: 1 (default) = polled every 15 min; tier: 2 = polled every ~30 min.
+#
+# Own-portal companies we can't poll (covered via the SimplifyJobs baseline):
+# Jane Street, Two Sigma, Citadel, Tesla, Uber, Microsoft, Apple, Meta, Google.
+# Intuit's Workday tenant requires session tokens (401) — also skipped.
 
 greenhouse:
   - company: Stripe
@@ -9,6 +15,86 @@ greenhouse:
     token: databricks
   - company: Anthropic
     token: anthropic
+  - company: Figma
+    token: figma
+  - company: Coinbase
+    token: coinbase
+  - company: Datadog
+    token: datadog
+  - company: Waymo
+    token: waymo
+  - company: xAI
+    token: xai
+  - company: Robinhood
+    token: robinhood
+    tier: 2
+  - company: DoorDash
+    token: doordashusa
+    tier: 2
+  - company: Duolingo
+    token: duolingo
+    tier: 2
+  - company: Pinterest
+    token: pinterest
+    tier: 2
+  - company: Roblox
+    token: roblox
+    tier: 2
+  - company: MongoDB
+    token: mongodb
+    tier: 2
+  - company: Cloudflare
+    token: cloudflare
+    tier: 2
+  - company: Dropbox
+    token: dropbox
+    tier: 2
+  - company: Affirm
+    token: affirm
+    tier: 2
+  - company: Discord
+    token: discord
+    tier: 2
+  - company: Reddit
+    token: reddit
+    tier: 2
+  - company: Lyft
+    token: lyft
+    tier: 2
+  - company: Instacart
+    token: instacart
+    tier: 2
+  - company: Samsara
+    token: samsara
+    tier: 2
+  - company: Verkada
+    token: verkada
+    tier: 2
+  - company: Gusto
+    token: gusto
+    tier: 2
+  - company: Airbnb
+    token: airbnb
+    tier: 2
+  - company: Vercel
+    token: vercel
+    tier: 2
+  - company: Scale AI
+    token: scaleai
+    tier: 2
+  # Quant/trading
+  - company: Hudson River Trading
+    token: wehrtyou
+    tier: 2
+  - company: Jump Trading
+    token: jumptrading
+    tier: 2
+  - company: Akuna Capital
+    token: akunacapital
+    tier: 2
+  - company: IMC Trading
+    token: imc
+    tier: 2
 
 ashby:
   - company: OpenAI
@@ -17,10 +103,22 @@ ashby:
     board: ramp
   - company: Notion
     board: notion
+  - company: Cursor
+    board: cursor
+    tier: 2
+  - company: Linear
+    board: linear
+    tier: 2
+  - company: Modal
+    board: modal
+    tier: 2
 
-lever: []
-  # - company: ExampleCo
-  #   slug: exampleco
+lever:
+  - company: Palantir
+    slug: palantir
+  - company: Plaid
+    slug: plaid
+    tier: 2
 
 workday:
   - company: NVIDIA
@@ -36,9 +134,20 @@ workday:
     # Salesforce titles its new-grad/entry level "AMTS"/"MTS" (but SMTS/LMTS
     # are senior/lead — \b keeps those out).
     extra_include: '\ba?mts\b'
+  - company: Adobe
+    host: adobe.wd5.myworkdayjobs.com
+    tenant: adobe
+    site: external_university
+    search: software engineer
+    tier: 2
 
 eightfold:
   - company: Netflix
     base: https://explore.jobs.netflix.net
     domain: netflix.com
     query: software engineer
+  - company: Snowflake
+    base: https://careers.snowflake.com
+    domain: snowflake.com
+    query: software engineer
+    tier: 2

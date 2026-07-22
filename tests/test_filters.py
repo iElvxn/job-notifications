@@ -14,6 +14,7 @@ NEW_GRAD_TITLES = [
     "Entry-Level Software Developer",
     "Campus Hire - Backend Engineer",
     "SWE I, Infrastructure",
+    "Junior Software Engineer",
 ]
 
 REJECTED_TITLES = [
@@ -101,3 +102,20 @@ def test_job_in_us_any_location_matches():
 
 def test_job_with_unknown_locations_passes():
     assert job_in_us(_job([]))
+
+
+# --- cross-source dedup key --------------------------------------------------
+
+
+def test_dedup_key_normalizes_company_and_title():
+    from notifier.filters import dedup_key
+
+    a = Job(source="amazon", native_id="1", company="Amazon.com Services LLC",
+            title="Software Dev Engineer I - AWS", url="u")
+    b = Job(source="simplify", native_id="x", company="Amazon",
+            title="Software Dev Engineer I – AWS", url="u2")
+    assert dedup_key(a) == dedup_key(b) == "amazon|software dev engineer i aws"
+
+    c = Job(source="simplify", native_id="y", company="Amazon",
+            title="Software Dev Engineer I - Alexa", url="u3")
+    assert dedup_key(c) != dedup_key(a)
