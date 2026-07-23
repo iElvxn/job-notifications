@@ -585,6 +585,7 @@
   "simplify:4586102e-6794-4500-8258-2f0a102e421c": "2026-07-22",
   "simplify:45dea49f-578f-44df-9362-daf85538719f": "2026-07-22",
   "simplify:45f9bf7a-34f7-48f8-93df-4a905d6c7dda": "2026-07-22",
+  "simplify:4600d580-8dad-49ce-93c7-89ae51839461": "2026-07-23",
   "simplify:460b6640-45d1-4a42-94ac-6d460f1287b6": "2026-07-22",
   "simplify:463c058a-22e8-40d0-a453-02ad426e2c59": "2026-07-22",
   "simplify:46559c4a-45e1-49d2-87bb-cca40667e187": "2026-07-22",
@@ -1116,6 +1117,7 @@
   "simplify:924fc467-6a00-4b71-a7f6-bbad54acd4c5": "2026-07-22",
   "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e": "2026-07-22",
   "simplify:92f51bb6-ce6a-4bb2-9a70-c8583e637306": "2026-07-22",
+  "simplify:93256d0a-8438-4762-951a-51e4ca7fe948": "2026-07-23",
   "simplify:932f4ea0-7684-4b05-a032-b724abdd56d3": "2026-07-22",
   "simplify:9383654e-9231-4cd4-8264-8af3837f9686": "2026-07-22",
   "simplify:939c8fec-74a5-4b4f-8885-23c551df8eca": "2026-07-22",
@@ -1341,6 +1343,7 @@
   "simplify:b05faab6-7134-4621-a8ae-1738cf6af615": "2026-07-22",
   "simplify:b065707e-df8b-4ae6-9436-f71afb2dfe41": "2026-07-22",
   "simplify:b09d7306-4475-4ca5-be47-5b9888b848ec": "2026-07-22",
+  "simplify:b0afbb22-80b8-44ed-9b73-50455ea27dea": "2026-07-23",
   "simplify:b0c1fce6-a504-4605-bd96-60c68d541ad2": "2026-07-22",
   "simplify:b0de04a6-86de-4f47-b55b-b49784fc6c07": "2026-07-22",
   "simplify:b0e03cfa-ca6f-44e1-980f-5fabc237b26d": "2026-07-22",
@@ -2738,6 +2741,7 @@
   "maven|trading analyst python": "2026-07-22",
   "may|senior autonomy engineer": "2026-07-22",
   "mcdonald|software engineer 1 c": "2026-07-22",
+  "mcmaster|technology development design": "2026-07-23",
   "mechanize|junior software engineer": "2026-07-22",
   "medical|postdoctoral researcher data science institute": "2026-07-22",
   "medimpact|full stack software engineer 1": "2026-07-22",
@@ -3291,6 +3295,7 @@
   "truebuilt|founding engineer": "2026-07-22",
   "truepoint|associate trader": "2026-07-22",
   "truist|associate ai data consultant": "2026-07-22",
+  "truist|data scientist 1": "2026-07-23",
   "truveta|machine learning postdoctoral researcher healthcare ai innovation": "2026-07-22",
   "truveta|software engineer backend services": "2026-07-22",
   "truveta|software engineer person matching": "2026-07-22",
@@ -3489,5 +3494,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-22T23:37:06+00:00"
+ "last_tier2_at": "2026-07-23T01:09:01+00:00"
 }
