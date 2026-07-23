@@ -2024,6 +2024,7 @@
   "workday/nvidia:JR2021228": "2026-07-22",
   "workday/nvidia:JR2021230": "2026-07-22",
   "workday/nvidia:JR2021242": "2026-07-22",
+  "workday/nvidia:JR2021591": "2026-07-23",
   "workday/nvidia:JR2021742": "2026-07-22",
   "workday/nvidia:JR2021823": "2026-07-23",
   "workday/salesforce:JR349609": "2026-07-22",
@@ -3012,6 +3013,7 @@
   "nv5|researcher 1": "2026-07-22",
   "nv5|survey cad drafter": "2026-07-22",
   "nv5|survey mapping drafter": "2026-07-22",
+  "nvidia|ai and ml infra software engineer gpu clusters new college grad 2026": "2026-07-23 workday",
   "nvidia|ai developer technology engineer financial sector": "2026-07-22",
   "nvidia|applied machine learning engineer new college grad 2026 circuit design": "2026-07-22",
   "nvidia|asic hardware design engineer new college grad 2026": "2026-07-22",
@@ -3655,5 +3657,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-23T20:33:49+00:00"
+ "last_tier2_at": "2026-07-23T21:39:43+00:00"
 }
