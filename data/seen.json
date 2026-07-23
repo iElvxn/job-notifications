@@ -695,6 +695,7 @@
   "simplify:4bdda1e0-d0b1-4b52-bc25-7177c0cdf1aa": "2026-07-22",
   "simplify:4bfdcf9a-86b5-42ac-99e3-8b8580c384d6": "2026-07-22",
   "simplify:4c1cfc26-75fa-4773-a2ef-3d4b85926e9e": "2026-07-22",
+  "simplify:4c2be7ac-eebd-440e-964d-55577780ece6": "2026-07-23",
   "simplify:4c7af976-72a8-4a39-a281-f5661002ac5a": "2026-07-22",
   "simplify:4c7f2e15-e046-4fc1-8414-98e2239387b0": "2026-07-22",
   "simplify:4c9197d3-4b8c-421b-916c-604704af2f25": "2026-07-22",
@@ -1061,6 +1062,7 @@
   "simplify:7bd6d4b2-7f58-44d8-b17b-c9825db464b0": "2026-07-22",
   "simplify:7bde2c71-7e49-4e05-a5b4-6a3d1e651706": "2026-07-22",
   "simplify:7be86b0e-5b51-46fd-9eac-67bf83afe6af": "2026-07-22",
+  "simplify:7c2fa168-ddab-4de9-b079-324d9c069d22": "2026-07-23",
   "simplify:7c39ac7e-0e21-4d1a-a728-c3f745ea9918": "2026-07-22",
   "simplify:7c7c7353-5820-41bb-a47b-a57e9fd1f739": "2026-07-22",
   "simplify:7cd8d110-7c75-470e-8d65-dbc17f8a6017": "2026-07-22",
@@ -1561,6 +1563,7 @@
   "simplify:c193c408-add9-40a6-868f-c89a718f5272": "2026-07-22",
   "simplify:c1b62322-6a6c-4f98-812e-a753548b255c": "2026-07-22",
   "simplify:c1ff56ac-26f7-410b-8c9e-0dd35d354e18": "2026-07-22",
+  "simplify:c218131b-b198-483e-94bc-03192688c34b": "2026-07-23",
   "simplify:c22ed2b1-7dbc-4fec-8e24-0ed23174312c": "2026-07-22",
   "simplify:c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8": "2026-07-22",
   "simplify:c2a64f1a-65f7-4c6f-840f-518f7696cf6d": "2026-07-22",
@@ -2191,6 +2194,7 @@
   "axos|data engineer": "2026-07-22",
   "axos|junior business technology analyst application developer": "2026-07-22",
   "axq|quantitative developer": "2026-07-22",
+  "azenta|software developer": "2026-07-23 simplify",
   "babel|data warehouse software engineer 1": "2026-07-22",
   "babel|software engineer": "2026-07-22",
   "backbone|founding engineer applied research": "2026-07-22",
@@ -2719,6 +2723,7 @@
   "integrity|data integrity specialist": "2026-07-22",
   "integrity|software engineer 1": "2026-07-22",
   "intel|image processing engineer c linux": "2026-07-22",
+  "intel|software development engineer": "2026-07-23 simplify",
   "intercontinental|data scientist associate": "2026-07-22",
   "intercontinental|property data operations associate": "2026-07-22",
   "intercontinental|property data solutions associate": "2026-07-22",
@@ -3657,5 +3662,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-23T21:39:43+00:00"
+ "last_tier2_at": "2026-07-23T22:35:32+00:00"
 }
