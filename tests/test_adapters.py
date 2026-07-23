@@ -165,6 +165,60 @@ def test_amazon_parse():
     assert jobs[0].url == "https://www.amazon.jobs/en/jobs/111/sde"
 
 
+def test_microsoft_parse():
+    from notifier.sources import microsoft
+
+    payload = {
+        "data": {
+            "positions": [
+                {  # bare "Software Engineer" = Microsoft's entry level -> kept
+                    "id": 1970393556940367,
+                    "name": "Software Engineer",
+                    "locations": ["United States, Washington, Redmond"],
+                    "postedTs": 1784307553,
+                },
+                {  # explicit new-grad title -> kept
+                    "id": 2,
+                    "name": "Software Engineer: New Grad",
+                    "locations": ["United States, Washington, Redmond"],
+                },
+                {  # leveled -> dropped
+                    "id": 3,
+                    "name": "Software Engineer II & Senior Software Engineer",
+                    "locations": ["United States, Washington, Redmond"],
+                },
+                {  # arabic level -> dropped
+                    "id": 4,
+                    "name": "Software Engineer 2",
+                    "locations": ["United States, Washington, Redmond"],
+                },
+                {  # senior combo -> dropped
+                    "id": 5,
+                    "name": "Software Engineer / Senior Software Engineer - .NET",
+                    "locations": ["United States, Washington, Redmond"],
+                },
+                {  # non-US -> dropped
+                    "id": 6,
+                    "name": "Software Engineer",
+                    "locations": ["Czech Republic, Prague, Prague"],
+                },
+                {  # IC2 = Microsoft's entry band -> kept
+                    "id": 7,
+                    "name": "Software Engineering IC2",
+                    "locations": ["United States, Washington, Redmond"],
+                },
+            ]
+        }
+    }
+    jobs = microsoft._to_jobs(payload)
+    assert [j.native_id for j in jobs] == ["1970393556940367", "2", "7"]
+    assert jobs[0].url == (
+        "https://apply.careers.microsoft.com/careers/job/"
+        "1970393556940367?domain=microsoft.com"
+    )
+    assert jobs[0].posted_at == "2026-07-17"
+
+
 def test_simplify_parse():
     payload = [
         {  # legacy category value -> kept
@@ -187,7 +241,7 @@ def test_simplify_parse():
             "url": "https://example.com/2",
             "locations": ["Mountain View, CA"],
         },
-        {  # AI/ML/Data included in full -> kept
+        {  # AI/ML/Data -> dropped (SWE only)
             "id": "s3",
             "active": True,
             "is_visible": True,
@@ -197,7 +251,7 @@ def test_simplify_parse():
             "url": "https://example.com/3",
             "locations": ["San Francisco, CA"],
         },
-        {  # Quant included in full -> kept
+        {  # Quant -> dropped (SWE only)
             "id": "s4",
             "active": True,
             "is_visible": True,
@@ -239,5 +293,5 @@ def test_simplify_parse():
         },
     ]
     jobs = simplify._to_jobs(payload)
-    assert [j.native_id for j in jobs] == ["s1", "s2", "s3", "s4"]
+    assert [j.native_id for j in jobs] == ["s1", "s2"]
     assert jobs[0].source == "simplify"

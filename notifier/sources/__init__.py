@@ -13,7 +13,16 @@ from typing import NamedTuple
 import yaml
 
 from notifier.models import Job
-from notifier.sources import amazon, ashby, eightfold, greenhouse, lever, simplify, workday
+from notifier.sources import (
+    amazon,
+    ashby,
+    eightfold,
+    greenhouse,
+    lever,
+    microsoft,
+    simplify,
+    workday,
+)
 
 CONFIG_PATH = Path(__file__).resolve().parent.parent.parent / "config" / "companies.yml"
 
@@ -39,6 +48,7 @@ def build_sources(config_path: Path = CONFIG_PATH) -> list[Source]:
     sources = [
         Source("simplify", simplify.fetch, 1),
         Source("amazon", amazon.fetch, 1),
+        Source("microsoft", microsoft.fetch, 1),
     ]
     for family, (module, slug_key) in _ATS_ADAPTERS.items():
         for entry in config.get(family) or []:

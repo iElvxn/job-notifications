@@ -15,6 +15,7 @@ NEW_GRAD_TITLES = [
     "Campus Hire - Backend Engineer",
     "SWE I, Infrastructure",
     "Junior Software Engineer",
+    "New Graduate Engineer, Flight Software (Starlink)",  # discipline words absent
 ]
 
 REJECTED_TITLES = [
@@ -31,6 +32,11 @@ REJECTED_TITLES = [
     "Machine Learning Co-op 2026",
     "Director of Engineering",
     "Experienced Software Engineer",
+    "2026 Early Career Electrical Engineer",  # non-software discipline
+    "December 2026 New Graduate Engineer, Mechanical (Starship)",
+    "Graduate FPGA Engineer (2027 Start)",
+    "New Graduate Engineer, Propulsion",
+    "2026 Early Career Engineering Finance Associate",
 ]
 
 

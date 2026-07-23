@@ -1,7 +1,15 @@
 import json
 from datetime import datetime, timedelta
 
-from notifier.state import load_state, save_state, tier2_due, today
+from notifier.state import (
+    load_state,
+    notified_date,
+    notified_family,
+    notified_value,
+    save_state,
+    tier2_due,
+    today,
+)
 
 
 def test_missing_file_returns_empty_state(tmp_path):
@@ -28,7 +36,8 @@ def test_round_trip_sorts_dedupes_and_prunes(tmp_path):
         {
             "seeded_sources": ["b", "a", "b"],
             "seen": {"b:2": "2026-07-21", "a:1": "2026-07-20"},
-            "notified_keys": {"acme|swe": today(), "old|swe": "2020-01-01"},
+            "notified_keys": {"acme|swe": notified_value("greenhouse"),
+                              "old|swe": "2020-01-01"},
             "last_tier2_at": "2026-07-22T00:00:00-04:00",
         },
         path,
@@ -37,8 +46,17 @@ def test_round_trip_sorts_dedupes_and_prunes(tmp_path):
     assert state["seeded_sources"] == ["a", "b"]
     assert list(state["seen"]) == ["a:1", "b:2"]
     assert "acme|swe" in state["notified_keys"]
-    assert "old|swe" not in state["notified_keys"]  # pruned (>90 days)
+    assert "old|swe" not in state["notified_keys"]  # pruned (>7 days)
     assert state["last_tier2_at"] == "2026-07-22T00:00:00-04:00"
+
+
+def test_notified_value_round_trip_and_legacy():
+    value = notified_value("microsoft")
+    assert notified_date(value) == today()
+    assert notified_family(value) == "microsoft"
+    # Legacy bare-date values (pre-source-tracking) have no family.
+    assert notified_date("2026-07-22") == "2026-07-22"
+    assert notified_family("2026-07-22") is None
 
 
 def test_tier2_due():

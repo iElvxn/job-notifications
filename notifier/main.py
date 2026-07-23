@@ -11,7 +11,10 @@ Behavior:
 - A source seen for the first time is seeded silently (no notification spam
   when a new company is added to the config).
 - Cross-source dedup: a role already notified under the same normalized
-  company|title key (e.g. via SimplifyJobs) is marked seen but not re-sent.
+  company|title key by a *different* source family (e.g. via SimplifyJobs)
+  is marked seen but not re-sent. Same-family repeats notify: distinct reqs
+  legitimately share generic titles (Microsoft's bare "Software Engineer"),
+  and within one source distinct uids are distinct roles.
 """
 
 import os
@@ -22,7 +25,15 @@ from concurrent.futures import ThreadPoolExecutor
 from notifier.discord import send_new_jobs
 from notifier.filters import dedup_key
 from notifier.sources import build_sources
-from notifier.state import load_state, now_iso, save_state, tier2_due, today
+from notifier.state import (
+    load_state,
+    notified_family,
+    notified_value,
+    now_iso,
+    save_state,
+    tier2_due,
+    today,
+)
 
 MAX_FETCH_WORKERS = 8
 
@@ -58,11 +69,12 @@ def main() -> None:
             print(f"[{name}] FAILED:\n{traceback.format_exc()}", file=sys.stderr)
             continue
 
+        family = name.split("/", 1)[0]
         if name not in seeded:
             seeded.add(name)
             for job in jobs:
                 seen[job.uid] = today()
-                notified_keys[dedup_key(job)] = today()
+                notified_keys[dedup_key(job)] = notified_value(family)
             print(f"[{name}] first run: seeded {len(jobs)} job(s), no notifications")
             continue
 
@@ -71,10 +83,11 @@ def main() -> None:
         for job in fresh:
             seen[job.uid] = today()
             key = dedup_key(job)
-            if key in notified_keys:
+            prior = notified_keys.get(key)
+            if prior is not None and notified_family(prior) != family:
                 print(f"[{name}] duplicate of already-notified role, skipping: {job.title}")
                 continue
-            notified_keys[key] = today()
+            notified_keys[key] = notified_value(family)
             to_notify.append(job)
         new_jobs.extend(to_notify)
         print(f"[{name}] {len(jobs)} matching, {len(to_notify)} new")

@@ -13,6 +13,7 @@ DELAY_BETWEEN_MESSAGES_SECONDS = 1
 _SOURCE_COLORS = {
     "simplify": 0x95A5A6,  # gray — aggregator baseline
     "amazon": 0xFF9900,
+    "microsoft": 0x0078D4,  # Microsoft blue
     "google": 0x4285F4,
     "eightfold": 0xE50914,  # Netflix red
     "workday": 0x76B900,

@@ -1,6 +1,6 @@
 # job-notifications
 
-Watches for new-grad SWE postings across 40+ sources and pings a Discord
+Watches for new-grad SWE postings across 80+ sources and pings a Discord
 channel via webhook, usually within 15 minutes of a role going live. Runs free
 on a GitHub Actions cron — no server to maintain. (The repo is public so
 Actions minutes are unlimited; the webhook URL lives in a repo secret.)
@@ -9,12 +9,13 @@ Actions minutes are unlimited; the webhook URL lives in a repo secret.)
 
 | Source | What it covers | How |
 |---|---|---|
-| `simplify` | Broad baseline: hundreds of companies incl. Microsoft/Apple/Meta/Google | [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) `listings.json` (curated, updated hourly) |
+| `simplify` | Broad baseline: hundreds of companies incl. Microsoft/Apple/Meta/Google; SWE category only (AI/ML/Data and Quant categories excluded by choice) | [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) `listings.json` (curated, updated hourly) |
 | `amazon` | Amazon SDE new-grad roles, minutes after posting | amazon.jobs `search.json` (unofficial GET API) |
-| `greenhouse/*` | Stripe, Databricks, Anthropic, Figma, Coinbase, Datadog, Waymo, xAI, + ~20 more incl. quant (HRT, Jump, Akuna, IMC) | official public board API |
-| `ashby/*` | OpenAI, Ramp, Notion, Cursor, Linear, Modal | official public posting API |
-| `lever/*` | Palantir, Plaid | official public postings API |
-| `workday/*` | NVIDIA, Salesforce, Adobe (university site) | unofficial cxs API (POST, 20 results/page) |
+| `microsoft` | Microsoft entry-level SWE (bare "Software Engineer" / "IC2" titles = their entry band, plus explicit new-grad titles) | apply.careers.microsoft.com `api/pcsx/search` (unofficial Eightfold-PCSX API; newest 50, paginated 10/page, `sort_by=timestamp`) |
+| `greenhouse/*` | Stripe, Databricks, Anthropic, Figma, Coinbase, Datadog, Waymo, xAI, SpaceX, Anduril, + ~30 more incl. quant (HRT, Jump, Akuna, IMC, Optiver, DRW, Five Rings, Point72, Squarepoint, ...) | official public board API |
+| `ashby/*` | OpenAI, Ramp, Notion, Cursor, Linear, Modal, Perplexity, Sierra, Harvey, ElevenLabs, Vanta, Replit, Supabase, Benchling | official public posting API |
+| `lever/*` | Palantir, Plaid, Zoox | official public postings API |
+| `workday/*` | NVIDIA, Salesforce, Adobe (university site), Snap, Intel, Workday | unofficial cxs API (POST, 20 results/page) |
 | `eightfold/*` | Netflix, Snowflake | unofficial Eightfold API |
 
 **Tiers:** tier-1 companies (the dream list) are polled every run (~15 min);
@@ -23,18 +24,25 @@ elapsed time in state rather than wall-clock minutes because Actions cron
 fires late routinely.
 
 **Cross-source dedup:** a role already notified under the same normalized
-company+title (e.g. via SimplifyJobs *and* a direct adapter) is only sent
-once; dedup keys are pruned from state after 90 days.
+company+title by a *different* source family (e.g. via SimplifyJobs *and* a
+direct adapter) is only sent once. Same-family repeats still notify —
+distinct reqs legitimately share generic titles (Microsoft posts many bare
+"Software Engineer" reqs). Keys are pruned after 7 days: long enough to
+cover the cross-source arrival lag, short enough not to suppress genuinely
+new same-titled postings.
 
 **Not pollable (own portals, covered via `simplify` only):** Jane Street,
-Two Sigma, Citadel, Tesla, Uber, Microsoft, Apple, Meta, Google. Intuit's
-Workday tenant rejects anonymous API calls.
+Two Sigma, Citadel, Tesla, Uber, Apple, Meta, Google, Qualcomm,
+AMD, EA, ServiceNow, Atlassian, Rippling, Applied Intuition. Intuit's
+Workday tenant rejects anonymous API calls. Details in `config/companies.yml`.
 
 Direct-company sources apply a **balanced new-grad title filter** (matches
 "new grad" / "university graduate" / "entry level" / "SWE I" / class-year
-tokens; rejects senior/staff/intern/PhD/level-II+) plus a **US-only location
-filter**. SimplifyJobs is already new-grad-curated, so only the location
-filter applies there.
+tokens; rejects senior/staff/intern/PhD/level-II+ and non-software
+disciplines — mechanical/electrical/FPGA/etc., which SpaceX-type boards list
+as new-grad "engineer" roles) plus a **US-only location filter**.
+SimplifyJobs is already new-grad-curated, so only the SWE-category and
+location filters apply there.
 
 ## How it works
 
@@ -92,9 +100,10 @@ pytest   # filter + adapter parsing tests
 
 ## Phase 2 ideas (not built)
 
-- **Microsoft / Apple / Meta / Google bespoke adapters** — their career sites
-  need CSRF/GraphQL tokens or client-side RPC (Google embeds no job JSON in
-  the page at all, verified 2026-07-21). Covered by `simplify` meanwhile. An
+- **Apple / Meta / Google bespoke adapters** — their career sites need
+  CSRF/GraphQL tokens or client-side RPC (Google embeds no job JSON in the
+  page at all, verified 2026-07-21). Covered by `simplify` meanwhile. An
   Apify-actor-backed adapter is a drop-in fallback if faster coverage is ever
-  worth paying for.
+  worth paying for. (Microsoft graduated from this list 2026-07-23 — their
+  Eightfold-PCSX search API turned out to accept anonymous GETs.)
 - **LinkedIn/Indeed** — intentionally excluded; both actively fight scrapers.

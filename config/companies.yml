@@ -1,12 +1,22 @@
-# Companies polled directly, grouped by ATS. All slugs verified live 2026-07-22.
-# To add a company: find its ATS from the careers-page URL, add an entry here.
-# New sources seed silently on their first run (no notification backlog spam).
+# Companies polled directly, grouped by ATS. All slugs verified live
+# 2026-07-22/23. To add a company: find its ATS from the careers-page URL, add
+# an entry here. New sources seed silently on their first run (no notification
+# backlog spam).
 #
 # tier: 1 (default) = polled every 15 min; tier: 2 = polled every ~30 min.
 #
+# Microsoft is polled via the bespoke notifier/sources/microsoft.py adapter
+# (Eightfold-PCSX API), not from this file.
+#
 # Own-portal companies we can't poll (covered via the SimplifyJobs baseline):
-# Jane Street, Two Sigma, Citadel, Tesla, Uber, Microsoft, Apple, Meta, Google.
+# Jane Street, Two Sigma, Citadel, Tesla, Uber, Apple, Meta, Google,
+# Qualcomm (wd12 Workday tenant is empty; careers.qualcomm.com blocks
+# anonymous calls), AMD, EA, ServiceNow, Atlassian (Lever board exists but is
+# abandoned/empty), Rippling, Applied Intuition.
 # Intuit's Workday tenant requires session tokens (401) — also skipped.
+# No public board found for: SIG, PEAK6, Radix Trading.
+# Deel/Mercury (Ashby) and Voleon/Kraken (Lever) boards exist but are empty —
+# rechecked 2026-07-23; re-add if they come back to life.
 
 greenhouse:
   - company: Stripe
@@ -82,7 +92,47 @@ greenhouse:
   - company: Scale AI
     token: scaleai
     tier: 2
-  # Quant/trading
+  - company: Anduril
+    token: andurilindustries
+    tier: 2
+  - company: SpaceX
+    token: spacex
+    tier: 2
+  - company: Brex
+    token: brex
+    tier: 2
+  - company: Chime
+    token: chime
+    tier: 2
+  - company: Twilio
+    token: twilio
+    tier: 2
+  - company: Okta
+    token: okta
+    tier: 2
+  - company: Asana
+    token: asana
+    tier: 2
+  - company: Squarespace
+    token: squarespace
+    tier: 2
+  - company: Roku
+    token: roku
+    tier: 2
+  - company: Nuro
+    token: nuro
+    tier: 2
+  - company: Aurora
+    token: aurorainnovation
+    tier: 2
+  - company: SoFi
+    token: sofi
+    tier: 2
+  - company: Riot Games
+    token: riotgames
+    tier: 2
+  # Quant/trading (the SWE title filter passes only engineer/developer roles,
+  # so trader/researcher postings on these boards never notify)
   - company: Hudson River Trading
     token: wehrtyou
     tier: 2
@@ -94,6 +144,39 @@ greenhouse:
     tier: 2
   - company: IMC Trading
     token: imc
+    tier: 2
+  - company: Optiver
+    token: optiverus
+    tier: 2
+  - company: DRW
+    token: drweng
+    tier: 2
+  - company: Five Rings
+    token: fiveringsllc
+    tier: 2
+  - company: Tower Research
+    token: towerresearchcapital
+    tier: 2
+  - company: XTX Markets
+    token: xtxmarketstechnologies
+    tier: 2
+  - company: Virtu Financial
+    token: virtu
+    tier: 2
+  - company: Flow Traders
+    token: flowtraders
+    tier: 2
+  - company: Point72
+    token: point72
+    tier: 2
+  - company: Squarepoint
+    token: squarepointcapital
+    tier: 2
+  - company: CTC
+    token: chicagotrading
+    tier: 2
+  - company: Old Mission
+    token: oldmissioncapital
     tier: 2
 
 ashby:
@@ -112,12 +195,39 @@ ashby:
   - company: Modal
     board: modal
     tier: 2
+  - company: Perplexity
+    board: perplexity
+    tier: 2
+  - company: Sierra
+    board: sierra
+    tier: 2
+  - company: Harvey
+    board: harvey
+    tier: 2
+  - company: ElevenLabs
+    board: elevenlabs
+    tier: 2
+  - company: Vanta
+    board: vanta
+    tier: 2
+  - company: Replit
+    board: replit
+    tier: 2
+  - company: Supabase
+    board: supabase
+    tier: 2
+  - company: Benchling
+    board: benchling
+    tier: 2
 
 lever:
   - company: Palantir
     slug: palantir
   - company: Plaid
     slug: plaid
+    tier: 2
+  - company: Zoox
+    slug: zoox
     tier: 2
 
 workday:
@@ -139,6 +249,24 @@ workday:
     tenant: adobe
     site: external_university
     search: software engineer
+    tier: 2
+  - company: Snap
+    host: snapchat.wd1.myworkdayjobs.com
+    tenant: snapchat
+    site: snap
+    search: new grad software engineer
+    tier: 2
+  - company: Intel
+    host: intel.wd1.myworkdayjobs.com
+    tenant: intel
+    site: External
+    search: graduate software engineer
+    tier: 2
+  - company: Workday
+    host: workday.wd5.myworkdayjobs.com
+    tenant: workday
+    site: Workday
+    search: new grad software engineer
     tier: 2
 
 eightfold:

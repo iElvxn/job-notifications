@@ -10,6 +10,7 @@ def test_build_sources_tiers():
     # Bespoke sources are always tier 1
     assert by_name["simplify"].tier == 1
     assert by_name["amazon"].tier == 1
+    assert by_name["microsoft"].tier == 1
 
     # Config-driven tier assignments
     assert by_name["greenhouse/stripe"].tier == 1  # default

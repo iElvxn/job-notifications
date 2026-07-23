@@ -36,6 +36,16 @@ _EXCLUDE = re.compile(
     | \bph\.?d\b | \bmba\b
     | \b(ii|iii|iv|v|vi)\b     # roman-numeral levels II and up
     | \bexperienced\b
+    # Non-software engineering disciplines (SpaceX/Anduril/quant boards list
+    # mechanical/electrical/FPGA new-grad roles that pass the loose
+    # "engineer" gate). Titles like "Flight Software Engineer" are unaffected.
+    | \bmechanical\b | \belectrical\b | \bpropulsion\b | \bstructural\b
+    | \bcivil\b | \bthermal\b | \bmaterials\b | \bmanufacturing\b
+    | \bindustrial\b | \bmechatronics\b | \bhardware\b | \bfpga\b
+    | \basic\b | \bsilicon\b | \brf\b
+    # Non-engineering functions whose titles still contain "engineering"
+    # (e.g. "Early Career Engineering Finance Associate")
+    | \bfinance\b | \baccounting\b | \bsales\b | \brecruit
     """,
     re.IGNORECASE | re.VERBOSE,
 )
@@ -46,12 +56,6 @@ _SOFTWARE = re.compile(
     r"software | \bswe\b | developer | \bengineer",
     re.IGNORECASE | re.VERBOSE,
 )
-
-
-def is_software_title(title: str) -> bool:
-    """Loose engineering check used to gate adjacent categories (AI/ML, Quant)
-    from pre-curated feeds like SimplifyJobs."""
-    return bool(_SOFTWARE.search(title))
 
 
 def compile_extra(pattern: str | None) -> re.Pattern | None:

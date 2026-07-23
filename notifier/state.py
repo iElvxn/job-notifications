@@ -4,9 +4,12 @@ data/seen.json:
     {
       "seeded_sources": ["simplify", ...],
       "seen": {"<uid>": "<first-seen date>"},
-      "notified_keys": {"<company|title dedup key>": "<date>"},
+      "notified_keys": {"<company|title dedup key>": "<date> <source family>"},
       "last_tier2_at": "<ISO datetime of last tier-2 poll>"
     }
+
+notified_keys values recorded before source families were tracked are bare
+dates; notified_family() returns None for those.
 
 Committed back to the repo after each Actions run so state persists between
 runs, with human-readable diffs (unlike the old SQLite blob). Sources are
@@ -21,7 +24,12 @@ from pathlib import Path
 
 STATE_PATH = Path(__file__).resolve().parent.parent / "data" / "seen.json"
 
-NOTIFIED_KEY_RETENTION_DAYS = 90
+# Dedup keys only need to outlive the cross-source arrival lag (a direct
+# adapter and SimplifyJobs pick up the same role within hours-to-days).
+# Keeping them longer suppresses genuinely new postings at companies that
+# reuse generic titles (Microsoft posts many distinct bare "Software
+# Engineer" reqs).
+NOTIFIED_KEY_RETENTION_DAYS = 7
 
 
 def load_state(path: Path = STATE_PATH) -> dict:
@@ -44,9 +52,9 @@ def save_state(state: dict, path: Path = STATE_PATH) -> None:
         "seeded_sources": sorted(set(state["seeded_sources"])),
         "seen": dict(sorted(state["seen"].items())),
         "notified_keys": {
-            key: seen_date
-            for key, seen_date in sorted(state["notified_keys"].items())
-            if seen_date >= cutoff
+            key: value
+            for key, value in sorted(state["notified_keys"].items())
+            if notified_date(value) >= cutoff
         },
         "last_tier2_at": state.get("last_tier2_at"),
     }
@@ -55,6 +63,22 @@ def save_state(state: dict, path: Path = STATE_PATH) -> None:
 
 def today() -> str:
     return date.today().isoformat()
+
+
+def notified_value(source_family: str) -> str:
+    """Value stored in notified_keys: date + which source family notified."""
+    return f"{today()} {source_family}"
+
+
+def notified_date(value: str) -> str:
+    return value.split(" ", 1)[0]
+
+
+def notified_family(value: str) -> str | None:
+    """Source family that notified this key, or None for legacy bare-date
+    values (treated as an unknown, i.e. different, family)."""
+    parts = value.split(" ", 1)
+    return parts[1] if len(parts) > 1 else None
 
 
 def now_iso() -> str:

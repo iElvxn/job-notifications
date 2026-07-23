@@ -18,16 +18,12 @@ LISTINGS_URL = (
     "New-Grad-Positions/dev/.github/scripts/listings.json"
 )
 
-# Simplify's current main category is "Software"; "Software Engineering" and
-# "Data Science, AI & Machine Learning" are legacy values still present on a
-# handful of listings. AI/ML/Data and Quant included in full by user choice
-# (2026-07-22); Hardware and Product intentionally excluded.
+# Simplify's current main category is "Software"; "Software Engineering" is a
+# legacy value still present on a handful of listings. SWE only by user choice
+# (2026-07-22): AI/ML/Data, Quant, Hardware, and Product excluded.
 _CATEGORIES = {
     "Software",
     "Software Engineering",
-    "AI/ML/Data",
-    "Data Science, AI & Machine Learning",
-    "Quant",
 }
 
 
