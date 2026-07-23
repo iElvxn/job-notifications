@@ -1,7 +1,13 @@
 """Parse tests for each adapter's pure _to_jobs function, using minimal
 fixtures mirroring the real response shapes (verified live 2026-07-21)."""
 
+from datetime import date, datetime, timezone
+
 from notifier.sources import amazon, ashby, eightfold, greenhouse, lever, simplify, workday
+
+
+def _epoch(iso: str) -> int:
+    return int(datetime.fromisoformat(iso + "T12:00:00+00:00").timestamp())
 
 
 def test_greenhouse_parse():
@@ -291,7 +297,60 @@ def test_simplify_parse():
             "url": "u",
             "locations": ["NYC"],
         },
+        {  # fresh date_posted -> kept
+            "id": "s8",
+            "active": True,
+            "is_visible": True,
+            "category": "Software",
+            "company_name": "Apple",
+            "title": "Software Engineer - Early Career",
+            "url": "u",
+            "locations": ["Cupertino, CA"],
+            "date_posted": _epoch("2026-07-20"),
+        },
+        {  # reactivated months-old listing -> dropped
+            "id": "s9",
+            "active": True,
+            "is_visible": True,
+            "category": "Software",
+            "company_name": "AeroVironment",
+            "title": "Software Engineer 1 - Applications",
+            "url": "u",
+            "locations": ["Melbourne, FL"],
+            "date_posted": _epoch("2026-06-13"),
+        },
+        {  # category=Software but senior title -> dropped
+            "id": "s10",
+            "active": True,
+            "is_visible": True,
+            "category": "Software",
+            "company_name": "Vantor",
+            "title": "Senior Software Engineer",
+            "url": "u",
+            "locations": ["Washington, DC"],
+        },
+        {  # category=Software but academic role -> dropped
+            "id": "s11",
+            "active": True,
+            "is_visible": True,
+            "category": "Software",
+            "company_name": "University of Arkansas",
+            "title": "Graduate Research Assistant - Developer",
+            "url": "u",
+            "locations": ["Little Rock, AR"],
+        },
+        {  # category=Software but support role -> dropped
+            "id": "s12",
+            "active": True,
+            "is_visible": True,
+            "category": "Software",
+            "company_name": "Alkami Technology",
+            "title": "Application Support Engineer",
+            "url": "u",
+            "locations": ["Remote in USA"],
+        },
     ]
-    jobs = simplify._to_jobs(payload)
-    assert [j.native_id for j in jobs] == ["s1", "s2"]
+    jobs = simplify._to_jobs(payload, today=date(2026, 7, 23))
+    assert [j.native_id for j in jobs] == ["s1", "s2", "s8"]
     assert jobs[0].source == "simplify"
+    assert jobs[2].posted_at == "2026-07-20"

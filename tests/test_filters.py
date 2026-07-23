@@ -1,4 +1,4 @@
-from notifier.filters import is_new_grad_title, is_us_location, job_in_us
+from notifier.filters import is_new_grad_title, is_swe_title, is_us_location, job_in_us
 from notifier.models import Job
 
 # --- title filter ------------------------------------------------------------
@@ -48,6 +48,23 @@ def test_accepts_new_grad_titles():
 def test_rejects_non_new_grad_titles():
     for title in REJECTED_TITLES:
         assert not is_new_grad_title(title), title
+
+
+def test_swe_title_needs_no_new_grad_token():
+    # SimplifyJobs screen: bare SWE titles pass (the feed is new-grad-curated)
+    for title in ["Software Engineer", "Backend Developer", "Software Engineer, University Grad"]:
+        assert is_swe_title(title), title
+    # ... but exclusions and the software gate still apply
+    for title in [
+        "Senior Software Engineer",
+        "Software Engineer II",
+        "Graduate Research Assistant - Developer",
+        "Postdoctoral Fellow - Agentic AI",
+        "Application Support Engineer",
+        "Research Assistant",  # no software token
+        "Mechanical Engineer",
+    ]:
+        assert not is_swe_title(title), title
 
 
 def test_extra_include_pattern():

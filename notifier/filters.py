@@ -1,7 +1,10 @@
 """Title and location filters ("balanced" strictness, US-only).
 
-Applied to direct-company sources. The SimplifyJobs source is already curated
-for new-grad roles, so only the location filter applies there.
+Direct-company sources use is_new_grad_title (a new-grad token is required —
+their boards list all seniority levels). The SimplifyJobs source uses the
+looser is_swe_title (no new-grad token required, since that repo is already
+new-grad-curated, but the exclusions still apply: their bot tags plenty of
+senior/support/research-assistant roles category=Software).
 """
 
 import re
@@ -46,6 +49,10 @@ _EXCLUDE = re.compile(
     # Non-engineering functions whose titles still contain "engineering"
     # (e.g. "Early Career Engineering Finance Associate")
     | \bfinance\b | \baccounting\b | \bsales\b | \brecruit
+    # Academic and support roles Simplify's bot tags category=Software
+    # ("Graduate Research Assistant - Developer", "Application Support
+    # Engineer")
+    | research\ assistant | post[ -]?doc | professor | \bsupport\b
     """,
     re.IGNORECASE | re.VERBOSE,
 )
@@ -71,6 +78,13 @@ def is_new_grad_title(title: str, extra_include: re.Pattern | None = None) -> bo
     return bool(
         included and not _EXCLUDE.search(title) and _SOFTWARE.search(title)
     )
+
+
+def is_swe_title(title: str) -> bool:
+    """Screen for pre-curated new-grad feeds (SimplifyJobs): no new-grad token
+    required — bare "Software Engineer" is normal there — but the title must
+    look like software and not hit the exclusions."""
+    return bool(_SOFTWARE.search(title) and not _EXCLUDE.search(title))
 
 
 # --- Location: US-only -------------------------------------------------------
