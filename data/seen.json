@@ -1578,6 +1578,7 @@
   "simplify:c1b62322-6a6c-4f98-812e-a753548b255c": "2026-07-22",
   "simplify:c1ff56ac-26f7-410b-8c9e-0dd35d354e18": "2026-07-22",
   "simplify:c218131b-b198-483e-94bc-03192688c34b": "2026-07-23",
+  "simplify:c21ea81c-9844-46be-9e30-5d382756f674": "2026-07-24",
   "simplify:c22ed2b1-7dbc-4fec-8e24-0ed23174312c": "2026-07-22",
   "simplify:c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8": "2026-07-22",
   "simplify:c2a64f1a-65f7-4c6f-840f-518f7696cf6d": "2026-07-22",
@@ -1749,6 +1750,7 @@
   "simplify:d86d5a45-c146-4585-8c27-938e7a70cf81": "2026-07-23",
   "simplify:d8d7e2e3-1906-4c1e-9c88-0e8a1619f222": "2026-07-22",
   "simplify:d8f01940-000a-4963-a53a-a8ecc213ca07": "2026-07-23",
+  "simplify:d8f80069-7e92-4a82-9b1f-b8aaa60b695c": "2026-07-24",
   "simplify:d90de82b-95ea-4ea1-9e0e-f1aecda3da9a": "2026-07-22",
   "simplify:d925b32c-6b7d-48ad-b323-468bb6ddedf7": "2026-07-22",
   "simplify:d956e028-055b-4a9d-8632-25a0dbb02c1b": "2026-07-22",
@@ -2923,6 +2925,7 @@
   "medpace|business intelligence analyst data engineering": "2026-07-22",
   "medpace|data assistant": "2026-07-22",
   "medpace|junior data engineer": "2026-07-22",
+  "medtronic|software engineer 1 ai driven data solutions": "2026-07-24 simplify",
   "memorial|senior applications analyst": "2026-07-22",
   "merative|software engineering associate": "2026-07-22",
   "merck|associate scientist postdoctoral fellow ai in infectious disease modeling": "2026-07-22",
@@ -3700,5 +3703,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-24T14:31:01+00:00"
+ "last_tier2_at": "2026-07-24T16:54:20+00:00"
 }
