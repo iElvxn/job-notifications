@@ -1302,6 +1302,7 @@
   "simplify:9ee895f9-f3c4-4415-9d51-558e1881b398": "2026-07-22",
   "simplify:9f197d2d-9e2c-4c85-96a0-2d38644a115e": "2026-07-22",
   "simplify:9f48cf3b-02b6-4273-add7-e4b623f6ddd2": "2026-07-22",
+  "simplify:9f5d48f6-bd0d-4055-94d9-a60792839957": "2026-07-24",
   "simplify:9f62800f-29c9-4903-ae21-b3abdaa8c9f4": "2026-07-22",
   "simplify:9f8cf1af-90e3-46c9-b825-c902ce5bdddf": "2026-07-22",
   "simplify:9fdf4527-41b5-4634-9595-1806fa5100fe": "2026-07-22",
@@ -3349,6 +3350,7 @@
   "strala|deployment strategist": "2026-07-22",
   "str|senior algorithm and signal processing engineer": "2026-07-22",
   "str|senior software engineer": "2026-07-22",
+  "studycast|automation engineer": "2026-07-24 simplify",
   "stv|ai engineer": "2026-07-23 simplify",
   "stv|junior software engineer": "2026-07-23 simplify",
   "subaru|principal applied scientist advanced driver assistance systems engineering department": "2026-07-22",
@@ -3697,5 +3699,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-24T11:21:33+00:00"
+ "last_tier2_at": "2026-07-24T12:51:20+00:00"
 }
