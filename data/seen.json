@@ -151,6 +151,7 @@
   "lever/palantir:fbca0358-083a-4222-bdbb-3bd729b48382": "2026-07-22",
   "microsoft:1970393556860973": "2026-07-23",
   "microsoft:1970393556929028": "2026-07-23",
+  "microsoft:1970393556932425": "2026-07-24",
   "microsoft:1970393556938440": "2026-07-24",
   "microsoft:1970393556940367": "2026-07-23",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
@@ -2943,6 +2944,7 @@
   "microsoft|software engineer 2": "2026-07-22",
   "microsoft|software engineer 2 senior software engineer commerce platforms": "2026-07-22",
   "microsoft|software engineer ctj poly": "2026-07-23 microsoft",
+  "microsoft|software engineer idna": "2026-07-24 microsoft",
   "microsoft|software engineering ic2": "2026-07-23 microsoft",
   "milwaukee|applied machine learning engineer 1 advanced engineering technology": "2026-07-22",
   "milwaukee|machine learning engineer 1": "2026-07-22",
@@ -3703,5 +3705,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-24T19:07:16+00:00"
+ "last_tier2_at": "2026-07-24T20:38:56+00:00"
 }
