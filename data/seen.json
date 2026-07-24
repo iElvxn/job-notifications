@@ -961,6 +961,7 @@
   "simplify:6dfc65c7-cb92-4fec-bce8-91b8e1f18136": "2026-07-23",
   "simplify:6e0e23c9-300a-4131-a50c-35417c91599a": "2026-07-22",
   "simplify:6e21dc35-2a15-4c16-bfcf-e44dbcca1871": "2026-07-22",
+  "simplify:6e46ee35-62d6-45c2-a8e5-1056b7d01e45": "2026-07-24",
   "simplify:6e69997b-700a-45d9-802f-0b918f67f279": "2026-07-22",
   "simplify:6ee7b98c-ff40-48fa-9739-71119f369879": "2026-07-22",
   "simplify:6efed8e0-ecf9-4113-90cc-fd187d314b95": "2026-07-22",
@@ -2272,6 +2273,7 @@
   "bridger|early career product engineer": "2026-07-23 simplify",
   "bristol|associate engineer analytical ai engineering": "2026-07-22",
   "broadcom|support engineer mainframe": "2026-07-22",
+  "broadridge|software engineer": "2026-07-24 simplify",
   "brookhaven|postdoc machine learning": "2026-07-22",
   "brookhaven|postdoctoral research associate": "2026-07-22",
   "brookhaven|postdoctoral research associate large language model foundational model": "2026-07-22",
@@ -3693,5 +3695,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-24T01:04:37+00:00"
+ "last_tier2_at": "2026-07-24T04:28:29+00:00"
 }
