@@ -151,6 +151,7 @@
   "lever/palantir:fbca0358-083a-4222-bdbb-3bd729b48382": "2026-07-22",
   "microsoft:1970393556860973": "2026-07-23",
   "microsoft:1970393556929028": "2026-07-23",
+  "microsoft:1970393556938440": "2026-07-24",
   "microsoft:1970393556940367": "2026-07-23",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
   "simplify:00620949-7bbd-4342-a515-87e57990c860": "2026-07-22",
@@ -2935,7 +2936,7 @@
   "micron|engineer new grad thin films equipment engineer": "2026-07-22",
   "micron|full stack ai engineer": "2026-07-22",
   "micron|new grad electrical engineer computer engineer engineering automation": "2026-07-22",
-  "microsoft|software engineer": "2026-07-23 microsoft",
+  "microsoft|software engineer": "2026-07-24 microsoft",
   "microsoft|software engineer 2": "2026-07-22",
   "microsoft|software engineer 2 senior software engineer commerce platforms": "2026-07-22",
   "microsoft|software engineer ctj poly": "2026-07-23 microsoft",
@@ -3699,5 +3700,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-24T12:51:20+00:00"
+ "last_tier2_at": "2026-07-24T14:31:01+00:00"
 }
