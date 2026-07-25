@@ -1034,6 +1034,7 @@
   "simplify:758a3608-344b-4124-845e-d55872951358": "2026-07-22",
   "simplify:75a1c4ee-6cf5-47a7-ba62-eb6954779862": "2026-07-22",
   "simplify:75a48795-722c-4f1c-9ca4-1c38c168c046": "2026-07-22",
+  "simplify:75aa7777-17b6-4d18-aee4-1c1eec8392e7": "2026-07-25",
   "simplify:75ae1ed5-4cbb-4bd6-900e-09ef6610bab3": "2026-07-22",
   "simplify:75cc7659-6d2e-4570-b141-133fc30e5e5b": "2026-07-22",
   "simplify:7650ccc7-1f1d-4681-a5e1-ec914f2123f1": "2026-07-22",
@@ -3641,7 +3642,7 @@
   "valsoft|fullstack software developer ai enabled": "2026-07-22",
   "vanderbilt|research assistant 1": "2026-07-22",
   "vanguard|application engineer": "2026-07-24 simplify",
-  "vanguard|entry level application engineer": "2026-07-23 simplify",
+  "vanguard|entry level application engineer": "2026-07-25 simplify",
   "vanguard|entry level application engineer 2026 start date": "2026-07-22",
   "vanguard|technology leadership program data analytics analyst": "2026-07-22",
   "vantor|senior software engineer": "2026-07-23 simplify",
@@ -3745,5 +3746,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-25T01:07:39+00:00"
+ "last_tier2_at": "2026-07-25T04:23:59+00:00"
 }
