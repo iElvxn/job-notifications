@@ -1745,6 +1745,7 @@
   "simplify:d50dd4f1-ca8c-4636-9452-4d9f4073bd45": "2026-07-22",
   "simplify:d54312d4-b724-4f31-8edc-89a45c0f4ef5": "2026-07-22",
   "simplify:d5647d2a-f398-444e-b1ac-3d03cc6604a7": "2026-07-23",
+  "simplify:d57b14ea-69f3-486f-abba-3677ea919fc6": "2026-07-25",
   "simplify:d57d8dae-f824-4c62-94e2-ab9869cf39ae": "2026-07-22",
   "simplify:d5ac7a44-0234-482a-86ed-89d7941eed37": "2026-07-22",
   "simplify:d5b47b14-ab65-44e1-b532-56a96b46ed94": "2026-07-22",
@@ -2281,6 +2282,7 @@
   "blackhawk|software engineer": "2026-07-22",
   "blackrock|blackrock investment institute ai solutions research associate": "2026-07-22",
   "blackrock|quantitative modeler associate qmr": "2026-07-22",
+  "black|junior full stack software engineer": "2026-07-25 simplify",
   "blissway|machine learning engineer machine learning engineer": "2026-07-22",
   "blitzy|developer support engineer": "2026-07-22",
   "bluecross|statistical programming analyst": "2026-07-22",
@@ -3753,5 +3755,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-25T10:14:14+00:00"
+ "last_tier2_at": "2026-07-25T11:34:00+00:00"
 }
