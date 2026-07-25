@@ -327,6 +327,7 @@
   "simplify:19241068-1a94-421a-8887-c34f2236f365": "2026-07-22",
   "simplify:1941cf58-d377-4f13-8d66-ee6d978d4f5a": "2026-07-22",
   "simplify:195694df-fb1c-4340-b90c-8dc7a7a7f05b": "2026-07-22",
+  "simplify:1997626d-c3df-42dc-9710-0ea1e9fc21b4": "2026-07-25",
   "simplify:19a150c4-f533-4d98-8905-d6d49e99d509": "2026-07-22",
   "simplify:19dc207d-51a6-45cf-be80-50c93ab46e32": "2026-07-22",
   "simplify:19f32ab3-2a4d-4e59-9937-92878312f48c": "2026-07-22",
@@ -865,6 +866,7 @@
   "simplify:6061e013-82e1-4da5-9c43-a70b864b15f4": "2026-07-22",
   "simplify:60c91828-d8ac-40fd-babc-1c5301d3eadd": "2026-07-22",
   "simplify:613121a0-b6ea-469c-bf10-9bb507ad6f4c": "2026-07-22",
+  "simplify:6131fc0a-92b8-493d-9444-82f1e8b4a4db": "2026-07-25",
   "simplify:61517630-6979-4c34-904b-092ee73c3445": "2026-07-22",
   "simplify:61531761-76bc-4c0d-949a-4c431ac97b8e": "2026-07-22",
   "simplify:61755196-37af-4667-b39c-627b17968bff": "2026-07-22",
@@ -3569,6 +3571,7 @@
   "united|bus systems analysis associate": "2026-07-22",
   "united|configuration analysis specialist 1": "2026-07-22",
   "united|contract data management 1": "2026-07-22",
+  "united|developer it front end developer": "2026-07-25 simplify",
   "united|systems administrator data analytics": "2026-07-22",
   "university|admissions system technology specialist": "2026-07-22",
   "university|arlis artificial intelligence research professional": "2026-07-22",
@@ -3750,5 +3753,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-25T08:35:43+00:00"
+ "last_tier2_at": "2026-07-25T10:14:14+00:00"
 }
