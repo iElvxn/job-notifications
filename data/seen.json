@@ -301,6 +301,7 @@
   "simplify:152296c2-bbc4-40ed-b170-0c0f9b13fb80": "2026-07-22",
   "simplify:1523206c-d17d-4209-a39b-a6f57d0eb4b9": "2026-07-22",
   "simplify:1530dfa5-7c83-434e-a46e-bead4069bdcd": "2026-07-22",
+  "simplify:15516d2c-266f-4437-aa09-f737ed54939c": "2026-07-26",
   "simplify:15ab606d-06a7-4c26-a9f0-13694d5b2e85": "2026-07-22",
   "simplify:1600d176-4eb0-4795-b869-f9ffced07431": "2026-07-22",
   "simplify:1619e24c-542d-4737-9c8d-d2da19828cee": "2026-07-23",
@@ -466,6 +467,7 @@
   "simplify:2b07160e-c4a3-4106-afed-f3aa356288a7": "2026-07-22",
   "simplify:2b1f7c87-7bac-473b-8b6b-6f0931c6d5fd": "2026-07-22",
   "simplify:2b56fd1f-a934-4b5c-a589-093e41cf55b5": "2026-07-22",
+  "simplify:2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf": "2026-07-26",
   "simplify:2b6c1de0-21f1-4365-8b3b-c9c62c27f2bc": "2026-07-22",
   "simplify:2b70eb5b-5b8d-4ff2-bd17-7885e217e855": "2026-07-22",
   "simplify:2b89e055-c32d-41f5-8604-dfa257b13771": "2026-07-22",
@@ -3258,6 +3260,8 @@
   "relx|data discovery and enrichment expert 1": "2026-07-22",
   "repsol|geographic information systems analyst": "2026-07-22",
   "respec|ai engineer 1 contractor": "2026-07-22",
+  "retell|internal deployed engineer": "2026-07-26 simplify",
+  "retell|software engineer": "2026-07-26 simplify",
   "revel|full stack software engineer entry junior": "2026-07-22",
   "revel|software engineer test entry junior": "2026-07-22",
   "revenue|data scientist": "2026-07-22",
@@ -3761,5 +3765,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-26T22:38:23+00:00"
+ "last_tier2_at": "2026-07-26T23:37:44+00:00"
 }
