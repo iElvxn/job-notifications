@@ -909,6 +909,7 @@
   "simplify:650adf8f-d157-4638-ad93-479807615038": "2026-07-22",
   "simplify:653dbd3d-0c33-4411-b074-4d38a1f7b7c8": "2026-07-22",
   "simplify:654a8203-8795-40c6-92f5-76afc4273093": "2026-07-22",
+  "simplify:654f8583-841f-42d1-9ffa-4687d0d8bcd1": "2026-07-26",
   "simplify:6553d92a-bb9f-42ef-bed7-3d6dd38f4273": "2026-07-22",
   "simplify:65650b49-1680-440d-8f63-1cc74d0ba188": "2026-07-22",
   "simplify:65849b96-f8c1-491c-a19f-a23719bc19ce": "2026-07-22",
@@ -1527,6 +1528,7 @@
   "simplify:b87472fc-5c3c-48ad-ac4b-954b4cfa2f05": "2026-07-22",
   "simplify:b8b13950-f977-4efa-a16f-25c7dfd1d262": "2026-07-22",
   "simplify:b9079948-8cd6-4404-9e02-98927c2e4bb8": "2026-07-22",
+  "simplify:b916f41f-f7eb-4b6f-8f44-0548ef19671b": "2026-07-26",
   "simplify:b91ba74c-d201-4cd8-b896-76ec065d1447": "2026-07-22",
   "simplify:b9309db9-dccf-4bad-add7-a387f24df3c6": "2026-07-22",
   "simplify:b94e8d1e-3c45-4d18-b334-b8f2fec267bb": "2026-07-22",
@@ -2739,6 +2741,7 @@
   "humansignal|data collection contributor": "2026-07-22",
   "huntington|config data mgmt cntrlr 1": "2026-07-22",
   "huntington|software development engineer": "2026-07-22",
+  "huntington|software engineer 1": "2026-07-26 simplify",
   "huron|digital consulting associate salesforce omni developer": "2026-07-22",
   "hyundai|data analyst general assembly mft data analysis": "2026-07-22",
   "h|materials application engineer": "2026-07-22",
@@ -3651,6 +3654,7 @@
   "u|software engineer 1 mainframe cobol": "2026-07-22",
   "valinor|full stack software engineer c2 tactical integration": "2026-07-22",
   "valsoft|fullstack software developer ai enabled": "2026-07-22",
+  "vanderbilt|c angular associate application developer": "2026-07-26 simplify",
   "vanderbilt|research assistant 1": "2026-07-22",
   "vanguard|application engineer": "2026-07-24 simplify",
   "vanguard|entry level application engineer": "2026-07-25 simplify",
@@ -3757,5 +3761,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-26T04:38:10+00:00"
+ "last_tier2_at": "2026-07-26T07:16:37+00:00"
 }
