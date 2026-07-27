@@ -314,6 +314,7 @@
   "simplify:170d71a3-3702-4153-b3fd-4d73225e3caa": "2026-07-23",
   "simplify:1718b4ac-ef2a-4459-a483-ba8cfd292d59": "2026-07-22",
   "simplify:171c690b-9929-4ef0-8c2d-9ccb8bff82c7": "2026-07-22",
+  "simplify:172ad890-81ad-4e3a-ab8b-3e63d27b0a38": "2026-07-27",
   "simplify:1754d523-64ad-4dea-b74a-f246efa815db": "2026-07-22",
   "simplify:1795cf4e-c11d-445a-b456-46e78f4e1bb6": "2026-07-22",
   "simplify:17a4eca6-f636-4d76-ae6b-949e863c7613": "2026-07-22",
@@ -537,6 +538,7 @@
   "simplify:33675427-69db-483c-bbbe-c86819f94415": "2026-07-22",
   "simplify:337cc959-7b73-48b1-a554-663f5dadf462": "2026-07-22",
   "simplify:33a92a71-ce82-4a78-954c-43f88db17f65": "2026-07-22",
+  "simplify:33c29f4d-ba3e-4b4e-8d7f-ba31f0fe0e0b": "2026-07-27",
   "simplify:33d2b21e-e763-4fa0-ba7c-9ca954d0b1bc": "2026-07-22",
   "simplify:33d712fe-87e1-49e6-ba71-1dd17d118d63": "2026-07-22",
   "simplify:33ef8d7f-017a-46ab-9787-a7b3a1662a2e": "2026-07-22",
@@ -735,6 +737,7 @@
   "simplify:4eb66fa6-dd81-415a-9719-a5c8c1e7e12b": "2026-07-22",
   "simplify:4eba7e60-7ddc-4173-b5eb-3bc982688cf5": "2026-07-22",
   "simplify:4f11f81b-693b-44a7-88c3-3c4d0f322f6a": "2026-07-22",
+  "simplify:4f269b50-3cb1-4960-9d2f-c2b2a5f0a932": "2026-07-27",
   "simplify:4f36479f-8461-4a75-9543-0d4fa09e54a3": "2026-07-22",
   "simplify:4f91949f-48ca-4a78-a774-bd464309295a": "2026-07-22",
   "simplify:4f947958-d8cc-4081-a891-5ee818d41bfc": "2026-07-22",
@@ -2525,6 +2528,7 @@
   "denso|systems engineer 2": "2026-07-22",
   "dewberry|entry level geospatial remote sensing analyst": "2026-07-22",
   "dexcom|data and application developer engineer 2": "2026-07-22",
+  "dgr|associate engineer microsoft 365 solutions": "2026-07-27 simplify",
   "digicert|associate backend engineer": "2026-07-23 simplify",
   "digital|software engineer associate": "2026-07-23 simplify",
   "dimensional|analyst associate investment engineering analytics platforms": "2026-07-22",
@@ -2909,6 +2913,7 @@
   "lawrence|operations research postdoctoral researcher": "2026-07-22",
   "lawrence|uncertainty quantification for surrogate models postdoctoral researcher": "2026-07-22",
   "layer|frontend engineer": "2026-07-23 simplify",
+  "leidos|cybersecurity product engineer": "2026-07-27 simplify",
   "leidos|data scientist": "2026-07-22",
   "leidos|linux systems administrator": "2026-07-22",
   "leidos|radar sustainment engineer system model development": "2026-07-22",
@@ -3086,6 +3091,7 @@
   "northwell|associate software engineer": "2026-07-23 simplify",
   "northwestern|software engineer": "2026-07-22",
   "north|software engineer 1": "2026-07-22",
+  "notability|engineer web apps": "2026-07-27 simplify",
   "notion|software engineer early career": "2026-07-22",
   "notion|software engineer early career ai": "2026-07-22",
   "novartis|innovation postdoctoral fellow data science ai": "2026-07-22",
@@ -3765,5 +3771,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-27T08:29:08+00:00"
+ "last_tier2_at": "2026-07-27T11:50:30+00:00"
 }
