@@ -392,6 +392,7 @@
   "simplify:2184ba51-9029-4b0d-956c-e66d880ffe74": "2026-07-22",
   "simplify:21b95fb5-d489-4032-af81-46650b0e2764": "2026-07-22",
   "simplify:21d62d0d-885a-455d-b351-7f9ef87a1904": "2026-07-23",
+  "simplify:223c9803-c3ad-4d94-bee5-814efdb939ef": "2026-07-27",
   "simplify:2254ac53-779c-4e35-af27-c955600704ba": "2026-07-23",
   "simplify:226d315a-7b11-4e93-aa2f-49c1ba24b724": "2026-07-22",
   "simplify:22a341c0-1428-4064-a7c3-2c01961fcee3": "2026-07-22",
@@ -1613,6 +1614,7 @@
   "simplify:c21ea81c-9844-46be-9e30-5d382756f674": "2026-07-24",
   "simplify:c22ed2b1-7dbc-4fec-8e24-0ed23174312c": "2026-07-22",
   "simplify:c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8": "2026-07-22",
+  "simplify:c29f5fe7-d092-4635-aa51-5160b768cd11": "2026-07-27",
   "simplify:c2a64f1a-65f7-4c6f-840f-518f7696cf6d": "2026-07-22",
   "simplify:c2cf5ed2-2084-49ae-a86e-aba3c2969ed5": "2026-07-22",
   "simplify:c2f5393e-5085-4e0d-abeb-baab50cf1601": "2026-07-22",
@@ -1791,6 +1793,7 @@
   "simplify:d991de2f-5367-4f5c-b2bd-0a9339e4718d": "2026-07-22",
   "simplify:d9b08630-982b-4b8c-99f1-c6ad6174aaf3": "2026-07-22",
   "simplify:da048e8f-6ba6-43fd-8dc9-7c5a1adf494a": "2026-07-23",
+  "simplify:da1edac2-c456-4ca2-abdc-5419d5c04292": "2026-07-27",
   "simplify:da453920-8fb6-4684-a7c5-4d6a106f6244": "2026-07-22",
   "simplify:da4700de-48be-43db-a6c2-b9fa2038a4e0": "2026-07-22",
   "simplify:da5cdf71-9a3d-481d-82ed-4bf5aedf8088": "2026-07-22",
@@ -2034,6 +2037,7 @@
   "simplify:f9a48e11-7815-4b71-980b-7e26e6105db7": "2026-07-22",
   "simplify:f9d5859a-3dae-4db0-a36d-bac32a5792d4": "2026-07-22",
   "simplify:f9f54085-79e3-4cf5-9168-c4b313965ace": "2026-07-22",
+  "simplify:fa0ebc2b-c763-4683-926b-c4befa25a42e": "2026-07-27",
   "simplify:fa126103-d28c-4be7-8ac5-2116c033dc1a": "2026-07-22",
   "simplify:fa1cdf9a-7c9c-4127-bbce-c1c902f86e32": "2026-07-22",
   "simplify:fa29769a-0705-4064-af82-8c3350997405": "2026-07-22",
@@ -3294,6 +3298,7 @@
   "rs|geospatial associate 1": "2026-07-22",
   "rtx|conversion software engineer 1": "2026-07-22",
   "rtx|intelligence analyst": "2026-07-22",
+  "rtx|java software engineer 1": "2026-07-27 simplify",
   "rtx|leadership development program engineering software": "2026-07-22",
   "rtx|software engineer 1": "2026-07-22",
   "rtx|software engineer 2": "2026-07-22",
@@ -3657,6 +3662,7 @@
   "uthealth|data analyst associate": "2026-07-22",
   "ut|application analyst 1": "2026-07-22",
   "uw|revenue cycle analyst 1": "2026-07-22",
+  "uw|software engineer 1": "2026-07-27 simplify",
   "u|business systems analyst": "2026-07-22",
   "u|financial analyst middle office trading desk": "2026-07-22",
   "u|fixed income trader": "2026-07-22",
@@ -3771,5 +3777,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-27T14:04:12+00:00"
+ "last_tier2_at": "2026-07-27T16:32:44+00:00"
 }
