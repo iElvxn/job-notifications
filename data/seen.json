@@ -158,6 +158,8 @@
   "microsoft:1970393556938440": "2026-07-24",
   "microsoft:1970393556940347": "2026-07-28",
   "microsoft:1970393556940367": "2026-07-23",
+  "microsoft:1970393556943247": "2026-07-28",
+  "microsoft:1970393556948701": "2026-07-28",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
   "simplify:00620949-7bbd-4342-a515-87e57990c860": "2026-07-22",
@@ -2109,6 +2111,7 @@
   "workday/nvidia:JR2002870": "2026-07-22",
   "workday/nvidia:JR2011787": "2026-07-22",
   "workday/nvidia:JR2012573": "2026-07-22",
+  "workday/nvidia:JR2014130": "2026-07-28",
   "workday/nvidia:JR2014331": "2026-07-22",
   "workday/nvidia:JR2015071": "2026-07-22",
   "workday/nvidia:JR2016248": "2026-07-22",
@@ -3042,6 +3045,7 @@
   "microsoft|software engineer": "2026-07-24 microsoft",
   "microsoft|software engineer 2": "2026-07-22",
   "microsoft|software engineer 2 senior software engineer commerce platforms": "2026-07-22",
+  "microsoft|software engineer ceai": "2026-07-28 microsoft",
   "microsoft|software engineer ctj poly": "2026-07-23 microsoft",
   "microsoft|software engineer idna": "2026-07-24 microsoft",
   "microsoft|software engineer mcaps core": "2026-07-28 microsoft",
@@ -3170,6 +3174,7 @@
   "nvidia|deep learning software engineer inference new college grad 2026": "2026-07-22",
   "nvidia|deep learning software engineer new college grad tensorrt performance": "2026-07-22",
   "nvidia|deep learning software engineer new grad inference": "2026-07-23",
+  "nvidia|developer technology engineer ai new college grad 2026": "2026-07-28 workday",
   "nvidia|developer technology engineer new college grad public sector": "2026-07-22",
   "nvidia|research scientist electronic design automation": "2026-07-22",
   "nvidia|research scientist new grad efficient deep learning": "2026-07-22",
@@ -3836,5 +3841,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-28T21:19:34+00:00"
+ "last_tier2_at": "2026-07-28T22:30:13+00:00"
 }
