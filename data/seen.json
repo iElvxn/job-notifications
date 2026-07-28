@@ -723,6 +723,7 @@
   "simplify:4adc507a-8cbc-4e9c-8adb-06c1b13b4cf0": "2026-07-22",
   "simplify:4b82692b-c26a-4ef0-a342-fb92e340f1fe": "2026-07-22",
   "simplify:4b887fe0-6185-4f7c-b9a8-be7db867b577": "2026-07-22",
+  "simplify:4ba38e7e-381e-463a-9acc-2814e492da98": "2026-07-28",
   "simplify:4bdda1e0-d0b1-4b52-bc25-7177c0cdf1aa": "2026-07-22",
   "simplify:4bfdcf9a-86b5-42ac-99e3-8b8580c384d6": "2026-07-22",
   "simplify:4c1cfc26-75fa-4773-a2ef-3d4b85926e9e": "2026-07-22",
@@ -979,6 +980,7 @@
   "simplify:6b06f96d-3a46-49a9-8ff3-408a41c4ee01": "2026-07-22",
   "simplify:6b1de7dd-a0be-4bf2-8cee-7f7a58788046": "2026-07-22",
   "simplify:6b526572-475a-4816-9a21-82794c53615a": "2026-07-22",
+  "simplify:6bbdcfe2-93ba-469c-9fe4-be23b9387ac6": "2026-07-28",
   "simplify:6bd763c5-8c6c-497c-bdee-cbad490fbbb5": "2026-07-22",
   "simplify:6c1fb526-53c3-4b84-b3b9-f057092282c6": "2026-07-23",
   "simplify:6c22dfb2-8da9-4cd7-8660-2e803c5a8aab": "2026-07-23",
@@ -1138,6 +1140,7 @@
   "simplify:80ed1f87-b2ee-49df-bc46-c9a78897a5ad": "2026-07-22",
   "simplify:81239222-d1e3-44a1-931c-13a88effe13b": "2026-07-22",
   "simplify:81410c86-5eab-481e-b83a-d9aef5ae21a3": "2026-07-22",
+  "simplify:81476e53-2803-426e-8021-2bcd1ad52184": "2026-07-28",
   "simplify:816fa3ce-73c5-4f4b-8a2a-6fab0a909948": "2026-07-28",
   "simplify:81a162f0-c50f-4320-881a-dc2c5ca10e48": "2026-07-22",
   "simplify:81ba8260-ef42-4899-a192-3240fa6a5bbb": "2026-07-22",
@@ -2188,6 +2191,7 @@
   "alphalife|ai software engineer": "2026-07-22",
   "altamira|junior software engineer": "2026-07-22",
   "alta|data engineer junior": "2026-07-22",
+  "alta|software engineer": "2026-07-28 simplify",
   "altice|data analyst": "2026-07-22",
   "amazon|analytics manager": "2026-07-22",
   "amazon|data engineer data science focus ads science analysis tech asat": "2026-07-22",
@@ -2944,7 +2948,7 @@
   "l3harris|configuration management senior associate configuration management": "2026-07-22",
   "l3harris|senior associate data architect data architect": "2026-07-22",
   "l3harris|senior systems engineer systems engineer": "2026-07-22",
-  "l3harris|software engineer associate": "2026-07-23 simplify",
+  "l3harris|software engineer associate": "2026-07-28 simplify",
   "laserfiche|support engineer 1 i": "2026-07-22",
   "latitude|gis production analyst contractor": "2026-07-22",
   "latitude|triage associate 1 contractor": "2026-07-22",
@@ -3830,5 +3834,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-28T15:30:53+00:00"
+ "last_tier2_at": "2026-07-28T17:06:15+00:00"
 }
