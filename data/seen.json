@@ -1432,6 +1432,7 @@
   "simplify:a9714733-b777-4395-97cd-932b77923c87": "2026-07-22",
   "simplify:a975caea-85e8-4a40-9c69-07d16a59e412": "2026-07-22",
   "simplify:a989ae47-c9be-4491-89db-357f5e636718": "2026-07-22",
+  "simplify:a989c928-8174-43bf-9198-bcec981430c7": "2026-07-28",
   "simplify:a9c4ff99-bb7d-4219-b845-93441bf0cb1c": "2026-07-22",
   "simplify:a9e5e669-126e-41ac-abf9-dcfba7c7130e": "2026-07-28",
   "simplify:a9fbf7a6-072c-49b7-8d37-98b18cf5d5b5": "2026-07-22",
@@ -2504,6 +2505,7 @@
   "collabera|temp to perm websphere integration engineer entry": "2026-07-22",
   "collabera|web administrator": "2026-07-22",
   "collective|software engineer new grad": "2026-07-22",
+  "color|software engineer new grad": "2026-07-28 simplify",
   "comcast|assisted tools engineer": "2026-07-22",
   "comcast|machine learning engineer 3": "2026-07-22",
   "commerceiq|software engineer": "2026-07-23 simplify",
@@ -3823,5 +3825,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-28T00:14:58+00:00"
+ "last_tier2_at": "2026-07-28T03:35:25+00:00"
 }
