@@ -545,6 +545,7 @@
   "simplify:3338f52b-1609-4387-84c5-cd609da9c84e": "2026-07-22",
   "simplify:33675427-69db-483c-bbbe-c86819f94415": "2026-07-22",
   "simplify:337cc959-7b73-48b1-a554-663f5dadf462": "2026-07-22",
+  "simplify:33972c52-575d-4ede-a314-0ccebc85ee47": "2026-07-28",
   "simplify:33a92a71-ce82-4a78-954c-43f88db17f65": "2026-07-22",
   "simplify:33c29f4d-ba3e-4b4e-8d7f-ba31f0fe0e0b": "2026-07-27",
   "simplify:33d2b21e-e763-4fa0-ba7c-9ca954d0b1bc": "2026-07-22",
@@ -792,6 +793,7 @@
   "simplify:5486f8fc-e958-437b-934e-ad3295e9a178": "2026-07-22",
   "simplify:54eb8a09-3206-49de-ab52-5f7361b9dae4": "2026-07-22",
   "simplify:5525b708-b3f8-4b78-a546-7b5c638d8fdb": "2026-07-22",
+  "simplify:553369f5-663d-4019-8901-6134f7102b4d": "2026-07-28",
   "simplify:5578f27b-5b7f-4d4e-892f-d9a2667a2aa6": "2026-07-22",
   "simplify:5597e15d-f9b1-4bb6-8045-dba8e3afa16d": "2026-07-22",
   "simplify:55a00559-28b9-41bc-b6dc-cda5714e2846": "2026-07-22",
@@ -3239,6 +3241,7 @@
   "peraton|image scientist entry level": "2026-07-22",
   "peraton|java software engineer": "2026-07-22",
   "peraton|junior software engineer": "2026-07-22",
+  "peraton|software development associate": "2026-07-28 simplify",
   "peraton|software engineering ignite innovator program": "2026-07-22",
   "peregrine|software engineer data governance": "2026-07-22",
   "perkinelmer|project controls engineer 3 lead engineer": "2026-07-22",
@@ -3827,5 +3830,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-28T13:00:25+00:00"
+ "last_tier2_at": "2026-07-28T15:30:53+00:00"
 }
