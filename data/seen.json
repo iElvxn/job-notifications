@@ -153,6 +153,7 @@
   "lever/palantir:f362d7aa-360d-4059-ab38-f482742693b3": "2026-07-22",
   "lever/palantir:fbca0358-083a-4222-bdbb-3bd729b48382": "2026-07-22",
   "microsoft:1970393556860973": "2026-07-23",
+  "microsoft:1970393556926963": "2026-07-29",
   "microsoft:1970393556929028": "2026-07-23",
   "microsoft:1970393556932425": "2026-07-24",
   "microsoft:1970393556938440": "2026-07-24",
@@ -3088,7 +3089,7 @@
   "microsoft|software engineer 2": "2026-07-22",
   "microsoft|software engineer 2 senior software engineer commerce platforms": "2026-07-22",
   "microsoft|software engineer ceai": "2026-07-28 microsoft",
-  "microsoft|software engineer ctj poly": "2026-07-23 microsoft",
+  "microsoft|software engineer ctj poly": "2026-07-29 microsoft",
   "microsoft|software engineer idna": "2026-07-24 microsoft",
   "microsoft|software engineer mcaps core": "2026-07-28 microsoft",
   "microsoft|software engineering ic2": "2026-07-23 microsoft",
@@ -3896,5 +3897,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-29T19:39:53+00:00"
+ "last_tier2_at": "2026-07-29T20:34:03+00:00"
 }
