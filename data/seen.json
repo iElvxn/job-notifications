@@ -724,6 +724,7 @@
   "simplify:4920c8bb-024e-4b58-a4b9-58fe968ee612": "2026-07-22",
   "simplify:49359bde-573c-4530-af6e-e13563e1ff13": "2026-07-23",
   "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b": "2026-07-22",
+  "simplify:49643f6b-95e6-4d37-af1d-1118ce4439cd": "2026-07-29",
   "simplify:49b905b6-7c18-4233-aaa8-6f7e1ce5e06e": "2026-07-22",
   "simplify:49f79fb8-6c35-4493-b3f0-b9186ad9d271": "2026-07-22",
   "simplify:4a24f76c-93eb-4463-8d7b-0c9ed7a5ffdd": "2026-07-22",
@@ -3560,6 +3561,7 @@
   "texas|associate software applications developer 1": "2026-07-22",
   "texas|associate software engineer": "2026-07-22",
   "texas|career accelerator program product engineer": "2026-07-23 simplify",
+  "texas|junior software engineer ai forward": "2026-07-29 simplify",
   "texas|new college graduate information technology software development engineer development program": "2026-07-22",
   "texas|postdoctoral research associate": "2026-07-22",
   "texas|postdoctoral research associate texas a m agrilife research agricultural economics": "2026-07-22",
@@ -3878,5 +3880,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-29T04:26:41+00:00"
+ "last_tier2_at": "2026-07-29T07:14:01+00:00"
 }
