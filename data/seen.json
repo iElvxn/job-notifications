@@ -169,6 +169,7 @@
   "simplify:00c2f102-60e5-4ef5-84c6-4515f2459a86": "2026-07-22",
   "simplify:013d5015-8b47-41a8-b665-239f9ca74772": "2026-07-22",
   "simplify:01864a29-f685-449a-8b9a-abcaf7bc9c15": "2026-07-22",
+  "simplify:01a98038-5e8b-421a-9505-1e936c4c1648": "2026-07-29",
   "simplify:01b0b189-8c92-4f22-806d-c12eb333167c": "2026-07-22",
   "simplify:01d6602a-2166-4774-a0ad-32e0b28fd5d2": "2026-07-22",
   "simplify:01ee53be-2028-4c20-94bf-ef56ad2f8735": "2026-07-22",
@@ -1210,6 +1211,7 @@
   "simplify:8900ebd2-3908-4311-861b-2774c0681730": "2026-07-23",
   "simplify:890554eb-3072-4070-8882-f9e5473057d8": "2026-07-22",
   "simplify:89193688-20ca-44aa-b2df-5bc8c90e3cf9": "2026-07-22",
+  "simplify:89283851-fad6-414b-8dc2-c90c3537d123": "2026-07-29",
   "simplify:8931b28b-82ca-4fea-acb0-322f33bea17a": "2026-07-22",
   "simplify:89338d70-b185-443c-ab9d-8f66f7eb969e": "2026-07-22",
   "simplify:893c3c32-4034-4b9a-aeec-2289b0a7055b": "2026-07-22",
@@ -3581,6 +3583,7 @@
   "the|data and ai engineer": "2026-07-22",
   "the|dropship analyst": "2026-07-22",
   "the|entry level software engineer": "2026-07-22",
+  "the|entry level software engineer developers": "2026-07-29 simplify",
   "the|entry level software systems engineer": "2026-07-22",
   "the|entry level support engineering data specialist": "2026-07-22",
   "the|infrastructure implementation engineer": "2026-07-25 simplify",
@@ -3875,5 +3878,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-29T01:05:30+00:00"
+ "last_tier2_at": "2026-07-29T04:26:41+00:00"
 }
