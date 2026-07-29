@@ -583,6 +583,7 @@
   "simplify:35b9522d-17e0-488f-ae8b-d1b88467b762": "2026-07-22",
   "simplify:35bdadb3-6dd8-4e23-b36d-a34aa8762510": "2026-07-22",
   "simplify:35e8ca00-935c-4c8f-8171-cf380c28e795": "2026-07-22",
+  "simplify:35fd0ab8-45a8-44c2-93b6-be8ecf688597": "2026-07-29",
   "simplify:36105160-307d-40ce-b0bd-e200d768a5fd": "2026-07-22",
   "simplify:36315efc-ac6d-4346-9298-318338752a00": "2026-07-22",
   "simplify:36bcaa93-c547-4cd3-8183-20a2f867fbfb": "2026-07-22",
@@ -2062,6 +2063,7 @@
   "simplify:f61e39f8-df08-44c4-bc85-927710bd0006": "2026-07-22",
   "simplify:f624cacf-5cd8-42ea-bc15-38f980bc6e29": "2026-07-22",
   "simplify:f65657ff-9f42-4256-ac69-c3a4b36628ea": "2026-07-22",
+  "simplify:f65da956-c9b0-47d6-aded-5cae4933df37": "2026-07-29",
   "simplify:f667aafd-a58e-4445-a974-54d1951d1f59": "2026-07-22",
   "simplify:f677e047-8b60-482d-af3f-74bc07856997": "2026-07-22",
   "simplify:f6865848-c6d8-4488-a94b-ee21317efaa1": "2026-07-22",
@@ -3760,6 +3762,7 @@
   "usm|sharepoint developer": "2026-07-22",
   "usm|sql pl sql developer": "2026-07-22",
   "usm|t sql developer": "2026-07-22",
+  "usul|forward deployed engineer": "2026-07-29 simplify",
   "uthealth|clinical interface engineer associate": "2026-07-22",
   "uthealth|data analyst associate": "2026-07-22",
   "ut|application analyst 1": "2026-07-22",
@@ -3880,5 +3883,5 @@
   "zoll|software engineer": "2026-07-22",
   "zurn|application engineer": "2026-07-22"
  },
- "last_tier2_at": "2026-07-29T09:48:57+00:00"
+ "last_tier2_at": "2026-07-29T11:51:52+00:00"
 }
