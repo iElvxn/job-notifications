@@ -255,6 +255,7 @@
   "simplify:0d46ea5b-d675-4003-9fb3-b27f77285651": "2026-07-22",
   "simplify:0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a": "2026-07-22",
   "simplify:0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4": "2026-07-23",
+  "simplify:0d7e5ade-c787-44c5-9358-0e54abadfdfe": "2026-07-30",
   "simplify:0d9c311a-c4bf-4426-8b6a-c25c5fc88cd2": "2026-07-22",
   "simplify:0dbc9fad-c658-4d72-ad60-a24162928106": "2026-07-22",
   "simplify:0dcc894e-6f33-4e89-a83f-254eb01d07bc": "2026-07-22",
@@ -2311,6 +2312,7 @@
   "motorola|software engineering": "2026-07-27 simplify",
   "nexxen|software engineer 1 dsp runtime": "2026-07-24 simplify",
   "nidec|software engineer 2": "2026-07-28 simplify",
+  "nooks|software engineer new grad": "2026-07-30 simplify",
   "northrop|associate systems modeling simulation engineer": "2026-07-28 simplify",
   "northrop|software engineer 2": "2026-07-28 simplify",
   "northrop|systems engineer": "2026-07-23 simplify",
@@ -2405,5 +2407,5 @@
   "xylem|application engineer": "2026-07-28 simplify",
   "zello|software engineer 1 ai generalist": "2026-07-23 simplify"
  },
- "last_tier2_at": "2026-07-30T04:16:08+00:00"
+ "last_tier2_at": "2026-07-30T07:06:51+00:00"
 }
