@@ -990,6 +990,7 @@
   "simplify:694c778d-6f53-4945-83e9-8cc92347764b": "2026-07-22",
   "simplify:6978c2cb-a592-4751-ba2c-89bca5facdce": "2026-07-22",
   "simplify:69a45f0c-60bf-4ea6-814b-eba6de8a31d6": "2026-07-22",
+  "simplify:69aff88e-4f1d-437a-82b3-be6100ddd3ea": "2026-07-30",
   "simplify:69d6b019-5f9b-4569-aae1-0e336078ed75": "2026-07-22",
   "simplify:69efd413-5f40-4e3c-8c63-18f7c8da24ca": "2026-07-22",
   "simplify:6a5a374d-834e-4bb6-992d-4cc74f3f8e8e": "2026-07-22",
@@ -2344,6 +2345,7 @@
   "revvity|associate software development engineer": "2026-07-27 simplify",
   "rippling|software engineer 2 backend rippling ai": "2026-07-23 simplify",
   "rocket|software engineer 1": "2026-07-28 simplify",
+  "rollout|founding software engineer": "2026-07-30 simplify",
   "rtx|associate software engineer simulation": "2026-07-28 simplify",
   "rtx|java software engineer 1": "2026-07-27 simplify",
   "rtx|program product engineer 2": "2026-07-29 simplify",
@@ -2407,5 +2409,5 @@
   "xylem|application engineer": "2026-07-28 simplify",
   "zello|software engineer 1 ai generalist": "2026-07-23 simplify"
  },
- "last_tier2_at": "2026-07-30T09:38:18+00:00"
+ "last_tier2_at": "2026-07-30T11:31:34+00:00"
 }
