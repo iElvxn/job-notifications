@@ -2172,6 +2172,7 @@
   "workday/nvidia:JR2012573": "2026-07-22",
   "workday/nvidia:JR2014130": "2026-07-28",
   "workday/nvidia:JR2014331": "2026-07-22",
+  "workday/nvidia:JR2014441": "2026-07-30",
   "workday/nvidia:JR2015071": "2026-07-22",
   "workday/nvidia:JR2016248": "2026-07-22",
   "workday/nvidia:JR2018263": "2026-07-22",
@@ -2327,6 +2328,7 @@
   "nuro|software engineer performance new grad": "2026-07-23 greenhouse",
   "nvidia|ai and ml infra software engineer gpu clusters new college grad 2026": "2026-07-23 workday",
   "nvidia|ai and ml infra software engineer new grad gpu clusters": "2026-07-23 simplify",
+  "nvidia|ai inference performance engineer new college grad 2026": "2026-07-30 workday",
   "nvidia|compiler engineer new grad infrastructure": "2026-07-23 simplify",
   "nvidia|deep learning software engineer new grad inference": "2026-07-23",
   "nvidia|developer technology engineer ai new college grad 2026": "2026-07-28 workday",
@@ -2414,5 +2416,5 @@
   "xylem|application engineer": "2026-07-28 simplify",
   "zello|software engineer 1 ai generalist": "2026-07-23 simplify"
  },
- "last_tier2_at": "2026-07-30T18:09:01+00:00"
+ "last_tier2_at": "2026-07-30T19:47:42+00:00"
 }
