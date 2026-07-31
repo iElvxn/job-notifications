@@ -1321,6 +1321,7 @@
   "simplify:94be9874-44c0-445c-a293-6f469b674484": "2026-07-23",
   "simplify:94fd2be0-ad0f-4d9e-868d-305cdda3c042": "2026-07-28",
   "simplify:95049413-d496-4bfa-9d12-e16f926251e5": "2026-07-24",
+  "simplify:950f53eb-f578-4031-8d81-ac822b56d643": "2026-07-31",
   "simplify:95272142-2599-400f-9f53-d2eedd5a48b4": "2026-07-22",
   "simplify:952ea53b-46d2-468c-a4ee-c7ea0ae0051d": "2026-07-22",
   "simplify:9553a951-94b2-441a-ac0d-cccc7205d37d": "2026-07-22",
@@ -2223,7 +2224,7 @@
   "charles|associate software development engineering": "2026-07-29 simplify",
   "cincinnati|software developer 1 psychiatry": "2026-07-29 simplify",
   "cisco|software engineer": "2026-07-28 simplify",
-  "cisco|software engineer 1": "2026-07-30 simplify",
+  "cisco|software engineer 1": "2026-07-31 simplify",
   "cisco|software engineer backend platform systems 1": "2026-07-29 simplify",
   "cisco|software engineer data ai intelligent systems 1": "2026-07-24 simplify",
   "color|software engineer new grad": "2026-07-28 simplify",
@@ -2321,5 +2322,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-07-31T01:22:46+00:00"
+ "last_tier2_at": "2026-07-31T04:50:10+00:00"
 }
