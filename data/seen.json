@@ -361,6 +361,7 @@
   "simplify:1afc9be8-8086-41f4-9361-1a3bcb6752c3": "2026-07-22",
   "simplify:1b014c6d-16f7-4573-a4f5-7afe869d2962": "2026-07-22",
   "simplify:1b21bdff-92f5-48ff-9546-d0a0dbd75a5c": "2026-07-22",
+  "simplify:1b22c446-ca15-46a6-8a3f-b6d8575ffa66": "2026-07-31",
   "simplify:1b36d08a-6e57-4594-9ffa-36bd8fc0c5ce": "2026-07-22",
   "simplify:1b3ee553-3abc-4f9f-9639-21234da78621": "2026-07-22",
   "simplify:1b94db6b-dd0f-4ed4-8bcb-426f4736c007": "2026-07-22",
@@ -1899,6 +1900,7 @@
   "simplify:db980a0f-d55b-4030-8e3f-2759d0156e13": "2026-07-22",
   "simplify:dc39e31e-20cd-43e1-86d2-386274f207de": "2026-07-22",
   "simplify:dc3ec8a7-82ee-42c2-ab71-afe0d5944df1": "2026-07-22",
+  "simplify:dc6217c1-230d-4b6d-9ec6-781741754f2e": "2026-07-31",
   "simplify:dc78ae5b-1e53-4193-9e47-0549b350dd79": "2026-07-31",
   "simplify:dc8cd8dc-3c3b-409c-9320-6db0956ea02c": "2026-07-22",
   "simplify:dc97139d-fa2b-4aa2-8621-a1924dcbdb75": "2026-07-22",
@@ -2332,5 +2334,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-07-31T14:43:24+00:00"
+ "last_tier2_at": "2026-07-31T16:23:11+00:00"
 }
