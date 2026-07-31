@@ -1597,6 +1597,7 @@
   "simplify:b612d521-328b-4904-b599-634bb4eb79fb": "2026-07-22",
   "simplify:b638e646-a8c7-484b-9b2b-51e2b939e5c6": "2026-07-22",
   "simplify:b6597368-7e03-414a-afc4-e66587a86cdd": "2026-07-22",
+  "simplify:b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3": "2026-07-31",
   "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc": "2026-07-22",
   "simplify:b79c1989-c4d0-4236-83c7-5cc5c3a24ae2": "2026-07-22",
   "simplify:b7c939a9-49e2-41fb-b06c-af7bf8288a18": "2026-07-22",
@@ -1897,6 +1898,7 @@
   "simplify:db980a0f-d55b-4030-8e3f-2759d0156e13": "2026-07-22",
   "simplify:dc39e31e-20cd-43e1-86d2-386274f207de": "2026-07-22",
   "simplify:dc3ec8a7-82ee-42c2-ab71-afe0d5944df1": "2026-07-22",
+  "simplify:dc78ae5b-1e53-4193-9e47-0549b350dd79": "2026-07-31",
   "simplify:dc8cd8dc-3c3b-409c-9320-6db0956ea02c": "2026-07-22",
   "simplify:dc97139d-fa2b-4aa2-8621-a1924dcbdb75": "2026-07-22",
   "simplify:dc9b0e8b-1928-4f3b-8d50-5c43e45b2c36": "2026-07-22",
@@ -2247,6 +2249,7 @@
   "ge|engineering development program": "2026-07-29 simplify",
   "ge|software engineer transmission": "2026-07-24 simplify",
   "huntington|software engineer 1": "2026-07-26 simplify",
+  "intel|system software engineer": "2026-07-31 simplify",
   "intertek|associate software developer": "2026-07-28 simplify",
   "iridium|engineer 1 software engineer": "2026-07-24 simplify",
   "jp|software engineer 2 java fullstack react": "2026-07-28 simplify",
@@ -2284,6 +2287,7 @@
   "remitly|fullstack software development engineer 1 card": "2026-07-29 simplify",
   "retell|internal deployed engineer": "2026-07-26 simplify",
   "retell|software engineer": "2026-07-26 simplify",
+  "reverb|software engineer shipping": "2026-07-31 simplify",
   "revvity|associate software development engineer": "2026-07-27 simplify",
   "rocket|software engineer 1": "2026-07-28 simplify",
   "rollout|founding software engineer": "2026-07-30 simplify",
@@ -2324,5 +2328,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-07-31T10:14:19+00:00"
+ "last_tier2_at": "2026-07-31T12:16:37+00:00"
 }
