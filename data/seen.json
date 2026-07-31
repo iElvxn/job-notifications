@@ -650,6 +650,7 @@
   "simplify:3d10b00e-4044-46fa-a6b1-65c1b085e91f": "2026-07-22",
   "simplify:3d40984e-d6a2-41ef-8da4-63f967b95506": "2026-07-28",
   "simplify:3da2a20b-7a0c-4e76-9edf-aba7f6ebedf8": "2026-07-22",
+  "simplify:3db3eeab-2418-4414-9d0c-57317714935f": "2026-07-31",
   "simplify:3e18b0f3-e8d6-4b60-b92d-963abebca45b": "2026-07-22",
   "simplify:3e27f6f2-4ccd-49ee-aba7-8e836a225375": "2026-07-22",
   "simplify:3e28ce6e-1005-4cd7-b423-8f680a64fe66": "2026-07-22",
@@ -2206,6 +2207,7 @@
  "notified_keys": {
   "abbott|systems engineer 1": "2026-07-28 simplify",
   "abbvie|associate software engineer 1": "2026-07-29 simplify",
+  "advocate|product engineer": "2026-07-31 simplify",
   "alta|software engineer": "2026-07-28 simplify",
   "american|java developer 1": "2026-07-27 simplify",
   "amerisure|software engineer 1": "2026-07-30 simplify",
@@ -2322,5 +2324,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-07-31T07:42:20+00:00"
+ "last_tier2_at": "2026-07-31T10:14:19+00:00"
 }
