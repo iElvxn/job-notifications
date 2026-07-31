@@ -1140,6 +1140,7 @@
   "simplify:7b32cd72-496a-4768-81e0-88f4990a12b3": "2026-07-22",
   "simplify:7b99dc92-140a-4a0e-9bd9-3e66fb80535c": "2026-07-22",
   "simplify:7bc6376f-bcd6-4836-99e5-8721a5d55ed8": "2026-07-23",
+  "simplify:7bcafcc7-31cf-41d4-87f2-24cd9a2c4cd1": "2026-07-31",
   "simplify:7bd6d4b2-7f58-44d8-b17b-c9825db464b0": "2026-07-22",
   "simplify:7bde2c71-7e49-4e05-a5b4-6a3d1e651706": "2026-07-22",
   "simplify:7be86b0e-5b51-46fd-9eac-67bf83afe6af": "2026-07-22",
@@ -2088,6 +2089,7 @@
   "simplify:f41272f9-0120-450f-abf0-a8d6cbd6d49d": "2026-07-22",
   "simplify:f41790eb-8c94-4879-9b85-5c60ed5f3d6c": "2026-07-22",
   "simplify:f45d6dea-eb48-4072-bf6b-335e3476a2d3": "2026-07-22",
+  "simplify:f49965a8-66d7-460e-aefb-c756911f4dff": "2026-07-31",
   "simplify:f4c09f3f-0aa5-49d0-8832-6a26a6a5e3a0": "2026-07-22",
   "simplify:f5021ba3-ab40-4f41-8ba1-9bb148f6533d": "2026-07-23",
   "simplify:f5176a46-e3ca-41b3-a105-0893c3becc02": "2026-07-22",
@@ -2256,7 +2258,9 @@
   "kbr|junior reverse engineer": "2026-07-29 simplify",
   "l3harris|associate software engineer": "2026-07-28 simplify",
   "l3harris|software engineer associate": "2026-07-28 simplify",
+  "l3harris|software engineering associate": "2026-07-31 simplify",
   "leidos|cybersecurity product engineer": "2026-07-27 simplify",
+  "leidos|software engineer": "2026-07-31 simplify",
   "leidos|software engineer tactical decision aids entry level": "2026-07-28 simplify",
   "life|associate software engineer": "2026-07-28 simplify",
   "linamar|product engineer": "2026-07-28 simplify",
@@ -2328,5 +2332,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-07-31T12:16:37+00:00"
+ "last_tier2_at": "2026-07-31T14:43:24+00:00"
 }
