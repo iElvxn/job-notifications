@@ -317,6 +317,7 @@
   "simplify:1530dfa5-7c83-434e-a46e-bead4069bdcd": "2026-07-22",
   "simplify:15516d2c-266f-4437-aa09-f737ed54939c": "2026-07-26",
   "simplify:15ab606d-06a7-4c26-a9f0-13694d5b2e85": "2026-07-22",
+  "simplify:15b8e425-7774-43c9-9a6b-93b969bef2a3": "2026-08-01",
   "simplify:1600d176-4eb0-4795-b869-f9ffced07431": "2026-07-22",
   "simplify:1619e24c-542d-4737-9c8d-d2da19828cee": "2026-07-23",
   "simplify:163dc031-ef89-45df-ac7b-23c2a0d3af34": "2026-07-22",
@@ -2128,6 +2129,7 @@
   "simplify:f667aafd-a58e-4445-a974-54d1951d1f59": "2026-07-22",
   "simplify:f677e047-8b60-482d-af3f-74bc07856997": "2026-07-22",
   "simplify:f6865848-c6d8-4488-a94b-ee21317efaa1": "2026-07-22",
+  "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708": "2026-08-01",
   "simplify:f6f83b45-cf4c-4a3e-8f32-4c64672610a1": "2026-07-22",
   "simplify:f6f93c70-242c-4186-a7d2-07dd6a45694b": "2026-07-22",
   "simplify:f70759d2-0bda-40f7-b0fc-f4bf6c03dcf1": "2026-07-22",
@@ -2234,6 +2236,7 @@
   "amerisure|software engineer 1": "2026-07-30 simplify",
   "apple|camera framework tooling engineer photo capture camera photos": "2026-07-28 simplify",
   "arevon|software engineer business systems analytics": "2026-07-30 simplify",
+  "asure|associate software engineer": "2026-08-01 simplify",
   "autozone|systems engineer associate": "2026-07-28 simplify",
   "barry|entry level software engineer": "2026-07-27 simplify",
   "black|junior full stack software engineer": "2026-07-25 simplify",
@@ -2336,8 +2339,9 @@
   "uw|software engineer 1": "2026-07-27 simplify",
   "vanderbilt|c angular associate application developer": "2026-07-26 simplify",
   "vanguard|entry level application engineer": "2026-07-25 simplify",
+  "wolverine|entry level c software engineer": "2026-08-01 simplify",
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-01T01:10:42+00:00"
+ "last_tier2_at": "2026-08-01T04:32:37+00:00"
 }
