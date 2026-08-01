@@ -580,6 +580,7 @@
   "simplify:345a57b5-fae1-45c1-8deb-5bbec4479e03": "2026-07-22",
   "simplify:346f07a8-ce10-40ae-b1d9-948c14b7069e": "2026-07-22",
   "simplify:347ad34c-98ce-4245-9703-f274852392e9": "2026-07-22",
+  "simplify:347c86f7-de69-4c24-80ba-3330d30638f0": "2026-08-01",
   "simplify:3481ca92-3cec-4dbc-9f0f-31e628dba4bb": "2026-07-24",
   "simplify:348e5c70-9a2b-4069-8a53-7cd8c9ff056c": "2026-07-22",
   "simplify:348e8842-fc0c-473c-b9fa-175e01026803": "2026-07-22",
@@ -1618,6 +1619,7 @@
   "simplify:b638e646-a8c7-484b-9b2b-51e2b939e5c6": "2026-07-22",
   "simplify:b6597368-7e03-414a-afc4-e66587a86cdd": "2026-07-22",
   "simplify:b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3": "2026-07-31",
+  "simplify:b75b33ad-8ca9-41fa-93dd-45a8df47f6c1": "2026-08-01",
   "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc": "2026-07-22",
   "simplify:b79c1989-c4d0-4236-83c7-5cc5c3a24ae2": "2026-07-22",
   "simplify:b7c939a9-49e2-41fb-b06c-af7bf8288a18": "2026-07-22",
@@ -2247,6 +2249,7 @@
   "bot|software engineer generalist in autonomous driving system": "2026-07-25 simplify",
   "caci|full stack developer": "2026-07-29 simplify",
   "cadence|application software developer new grad": "2026-07-31 simplify",
+  "cadence|computational aeroelasticity developer": "2026-08-01 simplify",
   "cadence|multibody dynamics application software developer new grad adams": "2026-07-31 simplify",
   "cetera|ai engineer": "2026-07-29 simplify",
   "chainlink|software engineer 1": "2026-07-28 simplify",
@@ -2335,7 +2338,7 @@
   "tavern|engineer 1 paid media": "2026-07-28 simplify",
   "tavern|engineer 1 surveys": "2026-07-28 simplify",
   "tevora|associate developer 1": "2026-07-29 simplify",
-  "texas|junior software engineer ai forward": "2026-07-29 simplify",
+  "texas|junior software engineer ai forward": "2026-08-01 simplify",
   "textron|software engineer 1 sea systems": "2026-07-28 simplify",
   "the|entry level software engineer developers": "2026-07-29 simplify",
   "the|infrastructure implementation engineer": "2026-07-25 simplify",
@@ -2351,5 +2354,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-01T20:38:07+00:00"
+ "last_tier2_at": "2026-08-01T21:32:34+00:00"
 }
