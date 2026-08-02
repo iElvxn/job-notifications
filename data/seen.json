@@ -2033,6 +2033,7 @@
   "simplify:e70a6298-4295-4103-9bd0-c71132bdc2a4": "2026-07-22",
   "simplify:e71637f3-93d6-4e0a-9743-73e6cf063739": "2026-07-22",
   "simplify:e7563970-e9fe-4113-a13b-d286b6149540": "2026-07-23",
+  "simplify:e75c8911-e320-4bc9-9ee7-a71bf0a74473": "2026-08-02",
   "simplify:e76331d3-e63d-4e1e-a4fe-e0fccbb126c8": "2026-07-22",
   "simplify:e78d9861-7865-4fcd-963b-b1697694a2f5": "2026-07-22",
   "simplify:e79aefdd-a0ab-47c7-8139-2d34c1e2b4a5": "2026-07-22",
@@ -2348,6 +2349,7 @@
   "nvidia|ai inference performance engineer new college grad 2026": "2026-07-30 workday",
   "nvidia|developer technology engineer ai new college grad 2026": "2026-07-28 workday",
   "oligo|ai space systems software engineer": "2026-08-01 simplify",
+  "pennsylvania|devsecops research computing software engineer": "2026-08-02 simplify",
   "peraton|software development associate": "2026-07-28 simplify",
   "philips|software engineer medical image reconstruction c cuda": "2026-07-28 simplify",
   "regal|application engineer 1": "2026-07-30 simplify",
@@ -2385,5 +2387,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-02T11:50:44+00:00"
+ "last_tier2_at": "2026-08-02T12:49:34+00:00"
 }
