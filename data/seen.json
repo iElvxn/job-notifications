@@ -2261,8 +2261,6 @@
   "autozone|systems engineer associate": "2026-07-28 simplify",
   "bank|software developer": "2026-08-01 simplify",
   "barry|entry level software engineer": "2026-07-27 simplify",
-  "black|junior full stack software engineer": "2026-07-25 simplify",
-  "bot|software engineer generalist in autonomous driving system": "2026-07-25 simplify",
   "caci|full stack developer": "2026-07-29 simplify",
   "cadence|application software developer new grad": "2026-07-31 simplify",
   "cadence|computational aeroelasticity developer": "2026-08-01 simplify",
@@ -2352,7 +2350,6 @@
   "rtx|software engineer 1": "2026-08-01 simplify",
   "rtx|systems engineer 1 tactical missile system simulation unreal engine": "2026-07-28 simplify",
   "runsybil|software engineer 1": "2026-07-28 simplify",
-  "salesforce|software engineer backend mts": "2026-07-25 workday",
   "salesforce|software engineering amts": "2026-07-29 workday",
   "salesforce|software engineering mts": "2026-07-31 workday",
   "savannah|puridiom java developer associate or mid level it programmer analyst": "2026-07-28 simplify",
@@ -2364,18 +2361,15 @@
   "texas|junior software engineer ai forward": "2026-08-01 simplify",
   "textron|software engineer 1 sea systems": "2026-07-28 simplify",
   "the|entry level software engineer developers": "2026-07-29 simplify",
-  "the|infrastructure implementation engineer": "2026-07-25 simplify",
   "the|software engineer 1": "2026-07-28 simplify",
   "the|software systems engineer": "2026-07-29 simplify",
   "t|associate engineer software": "2026-07-29 simplify",
-  "united|developer it front end developer": "2026-07-25 simplify",
   "usul|forward deployed engineer": "2026-07-29 simplify",
   "uw|software engineer 1": "2026-07-27 simplify",
   "vanderbilt|c angular associate application developer": "2026-07-26 simplify",
-  "vanguard|entry level application engineer": "2026-07-25 simplify",
   "wolverine|entry level c software engineer": "2026-08-01 simplify",
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-01T23:37:00+00:00"
+ "last_tier2_at": "2026-08-02T01:11:49+00:00"
 }
