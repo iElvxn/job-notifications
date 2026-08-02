@@ -2005,6 +2005,7 @@
   "simplify:e3632d9b-0b41-4c09-ae1a-a244b64548ba": "2026-07-22",
   "simplify:e3815529-57c7-41bb-8d69-cad889c3b01e": "2026-07-23",
   "simplify:e3a99a77-86d4-44e8-8c1d-6f9016adc87f": "2026-07-22",
+  "simplify:e3cfe515-6df5-4847-9b31-0a9b950a8524": "2026-08-02",
   "simplify:e4077c52-2354-4df5-9e3b-8d653242718a": "2026-07-22",
   "simplify:e40f133a-71ab-472d-8ef3-4d156379450f": "2026-07-22",
   "simplify:e477c19e-0543-43fc-af92-9a394bca77e5": "2026-07-29",
@@ -2323,6 +2324,7 @@
   "leidos|software engineer": "2026-07-31 simplify",
   "leidos|software engineer tactical decision aids entry level": "2026-07-28 simplify",
   "life|associate software engineer": "2026-07-28 simplify",
+  "lightfield|early career infrastructure software engineer": "2026-08-02 simplify",
   "linamar|product engineer": "2026-07-28 simplify",
   "logicbroker|software engineer": "2026-07-29 simplify",
   "mantech|associate cno developer": "2026-08-02 simplify",
@@ -2389,5 +2391,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-02T21:32:43+00:00"
+ "last_tier2_at": "2026-08-02T22:35:01+00:00"
 }
