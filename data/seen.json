@@ -2309,7 +2309,6 @@
   "general|software developer virtualization and sil integration": "2026-07-31 simplify",
   "ge|ai tool developer engineer": "2026-07-29 simplify",
   "ge|engineering development program": "2026-07-29 simplify",
-  "huntington|software engineer 1": "2026-07-26 simplify",
   "intel|system software engineer": "2026-07-31 simplify",
   "intertek|associate software developer": "2026-07-28 simplify",
   "jp|software engineer 2 java fullstack react": "2026-07-28 simplify",
@@ -2358,8 +2357,6 @@
   "philips|software engineer medical image reconstruction c cuda": "2026-07-28 simplify",
   "regal|application engineer 1": "2026-07-30 simplify",
   "remitly|fullstack software development engineer 1 card": "2026-07-29 simplify",
-  "retell|internal deployed engineer": "2026-07-26 simplify",
-  "retell|software engineer": "2026-07-26 simplify",
   "reverb|software engineer shipping": "2026-07-31 simplify",
   "revvity|associate software development engineer": "2026-07-27 simplify",
   "rocket|software engineer 1": "2026-07-28 simplify",
@@ -2386,10 +2383,9 @@
   "t|associate engineer software": "2026-07-29 simplify",
   "usul|forward deployed engineer": "2026-07-29 simplify",
   "uw|software engineer 1": "2026-07-27 simplify",
-  "vanderbilt|c angular associate application developer": "2026-07-26 simplify",
   "wolverine|entry level c software engineer": "2026-08-01 simplify",
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-02T23:37:49+00:00"
+ "last_tier2_at": "2026-08-03T01:12:10+00:00"
 }
