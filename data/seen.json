@@ -1590,6 +1590,7 @@
   "simplify:ac6dfc8f-7d5b-4f50-8a9a-4add4fa19f6c": "2026-07-22",
   "simplify:ac78bf99-5e40-411f-8671-769122893ad2": "2026-07-23",
   "simplify:aca2cbca-71c0-435f-83b5-d07623be4c1a": "2026-07-22",
+  "simplify:acab3458-c681-419e-821c-031f7b12b082": "2026-08-03",
   "simplify:acbc4b8d-0115-4cb4-aac8-da1952d07302": "2026-07-22",
   "simplify:acc0eb53-462e-48f5-b581-a821729c6b16": "2026-07-22",
   "simplify:acc77914-fec3-476d-9bcc-0804776e7465": "2026-07-22",
@@ -2450,6 +2451,7 @@
   "rocket|software engineer 1": "2026-07-28 simplify",
   "rollout|founding software engineer": "2026-07-30 simplify",
   "rtx|associate software engineer simulation": "2026-07-28 simplify",
+  "rtx|cyberspace research developer": "2026-08-03 simplify",
   "rtx|java software engineer 1": "2026-07-27 simplify",
   "rtx|program product engineer 2": "2026-07-29 simplify",
   "rtx|software engineer 1": "2026-08-01 simplify",
@@ -2496,5 +2498,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-03T11:51:37+00:00"
+ "last_tier2_at": "2026-08-03T14:08:12+00:00"
 }
