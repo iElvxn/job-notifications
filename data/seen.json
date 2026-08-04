@@ -934,6 +934,7 @@
   "simplify:5cbf5a0a-7c10-4880-b936-73372c67f329": "2026-07-22",
   "simplify:5cd612da-7f1a-4d55-8fec-d7331800989b": "2026-07-22",
   "simplify:5cdafd83-dd1b-4e63-8712-e50a41b28317": "2026-07-22",
+  "simplify:5ced01a5-6d42-47fc-90a6-5a183c724f67": "2026-08-04",
   "simplify:5d023457-583e-4d96-a658-1530450d2382": "2026-07-23",
   "simplify:5d1297f8-fa47-47f1-8e47-d3b0c8a58d77": "2026-07-22",
   "simplify:5d4273a4-4eda-4ac4-8656-a398851d11d7": "2026-07-22",
@@ -2340,6 +2341,7 @@
   "abbvie|associate software engineer 1": "2026-07-29 simplify",
   "abec|product engineer": "2026-08-02 simplify",
   "advocate|product engineer": "2026-07-31 simplify",
+  "agate|software developer 1": "2026-08-04 simplify",
   "alta|software engineer": "2026-07-28 simplify",
   "amazon|software development engineer i ai ml network infrastructure annapurna labs": "2026-08-03 amazon",
   "amerisure|software engineer 1": "2026-07-30 simplify",
@@ -2528,5 +2530,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-04T01:05:42+00:00"
+ "last_tier2_at": "2026-08-04T04:27:30+00:00"
 }
