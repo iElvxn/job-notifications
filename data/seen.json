@@ -463,6 +463,7 @@
   "simplify:24c586e2-4b8e-49a9-b78f-a304a23cfd6e": "2026-07-22",
   "simplify:24c60afb-02f8-4cfa-8b73-b1949e67ede8": "2026-07-22",
   "simplify:24c6a8ee-dffa-4ef6-b866-bbdf5be3cd1f": "2026-07-22",
+  "simplify:24d89841-c8be-4eea-95fb-98701ee651a1": "2026-08-04",
   "simplify:24f7a852-c520-4e80-ac50-0942ada112c0": "2026-07-22",
   "simplify:24fadc66-2828-4d04-bbc9-63732a34a3a0": "2026-07-22",
   "simplify:24fda12b-d6f7-436e-b6f6-5bc3671536ee": "2026-07-28",
@@ -1027,6 +1028,7 @@
   "simplify:6667cebb-7f69-4d17-9b3c-c2cc546684b4": "2026-07-22",
   "simplify:66729d57-3a29-40b5-8252-a50252c674ee": "2026-07-22",
   "simplify:668d21b2-38bf-49f9-bbca-c2a01637e348": "2026-07-22",
+  "simplify:66b56a57-0b34-4268-9aeb-d1eeb074c004": "2026-08-04",
   "simplify:66cb9e6f-2e5e-4fab-be1b-bf612ad91a02": "2026-07-22",
   "simplify:66e410a1-7469-4536-a3b0-bb5a86f56155": "2026-07-22",
   "simplify:66f5c919-4f16-4374-a401-b9a26aacb171": "2026-07-22",
@@ -2500,7 +2502,7 @@
   "rtx|associate software engineer simulation": "2026-07-28 simplify",
   "rtx|cyberspace research developer": "2026-08-03 simplify",
   "rtx|program product engineer 2": "2026-07-29 simplify",
-  "rtx|software engineer 1": "2026-08-01 simplify",
+  "rtx|software engineer 1": "2026-08-04 simplify",
   "rtx|systems engineer 1 tactical missile system simulation unreal engine": "2026-07-28 simplify",
   "runsybil|software engineer 1": "2026-07-28 simplify",
   "salesforce|software engineering amts": "2026-07-29 workday",
@@ -2542,6 +2544,7 @@
   "tiktok|frontend software engineer new grad ads interface": "2026-08-04 simplify",
   "tiktok|graduate software engineer": "2026-08-04 simplify",
   "tiktok|graduate software engineer ads interface": "2026-08-04 simplify",
+  "tiktok|graduate software engineer global live": "2026-08-04 simplify",
   "tiktok|graduate software engineer transaction platform": "2026-08-04 simplify",
   "tiktok|mobile software engineer graduate global e commerce": "2026-08-04 simplify",
   "tiktok|software engineer graduate ads delivery": "2026-08-03 simplify",
@@ -2563,5 +2566,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-04T09:47:49+00:00"
+ "last_tier2_at": "2026-08-04T11:52:45+00:00"
 }
