@@ -1987,6 +1987,7 @@
   "simplify:d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79": "2026-08-03",
   "simplify:d7bfc632-f8e1-47db-a664-90b1bdad433e": "2026-07-22",
   "simplify:d7cdec21-1d63-46c8-8dee-3c6968019ca3": "2026-08-04",
+  "simplify:d7db9bcb-09a6-4fff-a393-b83f4c24650a": "2026-08-04",
   "simplify:d7efd06c-f78a-41c8-9b51-59e2289f8eff": "2026-07-22",
   "simplify:d7f1b24a-b651-4239-81a5-05805190a745": "2026-07-22",
   "simplify:d814462b-3da1-4eea-a608-4b26245a5207": "2026-07-22",
@@ -2039,6 +2040,7 @@
   "simplify:dcd3cb09-4002-414a-be27-7ef51ee4ded9": "2026-07-22",
   "simplify:dcd794ed-4bea-4e26-81ff-e15bcf21d74a": "2026-07-22",
   "simplify:dcdf0a09-b26b-4234-835e-fdcb9892d744": "2026-07-22",
+  "simplify:dce3f078-93bf-4cc2-b767-e6decb79a399": "2026-08-04",
   "simplify:dd00b6e1-6bbb-4984-b566-e04475a1c181": "2026-07-22",
   "simplify:dd8f457d-8504-4e96-9788-306f132e5ae9": "2026-07-22",
   "simplify:dd9ebf83-de62-46a1-bb39-e82699aaad89": "2026-07-22",
@@ -2445,6 +2447,7 @@
   "jp|software engineer 2 java fullstack react": "2026-07-28 simplify",
   "kbr|junior reverse engineer": "2026-07-29 simplify",
   "kearney|full stack developer": "2026-08-01 simplify",
+  "kimley|software analyst": "2026-08-04 simplify",
   "kla|software engineer hpc": "2026-07-31 simplify",
   "l3harris|associate software engineer": "2026-08-03 simplify",
   "l3harris|associate software engineering": "2026-08-03 simplify",
@@ -2570,5 +2573,5 @@
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify",
   "xylem|application engineer": "2026-07-28 simplify"
  },
- "last_tier2_at": "2026-08-04T21:54:58+00:00"
+ "last_tier2_at": "2026-08-04T22:49:56+00:00"
 }
