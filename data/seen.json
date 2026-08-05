@@ -534,6 +534,7 @@
   "simplify:2bfd2c42-df8c-4a58-b251-765aeecf670a": "2026-07-22",
   "simplify:2c24322b-3f22-439d-89d9-a8a4549bb524": "2026-07-22",
   "simplify:2c2a2898-3652-4250-a005-e13ec6e876c7": "2026-07-22",
+  "simplify:2c2eb6e8-d129-4384-bdce-cdd5ba022bfc": "2026-08-05",
   "simplify:2c5e15e0-f04c-4140-a057-99e89f67c85b": "2026-07-22",
   "simplify:2d167d8e-a034-4b6d-a578-d0806e341bbd": "2026-07-30",
   "simplify:2d1d84a0-ff46-441d-b4b8-e580fd19fa16": "2026-08-04",
@@ -683,6 +684,7 @@
   "simplify:3ccd5127-426c-4ad7-8fa1-15609ea42456": "2026-07-22",
   "simplify:3cfd847d-8785-4b47-96fe-b2b7a08b64fe": "2026-07-22",
   "simplify:3d10b00e-4044-46fa-a6b1-65c1b085e91f": "2026-07-22",
+  "simplify:3d38784e-80ec-40c4-9082-77aabd533031": "2026-08-05",
   "simplify:3d40984e-d6a2-41ef-8da4-63f967b95506": "2026-07-28",
   "simplify:3d5a1762-f363-481e-8f1a-fe8b490d1e8e": "2026-08-03",
   "simplify:3da2a20b-7a0c-4e76-9edf-aba7f6ebedf8": "2026-07-22",
@@ -1399,6 +1401,7 @@
   "simplify:91e63edf-634a-438a-8645-8b316d48cfcf": "2026-07-22",
   "simplify:91f7ed1e-cf30-4148-8ff7-6391fc305b94": "2026-07-24",
   "simplify:923db8bc-d310-4bbd-8a32-88861442e7c4": "2026-07-22",
+  "simplify:924b8ac7-f08b-4620-9762-01deab61c794": "2026-08-05",
   "simplify:924fc467-6a00-4b71-a7f6-bbad54acd4c5": "2026-07-22",
   "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e": "2026-07-22",
   "simplify:92ee85c1-b699-4161-842a-55df186233f2": "2026-07-31",
@@ -2369,6 +2372,7 @@
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
   "workday/salesforce:JR349609": "2026-07-22",
+  "workday/salesforce:JR349901": "2026-08-05",
   "workday/salesforce:JR352457": "2026-07-22",
   "workday/salesforce:JR352953": "2026-08-03",
   "workday/salesforce:JR354301": "2026-07-31"
@@ -2395,6 +2399,7 @@
   "bytedance|artificial intelligence software engineer development infrastructure": "2026-08-03 simplify",
   "bytedance|backend and infrastructure software engineer new grad dev infra": "2026-08-03 simplify",
   "bytedance|backend software engineer graduate platform": "2026-08-03 simplify",
+  "bytedance|graduate ai model optimization engineer data speech product r d engineering": "2026-08-05 simplify",
   "bytedance|security engineer new grad threat detection and response": "2026-08-03 simplify",
   "bytedance|software engineer ai agent infrastructure security engineering": "2026-08-03 simplify",
   "bytedance|software engineer graduate ai infrastructure compute": "2026-08-03 simplify",
@@ -2502,6 +2507,7 @@
   "rtx|cyberspace research developer": "2026-08-03 simplify",
   "rtx|program product engineer 2": "2026-07-29 simplify",
   "rtx|software engineer 1": "2026-08-04 simplify",
+  "salesforce|software engineer mts agent studio observability ui": "2026-08-05 workday",
   "salesforce|software engineering amts": "2026-07-29 workday",
   "salesforce|software engineering mts": "2026-07-31 workday",
   "salesforce|software engineering mts smts salesforce core platform": "2026-08-03 workday",
@@ -2512,6 +2518,8 @@
   "socotec|junior software engineer": "2026-08-03 simplify",
   "southern|application engineer 1 psd": "2026-08-03 simplify",
   "southern|designer 1 application engineering": "2026-08-03 simplify",
+  "starbucks|application developer application development": "2026-08-05 simplify",
+  "starbucks|software engineer software engineering": "2026-08-05 simplify",
   "stellar|emerging modern c software developer": "2026-08-03 simplify",
   "tevora|associate developer 1": "2026-07-29 simplify",
   "texas|junior ai software engineer": "2026-08-03 simplify",
@@ -2557,5 +2565,5 @@
   "wonderbotz|junior software engineer": "2026-08-03 simplify",
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify"
  },
- "last_tier2_at": "2026-08-05T07:21:12+00:00"
+ "last_tier2_at": "2026-08-05T10:02:39+00:00"
 }
