@@ -872,6 +872,7 @@
   "simplify:530a8435-9ad4-4ba8-8b05-2cbc6e7532a9": "2026-07-22",
   "simplify:5333f836-9cf2-4382-96ba-082613f49176": "2026-07-30",
   "simplify:536242db-62cc-4f97-b8e4-d38cd8088500": "2026-07-22",
+  "simplify:53674862-c0d4-4b5c-8529-59e8bfba387d": "2026-08-06",
   "simplify:538e7991-2b20-4492-b418-e7ac75c0c8b9": "2026-07-23",
   "simplify:53afcb81-1e2e-483f-a749-45c014336327": "2026-07-22",
   "simplify:53d494d3-bfed-4996-9165-15ffb7c486f6": "2026-07-22",
@@ -1404,6 +1405,7 @@
   "simplify:8fc60c09-fa44-4223-889e-377f0773f697": "2026-07-22",
   "simplify:8fe68f48-820b-4cb6-a7a1-320503351d61": "2026-07-22",
   "simplify:8febfbb4-d285-4402-b2a4-e2b3cb902e20": "2026-08-03",
+  "simplify:90326487-43c7-4181-ac71-44e331484bf4": "2026-08-06",
   "simplify:906a54ba-479e-4593-8fae-3ac47867717b": "2026-08-03",
   "simplify:90b92c02-68ac-4402-b8f2-91494bc89e19": "2026-07-22",
   "simplify:90fee869-7610-4b0e-945a-7327502bae37": "2026-07-22",
@@ -1909,6 +1911,7 @@
   "simplify:c8dbf05b-aee8-4f84-a174-60e1bed590ba": "2026-07-22",
   "simplify:c8ebd7cf-ad8f-40af-b281-b1f22b13842f": "2026-07-22",
   "simplify:c924c806-5fa8-4f1d-9765-da6d89a05dc7": "2026-07-22",
+  "simplify:c92fc7de-e326-4327-8f9c-5195b90591e9": "2026-08-06",
   "simplify:c9a5b195-2b20-4bf0-9c3d-574667e66bd4": "2026-08-03",
   "simplify:c9ab7f92-f6ec-42d1-b42e-d04835febdf0": "2026-07-22",
   "simplify:c9f89689-277d-4507-95e7-eb3646d0581e": "2026-07-22",
@@ -2408,7 +2411,8 @@
   "workday/salesforce:JR349901": "2026-08-05",
   "workday/salesforce:JR352457": "2026-07-22",
   "workday/salesforce:JR352953": "2026-08-03",
-  "workday/salesforce:JR354301": "2026-07-31"
+  "workday/salesforce:JR354301": "2026-07-31",
+  "workday/salesforce:JR355250": "2026-08-06"
  },
  "notified_keys": {
   "abec|product engineer": "2026-08-02 simplify",
@@ -2423,6 +2427,7 @@
   "applied|application engineer 3": "2026-08-03 simplify",
   "arevon|software engineer business systems analytics": "2026-07-30 simplify",
   "artera|software engineer": "2026-08-03 simplify",
+  "assetmark|associate engineer": "2026-08-06 simplify",
   "asure|associate ai software engineer": "2026-08-05 simplify",
   "asure|associate software engineer": "2026-08-04 simplify",
   "bank|software developer": "2026-08-01 simplify",
@@ -2544,7 +2549,9 @@
   "rtx|software engineer 2 air traffic solutions": "2026-08-05 simplify",
   "rtx|software safety engineer": "2026-08-05 simplify",
   "saalex|automation developer": "2026-08-06 simplify",
+  "salesforce|software engineer college grad": "2026-08-06 simplify",
   "salesforce|software engineer mts agent studio observability ui": "2026-08-05 workday",
+  "salesforce|software engineering amts college grad": "2026-08-06 workday",
   "salesforce|software engineering mts": "2026-07-31 workday",
   "salesforce|software engineering mts smts salesforce core platform": "2026-08-03 workday",
   "samsara|software engineer 1 new grad": "2026-08-03 simplify",
@@ -2603,5 +2610,5 @@
   "wonderbotz|junior software engineer": "2026-08-03 simplify",
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify"
  },
- "last_tier2_at": "2026-08-06T13:26:53+00:00"
+ "last_tier2_at": "2026-08-06T15:37:49+00:00"
 }
