@@ -849,6 +849,7 @@
   "simplify:504f0b08-afb2-4964-b3cd-5dee1937b1ad": "2026-07-22",
   "simplify:509360f9-0204-4926-bbe2-59d92f7e7380": "2026-07-22",
   "simplify:50d9a250-7c25-4fe5-861d-0c8ad7f9299a": "2026-08-03",
+  "simplify:50e97511-4f52-43a6-985d-3fc9ce92d6bb": "2026-08-06",
   "simplify:5108ce31-2ddb-4d3e-a3ef-cf274ee67639": "2026-07-22",
   "simplify:510f6bf4-86ad-45e5-a051-b95b70df4a88": "2026-07-22",
   "simplify:511d9576-3972-49cf-a949-a84c117895f1": "2026-07-23",
@@ -2058,6 +2059,7 @@
   "simplify:da4700de-48be-43db-a6c2-b9fa2038a4e0": "2026-07-22",
   "simplify:da5cdf71-9a3d-481d-82ed-4bf5aedf8088": "2026-07-22",
   "simplify:da6a6bdb-c5d2-4aa4-8350-63b033037299": "2026-07-22",
+  "simplify:da8a18fa-889f-40b2-aed8-e47cf70f8f15": "2026-08-06",
   "simplify:da8bee36-e25d-4828-abae-42e0ba09e3d2": "2026-07-22",
   "simplify:dab22e42-1501-48f9-8e42-41475f560b6f": "2026-07-22",
   "simplify:dac9cae3-0071-42ed-9f63-60609679292f": "2026-07-22",
@@ -2204,6 +2206,7 @@
   "simplify:ea634b62-9d57-4c6d-8b6f-bbc560848a6f": "2026-07-23",
   "simplify:ea6ef50e-2bca-4a9a-be3e-1f91bc32ca03": "2026-07-22",
   "simplify:ea7f7cb2-ad06-44c7-8cd8-5652e226befb": "2026-07-24",
+  "simplify:ea9a3407-4535-40e5-900c-45b263afa69c": "2026-08-06",
   "simplify:eaa6e78a-e474-42a6-913d-2d1c84381e5f": "2026-07-22",
   "simplify:eade91a6-60d5-49dd-8a45-35003ed22533": "2026-07-28",
   "simplify:eb0bee04-982f-474c-b241-2fd8d8450c18": "2026-07-22",
@@ -2427,8 +2430,11 @@
   "bytedance|3d graphics innovation engineer pico foundation developer technology": "2026-08-04 simplify",
   "bytedance|artificial intelligence software engineer development infrastructure": "2026-08-03 simplify",
   "bytedance|backend and infrastructure software engineer new grad dev infra": "2026-08-03 simplify",
+  "bytedance|backend inference framework engineer aml inference": "2026-08-06 simplify",
+  "bytedance|backend inference runtime engineer new grad aml inference": "2026-08-06 simplify",
   "bytedance|backend software engineer graduate platform": "2026-08-03 simplify",
   "bytedance|graduate ai model optimization engineer data speech product r d engineering": "2026-08-05 simplify",
+  "bytedance|graduate software engineer data intelligent creation ai platform global vision engineering": "2026-08-06 simplify",
   "bytedance|operating system engineer graduate operating system system technologies and engineering": "2026-08-06 simplify",
   "bytedance|security engineer new grad threat detection and response": "2026-08-03 simplify",
   "bytedance|software engineer ai agent infrastructure security engineering": "2026-08-03 simplify",
@@ -2597,5 +2603,5 @@
   "wonderbotz|junior software engineer": "2026-08-03 simplify",
   "woven|software engineer calibration analysis tool": "2026-07-30 simplify"
  },
- "last_tier2_at": "2026-08-06T04:26:53+00:00"
+ "last_tier2_at": "2026-08-06T07:11:16+00:00"
 }
