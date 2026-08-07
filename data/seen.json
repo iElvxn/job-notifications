@@ -207,6 +207,7 @@
   "simplify:03ff98d0-9bb1-4b91-a11f-1ed8b3777519": "2026-08-03",
   "simplify:043f6c60-2994-40d8-be87-dad65b17172c": "2026-07-22",
   "simplify:0469baa7-6bac-4434-860f-795b5207c1aa": "2026-07-22",
+  "simplify:0483a44f-f140-427e-a301-9d87c2344515": "2026-08-07",
   "simplify:04a97aa9-6df1-4408-aba8-a02b60712121": "2026-07-22",
   "simplify:04ab19d9-e442-4c1d-9c84-64f58b09240b": "2026-07-22",
   "simplify:04b12d83-7012-4bc9-b2c2-f3fea47e301b": "2026-07-22",
@@ -497,6 +498,7 @@
   "simplify:26844180-8da9-464a-8641-539f10c26639": "2026-07-22",
   "simplify:269848d0-7a8d-45ef-8519-06340de9f7fc": "2026-07-22",
   "simplify:26c7ab03-9323-42e2-aa15-b1e39a9530b1": "2026-07-22",
+  "simplify:26f3c78f-dda8-42c5-95af-0b4294303214": "2026-08-07",
   "simplify:26fe63da-ab35-4c3c-a2fb-9c2d3c58a726": "2026-07-22",
   "simplify:27128bd1-9b1b-4cf4-96f8-b1585bb7b987": "2026-07-22",
   "simplify:27354c8c-170b-488f-bbc8-61fbc488b26f": "2026-07-22",
@@ -1718,6 +1720,7 @@
   "simplify:b0c3891e-ee7f-4fd2-8bd6-68e85a6e9822": "2026-08-04",
   "simplify:b0de04a6-86de-4f47-b55b-b49784fc6c07": "2026-07-22",
   "simplify:b0e03cfa-ca6f-44e1-980f-5fabc237b26d": "2026-07-23",
+  "simplify:b0e4f405-60ec-4f76-bad9-511dd698c08d": "2026-08-07",
   "simplify:b0fff089-6a5e-4f21-ac7a-483e8e621e57": "2026-07-22",
   "simplify:b159e82d-ecc8-436c-bbc2-4fbd3391aa58": "2026-07-22",
   "simplify:b1960ddc-588d-4895-aae4-985dc2c5841a": "2026-07-22",
@@ -2036,6 +2039,7 @@
   "simplify:d6ad51e0-366b-4b13-b829-8c5dacf13565": "2026-07-28",
   "simplify:d6b8df2b-2bd2-4c1b-bfdb-4d118140a153": "2026-07-22",
   "simplify:d706d742-c4a0-4296-8c42-a3336449db90": "2026-07-22",
+  "simplify:d70d2957-012d-4805-b794-0d5527276f27": "2026-08-07",
   "simplify:d71136b8-4c71-4a40-9a37-7cb70f9afaee": "2026-07-22",
   "simplify:d719689b-b5b0-4b29-abec-aba4b0475305": "2026-07-28",
   "simplify:d71b1a02-c1ff-45cb-b43a-5c8a1f789e2a": "2026-07-22",
@@ -2450,6 +2454,7 @@
   "asure|associate ai software engineer": "2026-08-05 simplify",
   "asure|associate software engineer": "2026-08-04 simplify",
   "atoms|software engineer new grad": "2026-08-07 simplify",
+  "avalore|software engineer": "2026-08-07 simplify",
   "bank|software developer": "2026-08-01 simplify",
   "booker|full stack java developer": "2026-08-03 simplify",
   "bytedance|3d graphics innovation engineer pico foundation developer technology": "2026-08-04 simplify",
@@ -2511,6 +2516,9 @@
   "intelligenesis|software engineer 0": "2026-08-03 simplify",
   "intel|input output shift engineer 6 technology development engineer": "2026-08-03 simplify",
   "intel|system software engineer": "2026-07-31 simplify",
+  "interimage|full stack developer entry associate level": "2026-08-07 simplify",
+  "interimage|software engineer": "2026-08-07 simplify",
+  "interimage|software engineer 0": "2026-08-07 simplify",
   "intuitive|software engineer web application team": "2026-08-07 simplify",
   "itc|software developer net c navsup programs": "2026-08-03 simplify",
   "ixl|software engineer new grad": "2026-08-07 simplify",
@@ -2636,5 +2644,5 @@
   "wolverine|entry level c software engineer": "2026-08-01 simplify",
   "wonderbotz|junior software engineer": "2026-08-03 simplify"
  },
- "last_tier2_at": "2026-08-07T05:20:42+00:00"
+ "last_tier2_at": "2026-08-07T06:39:04+00:00"
 }
