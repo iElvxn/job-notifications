@@ -156,7 +156,9 @@
   "lever/palantir:f362d7aa-360d-4059-ab38-f482742693b3": "2026-07-22",
   "lever/palantir:fbca0358-083a-4222-bdbb-3bd729b48382": "2026-07-22",
   "microsoft:1970393556752268": "2026-08-05",
+  "microsoft:1970393556859432": "2026-08-07",
   "microsoft:1970393556860973": "2026-07-23",
+  "microsoft:1970393556867395": "2026-08-07",
   "microsoft:1970393556926963": "2026-07-29",
   "microsoft:1970393556929028": "2026-07-23",
   "microsoft:1970393556932425": "2026-07-24",
@@ -2549,6 +2551,7 @@
   "microsoft|software development consultant technology consulting": "2026-08-05 simplify",
   "microsoft|software engineer": "2026-08-07 microsoft",
   "microsoft|software engineer compute infra hpc": "2026-08-05 microsoft",
+  "microsoft|software engineer ctj poly": "2026-08-07 microsoft",
   "netsmart|software engineer": "2026-08-03 simplify",
   "newsbreak|software engineer junior new grad ml infra": "2026-07-31 simplify",
   "noblis|junior software developer": "2026-08-01 simplify",
@@ -2646,5 +2649,5 @@
   "wolverine|entry level c software engineer": "2026-08-01 simplify",
   "wonderbotz|junior software engineer": "2026-08-03 simplify"
  },
- "last_tier2_at": "2026-08-07T20:33:02+00:00"
+ "last_tier2_at": "2026-08-07T21:20:19+00:00"
 }
