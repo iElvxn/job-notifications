@@ -2168,6 +2168,7 @@
   "simplify:e0464682-609a-4b97-808a-3243925dea62": "2026-07-22",
   "simplify:e060f699-0319-4af1-86fe-3235c0e032c1": "2026-08-03",
   "simplify:e06ea605-2346-4f74-90cb-a2ad082e6ee3": "2026-07-22",
+  "simplify:e0a94eec-3148-4c4a-a240-6dbffb7885f3": "2026-08-08",
   "simplify:e0c9586d-765f-40ba-8f23-b95433868d36": "2026-07-22",
   "simplify:e0e1a29a-d1cb-4648-a75c-6916cdc8cbfe": "2026-07-22",
   "simplify:e10bad19-fd9e-4db1-b106-ff3fc338a92b": "2026-07-24",
@@ -2623,7 +2624,7 @@
   "southern|application engineer 1 psd": "2026-08-03 simplify",
   "southern|designer 1 application engineering": "2026-08-03 simplify",
   "starbucks|application developer application development": "2026-08-05 simplify",
-  "starbucks|software engineer software engineering": "2026-08-05 simplify",
+  "starbucks|software engineer software engineering": "2026-08-08 simplify",
   "stellar|emerging modern c software developer": "2026-08-03 simplify",
   "texas|junior ai software engineer": "2026-08-03 simplify",
   "texas|junior software engineer ai forward": "2026-08-01 simplify",
@@ -2676,5 +2677,5 @@
   "wolverine|entry level c software engineer": "2026-08-01 simplify",
   "wonderbotz|junior software engineer": "2026-08-03 simplify"
  },
- "last_tier2_at": "2026-08-08T15:16:06+00:00"
+ "last_tier2_at": "2026-08-08T15:52:04+00:00"
 }
