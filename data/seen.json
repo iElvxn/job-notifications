@@ -226,6 +226,7 @@
   "simplify:05815051-0821-4191-949b-c618f3a8d36e": "2026-07-22",
   "simplify:05bd45cb-da24-4b7e-8939-30ee09ff4c4f": "2026-08-03",
   "simplify:062d52cd-75cb-4a14-a428-ccae778d2f6d": "2026-07-22",
+  "simplify:06753993-8ac8-46f8-95a2-773c488a8d07": "2026-08-10",
   "simplify:068c33d1-37e9-4250-897b-6f892f36b6cf": "2026-07-22",
   "simplify:0693b2be-1d19-45ca-a48d-7345a1e23af8": "2026-07-22",
   "simplify:06e4e220-5e32-4c02-a3f2-566ebfdd2dcf": "2026-07-22",
@@ -758,6 +759,7 @@
   "simplify:4282b7bc-e937-4fb3-ada2-0ae60bb50ff3": "2026-07-22",
   "simplify:42b93584-3cba-4a81-a0fb-23f3f4bba07c": "2026-07-22",
   "simplify:42b979a9-208e-4d7b-afa4-00adc10107b9": "2026-07-22",
+  "simplify:42eb9963-840a-46d6-96fd-975e596c839f": "2026-08-10",
   "simplify:432431b2-2756-4e92-a866-d8bcaf710a6b": "2026-07-22",
   "simplify:43282669-26b4-424d-a58e-152780651ad6": "2026-08-03",
   "simplify:432f2a98-6083-457b-915b-52b50828742d": "2026-08-04",
@@ -2416,6 +2418,7 @@
   "simplify:fa833b4d-22a1-41d9-b0cf-9ae746021d98": "2026-08-04",
   "simplify:fabc45c2-5cc5-4891-bb61-145cdd6b0c7e": "2026-07-22",
   "simplify:fabf124a-32b2-45ba-bffe-d3084937296a": "2026-07-23",
+  "simplify:fad9be14-9d62-46ad-bf50-c787ed3b48d5": "2026-08-10",
   "simplify:fb32d8c1-90d9-4e21-85fa-e0b10b5d15a5": "2026-08-07",
   "simplify:fb36b1cc-b7db-4245-b995-01063045a9f2": "2026-07-22",
   "simplify:fb5917ce-bd82-47ef-85e5-deb003001c61": "2026-07-22",
@@ -2519,6 +2522,7 @@
   "bytedance|software engineer ai agent infrastructure security engineering": "2026-08-03 simplify",
   "bytedance|software engineer graduate ai infrastructure compute": "2026-08-03 simplify",
   "bytedance|software engineer graduate ai infrastructure compute efficiency scheduling": "2026-08-03 simplify",
+  "bytedance|software engineer graduate aml engine orchestration 2027 start": "2026-08-10 simplify",
   "bytedance|software engineer new grad ai infra compute": "2026-08-03 simplify",
   "bytedance|software engineer new grad ai infrastructure compute efficiency scheduling": "2026-08-03 simplify",
   "bytedance|software engineer new grad traffic infrastructure": "2026-08-03 simplify",
@@ -2546,6 +2550,7 @@
   "flexcompute|cfd solver developer": "2026-08-08 simplify",
   "flexcompute|software engineer infrastructure": "2026-08-08 simplify",
   "freddie|software developer analyst": "2026-08-03 simplify",
+  "fsh|engineer new grad": "2026-08-10 simplify",
   "general|engineer 1 2 software": "2026-08-05 simplify",
   "general|junior software engineer": "2026-08-07 simplify",
   "general|junior software engineer clearance sponsorship": "2026-08-07 simplify",
@@ -2596,6 +2601,7 @@
   "northrop|associate software engineer software engineer software engineering": "2026-08-06 simplify",
   "northrop|associate software engineer software engineering": "2026-08-07 simplify",
   "northrop|associate software systems engineer sentinel": "2026-08-03 simplify",
+  "nova|software engineer early stage": "2026-08-10 simplify",
   "nvidia|systems software engineer new college grad 2026": "2026-08-03 workday",
   "ohio|associate applications developer": "2026-08-04 simplify",
   "oracle|application software engineer 2 cdex": "2026-08-05 simplify",
@@ -2683,5 +2689,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "wonderbotz|junior software engineer": "2026-08-03 simplify"
  },
- "last_tier2_at": "2026-08-10T22:53:34+00:00"
+ "last_tier2_at": "2026-08-10T23:22:33+00:00"
 }
