@@ -2468,7 +2468,6 @@
   "workday/salesforce:JR355250": "2026-08-06"
  },
  "notified_keys": {
-  "abec|product engineer": "2026-08-02 simplify",
   "agate|software developer 1": "2026-08-04 simplify",
   "amazon|software development engineer i ai ml network infrastructure annapurna labs": "2026-08-03 amazon",
   "analog|product engineer design evaluation": "2026-08-03 simplify",
@@ -2511,7 +2510,6 @@
   "chicago|associate engineer": "2026-08-04 simplify",
   "cox|entry level software engineer": "2026-08-04 simplify",
   "curtiss|graduate engineer": "2026-08-07 simplify",
-  "deloitte|software engineering analyst government public services software engineering": "2026-08-02 simplify",
   "dexcom|software development engineer 1": "2026-08-05 simplify",
   "draper|system analysis engineer": "2026-08-04 simplify",
   "eai|entry level net software developer": "2026-08-03 simplify",
@@ -2522,7 +2520,6 @@
   "flexcompute|cfd solver developer": "2026-08-08 simplify",
   "flexcompute|software engineer infrastructure": "2026-08-08 simplify",
   "freddie|software developer analyst": "2026-08-03 simplify",
-  "garmin|software engineer 1 aviation web development": "2026-08-02 simplify",
   "general|engineer 1 2 software": "2026-08-05 simplify",
   "general|junior software engineer": "2026-08-07 simplify",
   "general|junior software engineer clearance sponsorship": "2026-08-07 simplify",
@@ -2553,13 +2550,7 @@
   "l3harris|associate software engineer": "2026-08-03 simplify",
   "l3harris|associate software engineering": "2026-08-03 simplify",
   "l3harris|software engineering associate": "2026-08-03 simplify",
-  "lightfield|early career infrastructure software engineer": "2026-08-02 simplify",
   "litera|associate software engineer": "2026-08-07 simplify",
-  "mantech|associate cno developer": "2026-08-02 simplify",
-  "mantech|associate computer network operations developer": "2026-08-02 simplify",
-  "mantech|associate software engineer": "2026-08-02 simplify",
-  "mantech|launch vehicle software developer 5th space launch squadron": "2026-08-02 simplify",
-  "mantech|software engineer 1": "2026-08-02 simplify",
   "maven|developer new grad": "2026-08-03 simplify",
   "merck|software engineer ai development": "2026-08-07 simplify",
   "metecs|simulation software engineer": "2026-08-03 simplify",
@@ -2580,7 +2571,6 @@
   "oracle|application software engineer 2 cdex": "2026-08-05 simplify",
   "pariveda|entry level software engineer": "2026-08-03 simplify",
   "pegatron|field application engineer": "2026-08-03 simplify",
-  "pennsylvania|devsecops research computing software engineer": "2026-08-02 simplify",
   "peraton|junior software engineer developer space communications program": "2026-08-04 simplify",
   "peraton|junior web developer": "2026-08-03 simplify",
   "peterson|junior software engineer": "2026-08-03 simplify",
@@ -2661,5 +2651,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "wonderbotz|junior software engineer": "2026-08-03 simplify"
  },
- "last_tier2_at": "2026-08-09T23:53:40+00:00"
+ "last_tier2_at": "2026-08-10T00:42:41+00:00"
 }
