@@ -156,6 +156,7 @@
   "lever/palantir:f362d7aa-360d-4059-ab38-f482742693b3": "2026-07-22",
   "lever/palantir:fbca0358-083a-4222-bdbb-3bd729b48382": "2026-07-22",
   "microsoft:1970393556752268": "2026-08-05",
+  "microsoft:1970393556855340": "2026-08-11",
   "microsoft:1970393556859432": "2026-08-07",
   "microsoft:1970393556860973": "2026-07-23",
   "microsoft:1970393556867395": "2026-08-07",
@@ -1657,6 +1658,7 @@
   "simplify:a7879cc5-5237-4e86-8f55-4a1755d765a8": "2026-07-22",
   "simplify:a793a502-be13-4c61-a978-d990f3122ad0": "2026-08-11",
   "simplify:a7a21277-7af0-4b06-894f-af2ce1530e21": "2026-07-28",
+  "simplify:a7ad89c3-bfca-4132-bafe-f790f3d25000": "2026-08-11",
   "simplify:a7c61c00-3f37-4f60-a827-43ce1d719294": "2026-07-22",
   "simplify:a7cc0774-97d0-4a06-9229-b827f35ca01c": "2026-07-22",
   "simplify:a7f7b2b9-28f5-4516-aece-535cd1c0c1b1": "2026-07-22",
@@ -1689,6 +1691,7 @@
   "simplify:aa42f4fa-9a75-46d4-b15c-9edf6678d943": "2026-07-22",
   "simplify:aa6d79af-df63-4d05-aa2e-58da9758728d": "2026-07-22",
   "simplify:aa941c91-1e7d-40d9-a460-c010cc741db0": "2026-07-22",
+  "simplify:aa9feb49-b586-4dba-80ab-d35720db8230": "2026-08-11",
   "simplify:aaa74715-91a7-474a-a88c-04b9d6a2d710": "2026-07-22",
   "simplify:aaaa8a89-4a65-414d-ad5f-46e681c28716": "2026-08-02",
   "simplify:aabe8d61-d2c5-4513-b60e-2426dbca6c22": "2026-07-22",
@@ -2545,6 +2548,7 @@
   "general|software engineer": "2026-08-05 simplify",
   "global|software development engineer in test analyst 1": "2026-08-05 simplify",
   "google|software engineer campus": "2026-08-07 simplify",
+  "gulfstream|it applications developer": "2026-08-11 simplify",
   "harris|associate software engineer rpg": "2026-08-06 simplify",
   "independent|software engineer level 0": "2026-08-05 simplify",
   "intercontinental|engineer 1": "2026-08-07 simplify",
@@ -2565,7 +2569,7 @@
   "merck|software engineer ai development": "2026-08-07 simplify",
   "micron|application engineer rda": "2026-08-10 simplify",
   "microsoft|software development consultant technology consulting": "2026-08-05 simplify",
-  "microsoft|software engineer": "2026-08-07 microsoft",
+  "microsoft|software engineer": "2026-08-11 microsoft",
   "microsoft|software engineer 1 2 identity and network access": "2026-08-10 simplify",
   "microsoft|software engineer compute infra hpc": "2026-08-05 microsoft",
   "microsoft|software engineer ctj poly": "2026-08-07 microsoft",
@@ -2626,7 +2630,8 @@
   "veeva|associate software engineer": "2026-08-07 simplify",
   "veeva|associate software engineer engineering development program": "2026-08-07 simplify",
   "visa|software engineer corporate genai": "2026-08-04 simplify",
-  "welbehealth|ai engineer 1": "2026-08-07 simplify"
+  "welbehealth|ai engineer 1": "2026-08-07 simplify",
+  "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-11T13:37:24+00:00"
+ "last_tier2_at": "2026-08-11T14:40:38+00:00"
 }
