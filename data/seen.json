@@ -2498,6 +2498,7 @@
   "workday/nvidia:JR2021591": "2026-07-23",
   "workday/nvidia:JR2021742": "2026-07-22",
   "workday/nvidia:JR2021823": "2026-07-23",
+  "workday/nvidia:JR2021841": "2026-08-11",
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
   "workday/salesforce:JR349609": "2026-07-22",
@@ -2594,6 +2595,7 @@
   "northrop|associate software engineer software engineer software engineering": "2026-08-06 simplify",
   "northrop|associate software engineer software engineering": "2026-08-07 simplify",
   "nova|software engineer early stage": "2026-08-10 simplify",
+  "nvidia|rtl power optimization engineer new college grad 2026": "2026-08-11 workday",
   "ohio|associate applications developer": "2026-08-04 simplify",
   "oracle|application software engineer 2 cdex": "2026-08-05 simplify",
   "pennsylvania|computing software specialist platform observability": "2026-08-11 simplify",
@@ -2650,5 +2652,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-11T19:42:35+00:00"
+ "last_tier2_at": "2026-08-11T20:22:36+00:00"
 }
