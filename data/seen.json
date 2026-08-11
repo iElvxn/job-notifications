@@ -2076,6 +2076,7 @@
   "simplify:d523c393-77a2-41e6-94e5-ef318aaff504": "2026-08-05",
   "simplify:d54312d4-b724-4f31-8edc-89a45c0f4ef5": "2026-07-22",
   "simplify:d5647d2a-f398-444e-b1ac-3d03cc6604a7": "2026-07-23",
+  "simplify:d5772952-0a23-4d22-8064-4a62a28bedf6": "2026-08-11",
   "simplify:d57b14ea-69f3-486f-abba-3677ea919fc6": "2026-07-25",
   "simplify:d57d8dae-f824-4c62-94e2-ab9869cf39ae": "2026-07-22",
   "simplify:d5ac7a44-0234-482a-86ed-89d7941eed37": "2026-07-22",
@@ -2563,6 +2564,7 @@
   "kla|applications development engineer broadband plasma division": "2026-08-11 simplify",
   "kognitos|associate forward deployed engineer": "2026-08-04 simplify",
   "l3harris|associate software engineering": "2026-08-10 simplify",
+  "l3harris|associate systems engineer integrated communication system": "2026-08-11 simplify",
   "litera|associate software engineer": "2026-08-07 simplify",
   "lpl|software engineering new grad": "2026-08-10 simplify",
   "mastercard|software engineer 1 ai and decision product enablement": "2026-08-10 simplify",
@@ -2633,5 +2635,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-11T14:40:38+00:00"
+ "last_tier2_at": "2026-08-11T15:34:09+00:00"
 }
