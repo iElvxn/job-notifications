@@ -1186,6 +1186,7 @@
   "simplify:6ecd2227-64fc-4d77-99bb-158081023302": "2026-08-10",
   "simplify:6ee7b98c-ff40-48fa-9739-71119f369879": "2026-07-22",
   "simplify:6efed8e0-ecf9-4113-90cc-fd187d314b95": "2026-07-22",
+  "simplify:6f101397-849a-4dbf-ab58-ae8ee1dd3ab2": "2026-08-12",
   "simplify:6f509f3e-5e63-482f-8eb9-7847a0c9d9b6": "2026-07-22",
   "simplify:6f99e1c0-bfec-450e-b005-708019d6c388": "2026-07-22",
   "simplify:6faa2772-8619-47d0-a00d-001face74f20": "2026-07-22",
@@ -1273,6 +1274,7 @@
   "simplify:77482a4b-c4db-430c-9e57-1a5071d06e6b": "2026-07-22",
   "simplify:774b0fcc-b7d3-460c-a425-b2ee55fa0c0d": "2026-07-22",
   "simplify:774e9d91-6973-4652-afa1-d7bd59595117": "2026-07-22",
+  "simplify:776b2184-8dc2-4958-b964-94a1ee9c9454": "2026-08-12",
   "simplify:7771eaac-efc4-4399-9149-9849c40df862": "2026-07-22",
   "simplify:7775f115-a0de-4049-8fc1-d7b7a2fb84a4": "2026-07-22",
   "simplify:777e14ec-000a-4cc1-a1ec-e39f1250a782": "2026-07-22",
@@ -2484,6 +2486,7 @@
   "simplify:fc07cf13-b666-439f-83e7-a5861fa41002": "2026-07-22",
   "simplify:fc0ba9c7-8038-43b5-ae74-d319237d1147": "2026-08-08",
   "simplify:fc4f2880-dfbe-4370-a129-24ea58c9a173": "2026-08-03",
+  "simplify:fc8f90bf-1265-416f-a1d2-b93977214909": "2026-08-12",
   "simplify:fca9f7d1-58c5-4539-bb95-b96780683edb": "2026-07-22",
   "simplify:fccfbc48-e092-43f4-9a9e-59bb88ed801d": "2026-07-22",
   "simplify:fd03da5a-a70b-427f-a6de-180422cf49a8": "2026-07-22",
@@ -2662,7 +2665,7 @@
   "riverside|software developer sensor and systems": "2026-08-07 simplify",
   "roblox|2027 software engineer early career": "2026-08-05 greenhouse",
   "roblox|software engineer early career": "2026-08-05 simplify",
-  "rtx|software engineer 1": "2026-08-11 simplify",
+  "rtx|software engineer 1": "2026-08-12 simplify",
   "rtx|software engineer 1 air traffic solutions": "2026-08-05 simplify",
   "rtx|software engineer 2 air traffic solutions": "2026-08-05 simplify",
   "rtx|software safety engineer": "2026-08-05 simplify",
@@ -2701,5 +2704,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-12T15:46:03+00:00"
+ "last_tier2_at": "2026-08-12T16:42:52+00:00"
 }
