@@ -1751,6 +1751,7 @@
   "simplify:acf78218-ae13-4623-950b-916366d02693": "2026-07-22",
   "simplify:ad034685-ee26-4178-986c-f8bd127e945b": "2026-07-22",
   "simplify:ad0c0ea3-6eff-409b-91d6-adcf6f76c26e": "2026-07-22",
+  "simplify:ad10670d-56f5-4600-ab6f-5c48cbd8fb5c": "2026-08-12",
   "simplify:ad57e8fa-d0bd-4c63-9809-6141b7dda000": "2026-07-22",
   "simplify:ad639ce0-562f-40b2-8d29-ea4c866cea6e": "2026-07-22",
   "simplify:ad70d943-c623-498e-8cb7-3f35e88a091d": "2026-07-22",
@@ -2549,6 +2550,7 @@
   "abbvie|associate software engineer 1": "2026-08-12 simplify",
   "adobe|photoshop developer gpu imaging": "2026-08-12 simplify",
   "amazon|data engineer i amazon publisher monetization analytics": "2026-08-11 amazon",
+  "amnet|software systems engineer 3": "2026-08-12 simplify",
   "apple|frontend engineer": "2026-08-10 simplify",
   "apple|software engineer information systems and technology early career": "2026-08-11 simplify",
   "aptiv|system engineer os kernel": "2026-08-11 simplify",
@@ -2688,5 +2690,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-12T06:08:05+00:00"
+ "last_tier2_at": "2026-08-12T07:47:48+00:00"
 }
