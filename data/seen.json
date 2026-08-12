@@ -1851,6 +1851,7 @@
   "simplify:b7d377cb-6602-48e7-841a-eab30cde99a7": "2026-07-22",
   "simplify:b7de0ef1-2ccb-400c-8e09-b5078a36aa4d": "2026-07-22",
   "simplify:b7f55e77-cf53-4690-910a-db1b3f48d078": "2026-07-22",
+  "simplify:b7fadd8a-1f88-4b03-9fa5-8befef1a3a26": "2026-08-12",
   "simplify:b8074600-c8c3-4947-a115-7c212abd364f": "2026-07-22",
   "simplify:b84e0329-1f91-422f-ae8f-44df7db7fd47": "2026-07-22",
   "simplify:b87472fc-5c3c-48ad-ac4b-954b4cfa2f05": "2026-07-22",
@@ -2032,6 +2033,7 @@
   "simplify:cb57e254-4f39-4f51-8730-e469091a4650": "2026-07-22",
   "simplify:cb8edb0f-8f6b-416e-a997-106f4ca1f009": "2026-07-22",
   "simplify:cba3f10a-54b4-46e8-b274-6000b2fccc5a": "2026-07-22",
+  "simplify:cbc9cae5-131c-4da5-9664-90601d74f6de": "2026-08-12",
   "simplify:cbdd094a-df53-4277-8928-3b3af376f6e0": "2026-07-22",
   "simplify:cbe143be-5e60-4222-85cf-89aec8787e04": "2026-07-22",
   "simplify:cbfaa67c-d916-46e0-8fa2-7b09c1622c2d": "2026-07-22",
@@ -2680,12 +2682,14 @@
   "teledyne|junior software engineer": "2026-08-10 simplify",
   "the|entry level software engineer": "2026-08-06 simplify",
   "the|full stack developer": "2026-08-11 simplify",
+  "tiktok|backend engineer graduate tiktok vertical recommendation architecture 2027 start": "2026-08-12 simplify",
   "tiktok|backend software engineer graduate data lifecycle management": "2026-08-07 simplify",
   "tiktok|backend software engineer graduate privacy and security product": "2026-08-07 simplify",
   "tiktok|graduate software engineer global crm": "2026-08-06 simplify",
   "tiktok|software engineer graduate data arch e commerce": "2026-08-06 simplify",
   "tiktok|software engineer graduate global e commerce search 2027 start": "2026-08-06 simplify",
   "tiktok|software engineer graduate multiple teams": "2026-08-06 simplify",
+  "tiktok|software engineer graduate recommendation": "2026-08-12 simplify",
   "torch|software engineer 1": "2026-08-07 simplify",
   "torc|software engineer 1 metrics for release": "2026-08-05 simplify",
   "trovy|software engineer": "2026-08-07 simplify",
@@ -2697,5 +2701,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-12T14:49:56+00:00"
+ "last_tier2_at": "2026-08-12T15:46:03+00:00"
 }
