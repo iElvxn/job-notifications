@@ -819,6 +819,7 @@
   "simplify:472695ff-25cc-4d34-bb28-83c22bbdbd70": "2026-07-22",
   "simplify:4736b762-d76a-4c72-b71b-055c211c8e96": "2026-07-22",
   "simplify:477e4909-9fa1-4e10-a7cc-bdc0526bc2a2": "2026-07-22",
+  "simplify:47db7b74-b29c-4098-9e87-68af93ab3843": "2026-08-12",
   "simplify:47e15701-8350-4806-9e72-912b4f89f705": "2026-07-22",
   "simplify:47f143c4-cc55-4bd8-bbd7-34e02431fad7": "2026-07-28",
   "simplify:48008e25-fd18-4181-a61e-792a9c962548": "2026-07-22",
@@ -2114,6 +2115,7 @@
   "simplify:d3495d6f-29fd-4ac4-a52f-1625a666f38b": "2026-07-30",
   "simplify:d3af5ef3-c5be-48e1-a924-8275b36c2ed5": "2026-07-22",
   "simplify:d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a": "2026-08-07",
+  "simplify:d3c098a3-25fd-4752-926c-073c5ef98949": "2026-08-12",
   "simplify:d3ff5ace-964a-408c-b75f-58756c9ba738": "2026-07-22",
   "simplify:d44042f6-e655-4729-ac89-d1b336b02aeb": "2026-07-22",
   "simplify:d44d7dc7-8912-4b2f-969c-4ea8f0ba6eab": "2026-08-12",
@@ -2354,6 +2356,7 @@
   "simplify:ebe0c3a5-934b-43a4-83a8-c05b37b44105": "2026-07-22",
   "simplify:ec5d8a02-e212-41b7-beae-22d51584065e": "2026-07-22",
   "simplify:ec5f79ed-2bcb-4e77-872a-3d171559c0fc": "2026-07-22",
+  "simplify:ec8d7f8d-2154-4e58-bc3d-7413c3536d43": "2026-08-12",
   "simplify:ecb0c9cf-1170-4e73-ba89-5eabe76a1168": "2026-07-22",
   "simplify:ecd7306e-e1ab-4153-bd2f-50c077e829c7": "2026-08-04",
   "simplify:ece4e830-0167-4f19-a330-763c58d7d099": "2026-07-22",
@@ -2668,7 +2671,9 @@
   "microsoft|software engineering ic2": "2026-08-11 microsoft",
   "netsmart|software engineer evv": "2026-08-07 simplify",
   "nordstrom|engineer ai agentic solutions": "2026-08-05 simplify",
+  "northrop|ai software engineer aht": "2026-08-12 simplify",
   "northrop|associate software engineer software engineer": "2026-08-05 simplify",
+  "northrop|associate software engineer software engineer associate engineer software t01 engineer software t02": "2026-08-12 simplify",
   "northrop|associate software engineer software engineer software engineering": "2026-08-06 simplify",
   "northrop|associate software engineer software engineering": "2026-08-07 simplify",
   "northrop|software engineer ground software engineering": "2026-08-11 simplify",
@@ -2727,10 +2732,11 @@
   "truist|associate software engineer": "2026-08-10 simplify",
   "truveta|software engineer live link": "2026-08-12 simplify",
   "t|associate engineer software": "2026-08-12 simplify",
+  "uniswap|software engineer early career": "2026-08-12 simplify",
   "veeva|associate software engineer": "2026-08-07 simplify",
   "veeva|associate software engineer engineering development program": "2026-08-07 simplify",
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-12T22:36:49+00:00"
+ "last_tier2_at": "2026-08-12T23:21:14+00:00"
 }
