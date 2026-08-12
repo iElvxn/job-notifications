@@ -1098,6 +1098,7 @@
   "simplify:654a8203-8795-40c6-92f5-76afc4273093": "2026-07-22",
   "simplify:654f8583-841f-42d1-9ffa-4687d0d8bcd1": "2026-07-26",
   "simplify:6553d92a-bb9f-42ef-bed7-3d6dd38f4273": "2026-07-22",
+  "simplify:656014ab-4409-4e99-a202-5cf3956fd828": "2026-08-12",
   "simplify:65650b49-1680-440d-8f63-1cc74d0ba188": "2026-07-22",
   "simplify:65849b96-f8c1-491c-a19f-a23719bc19ce": "2026-07-22",
   "simplify:65aa39b5-7bc8-4c02-b357-de6d17a0abd8": "2026-07-22",
@@ -2540,7 +2541,8 @@
   "workday/salesforce:JR352457": "2026-07-22",
   "workday/salesforce:JR352953": "2026-08-03",
   "workday/salesforce:JR354301": "2026-07-31",
-  "workday/salesforce:JR355250": "2026-08-06"
+  "workday/salesforce:JR355250": "2026-08-06",
+  "workday/salesforce:JR355789": "2026-08-12"
  },
  "notified_keys": {
   "9to9|entry level java developer": "2026-08-12 simplify",
@@ -2548,6 +2550,7 @@
   "9to9|entry level software developer": "2026-08-12 simplify",
   "9to9|java developer": "2026-08-12 simplify",
   "9to9|software developer": "2026-08-12 simplify",
+  "abbott|associate software engineer multiple teams": "2026-08-12 simplify",
   "abbvie|associate software engineer 1": "2026-08-12 simplify",
   "adobe|photoshop developer gpu imaging": "2026-08-12 simplify",
   "amazon|data engineer i amazon publisher monetization analytics": "2026-08-11 amazon",
@@ -2664,6 +2667,7 @@
   "salesforce|software engineer college grad": "2026-08-06 simplify",
   "salesforce|software engineer mts agent studio observability ui": "2026-08-05 workday",
   "salesforce|software engineering amts college grad": "2026-08-06 workday",
+  "salesforce|software engineering mts full stack agentic ai engineer": "2026-08-12 workday",
   "sentry|software engineer new grad": "2026-08-11 simplify",
   "servicenow|software engineer agentic ai harness quality": "2026-08-06 simplify",
   "solace|associate product engineer": "2026-08-07 simplify",
@@ -2692,5 +2696,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-12T10:47:26+00:00"
+ "last_tier2_at": "2026-08-12T11:36:23+00:00"
 }
