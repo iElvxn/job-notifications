@@ -1500,6 +1500,7 @@
   "simplify:8e55dd92-ce76-4276-8228-0c0d7cf68660": "2026-07-22",
   "simplify:8e8910ff-d27c-4f3c-871e-d348e505c0c5": "2026-07-22",
   "simplify:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68": "2026-08-10",
+  "simplify:8e8f913d-4263-4281-9cf3-3e083858cf58": "2026-08-13",
   "simplify:8ea72754-f0f4-4214-a82a-7dfe08a5b26c": "2026-07-29",
   "simplify:8f12319d-baff-4b24-b854-a8c4433d3c14": "2026-07-22",
   "simplify:8f31dd1a-a62a-483b-9393-78256ee8726c": "2026-07-22",
@@ -2707,6 +2708,7 @@
   "nvidia|rtl power optimization engineer new college grad 2026": "2026-08-11 workday",
   "pathai|software engineer 1 fullstack": "2026-08-11 simplify",
   "pennsylvania|computing software specialist platform observability": "2026-08-11 simplify",
+  "pennsylvania|software research and development engineer applied research laboratory": "2026-08-13 simplify",
   "presidency|software developer": "2026-08-13 simplify",
   "quantcast|software engineer full stack": "2026-08-11 simplify",
   "reliance|ai software engineer 1": "2026-08-11 simplify",
@@ -2760,5 +2762,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-13T20:17:58+00:00"
+ "last_tier2_at": "2026-08-13T21:09:26+00:00"
 }
