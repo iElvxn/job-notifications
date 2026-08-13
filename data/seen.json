@@ -844,6 +844,7 @@
   "simplify:492953a8-9863-41ff-b149-9e8fa3081af9": "2026-08-03",
   "simplify:49359bde-573c-4530-af6e-e13563e1ff13": "2026-07-23",
   "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b": "2026-07-22",
+  "simplify:495c218f-20df-48c5-baef-1726f57e1d01": "2026-08-13",
   "simplify:49643f6b-95e6-4d37-af1d-1118ce4439cd": "2026-07-29",
   "simplify:49a0cdeb-234c-424e-bf83-6b00a8e87119": "2026-08-12",
   "simplify:49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af": "2026-08-11",
@@ -1383,6 +1384,7 @@
   "simplify:821b8f90-dfea-4ed9-b42f-afc50d5fe33f": "2026-07-22",
   "simplify:821bc5b7-b551-497f-b7b1-e1f9fbfcf566": "2026-07-22",
   "simplify:822d4395-6c6b-4355-b45c-19eba270d1f3": "2026-07-22",
+  "simplify:823dc91a-f895-469a-b516-b3be2e1894e7": "2026-08-13",
   "simplify:8270cc9e-2e11-4dd6-85e6-4847cc85a1ea": "2026-07-22",
   "simplify:8271a031-5f9d-416a-9a7f-75c5c821afd7": "2026-07-22",
   "simplify:828ccc35-8623-4370-af61-9309b318fcc3": "2026-07-22",
@@ -2610,6 +2612,7 @@
   "apple|frontend engineer": "2026-08-10 simplify",
   "apple|software engineer applied machine learning is t": "2026-08-12 simplify",
   "apple|software engineer information systems and technology early career": "2026-08-11 simplify",
+  "applied|software engineer new grad devops": "2026-08-13 simplify",
   "aptiv|system engineer os kernel": "2026-08-11 simplify",
   "ares|software engineer analyst credit technology": "2026-08-07 simplify",
   "assa|product engineer 1": "2026-08-11 simplify",
@@ -2741,6 +2744,7 @@
   "tiktok|software engineer graduate multiple teams": "2026-08-06 simplify",
   "tiktok|software engineer graduate recommendation": "2026-08-12 simplify",
   "tiktok|software engineer graduate recommendation architecture feeds infrastructure": "2026-08-13 simplify",
+  "tiktok|software engineer graduate recommendation infrastructure": "2026-08-13 simplify",
   "tiktok|software engineer graduate video on demand algorithm": "2026-08-12 simplify",
   "torch|software engineer 1": "2026-08-07 simplify",
   "trovy|software engineer": "2026-08-07 simplify",
@@ -2753,5 +2757,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-13T08:40:56+00:00"
+ "last_tier2_at": "2026-08-13T09:45:15+00:00"
 }
