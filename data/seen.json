@@ -450,6 +450,7 @@
   "simplify:1f7345cd-0fc4-4a7a-9d82-bff23f6eba2a": "2026-07-22",
   "simplify:1f7a29cf-68e7-48ec-9968-729026c01ca8": "2026-07-22",
   "simplify:1f87470c-a25f-4f78-b44b-eabd57ceab67": "2026-07-22",
+  "simplify:1f8e4468-cfb9-4773-8eff-5deb0dfd3370": "2026-08-13",
   "simplify:1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": "2026-07-22",
   "simplify:1fa3e9a7-321d-47ac-ac1b-3223f34a6cbf": "2026-07-22",
   "simplify:1fa55474-9525-4ff7-b473-17c64a2bbaa7": "2026-07-22",
@@ -2708,6 +2709,7 @@
   "presidency|software developer": "2026-08-13 simplify",
   "quantcast|software engineer full stack": "2026-08-11 simplify",
   "reliance|ai software engineer 1": "2026-08-11 simplify",
+  "renesas|ai compiler engineer": "2026-08-13 simplify",
   "resmed|associate software engineer digital product engineering internet of things": "2026-08-13 simplify",
   "retail|website designer front end developer": "2026-08-12 simplify",
   "riverside|software developer sensor and systems": "2026-08-07 simplify",
@@ -2757,5 +2759,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-13T13:57:13+00:00"
+ "last_tier2_at": "2026-08-13T14:51:00+00:00"
 }
