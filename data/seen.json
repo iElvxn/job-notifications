@@ -176,6 +176,7 @@
   "microsoft:1970393556953088": "2026-08-07",
   "microsoft:1970393556957546": "2026-08-05",
   "microsoft:1970393556957819": "2026-08-07",
+  "microsoft:1970393556960468": "2026-08-13",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
   "simplify:00620949-7bbd-4342-a515-87e57990c860": "2026-07-22",
@@ -2689,7 +2690,7 @@
   "mastercard|software engineer 1 ai and decision product enablement": "2026-08-10 simplify",
   "merck|software engineer ai development": "2026-08-07 simplify",
   "micron|application engineer rda": "2026-08-10 simplify",
-  "microsoft|software engineer": "2026-08-11 microsoft",
+  "microsoft|software engineer": "2026-08-13 microsoft",
   "microsoft|software engineer 1 2 identity and network access": "2026-08-10 simplify",
   "microsoft|software engineer ctj poly": "2026-08-07 microsoft",
   "microsoft|software engineer microsoft defender for endpoint": "2026-08-11 microsoft",
@@ -2759,5 +2760,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-13T17:39:32+00:00"
+ "last_tier2_at": "2026-08-13T18:33:50+00:00"
 }
