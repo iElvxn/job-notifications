@@ -1023,6 +1023,7 @@
   "simplify:5a03e922-9be2-4e12-9821-b01d8c92b5e6": "2026-07-22",
   "simplify:5a05b3b2-2805-4fa2-9f98-6346f0932a5d": "2026-07-22",
   "simplify:5a3af054-4413-4265-a625-02bc1cc34542": "2026-07-22",
+  "simplify:5a476d63-cb12-4e98-8fd7-35895108a039": "2026-08-14",
   "simplify:5a52cd5a-c29d-4511-b49c-a7d5b3bca766": "2026-07-22",
   "simplify:5a70bd76-aa15-4cec-9be9-46702293133e": "2026-07-22",
   "simplify:5a89b36a-15cb-426f-8483-93092c9b170e": "2026-07-22",
@@ -1711,6 +1712,7 @@
   "simplify:a34cd5b9-9bbf-4ec0-9485-89dac6af3581": "2026-08-04",
   "simplify:a3601998-ef72-41e2-80ff-7dfdfbd87143": "2026-07-28",
   "simplify:a36ce204-239e-4a40-aa35-88e602ea03b0": "2026-07-22",
+  "simplify:a3a958d6-27dc-4ec5-9de4-764a76e85624": "2026-08-14",
   "simplify:a3b2484c-c68d-46ca-ac1b-30899e81b01f": "2026-07-22",
   "simplify:a3c3cb21-a6e5-4873-9acb-8eb782662fd7": "2026-07-22",
   "simplify:a3c613c0-77d2-480f-8922-a19c6b65e5d2": "2026-07-22",
@@ -2700,6 +2702,7 @@
   "cummins|product engineer turbo platform product engineering": "2026-08-10 simplify",
   "cummins|software engineer 1": "2026-08-10 simplify",
   "curtiss|graduate engineer": "2026-08-07 simplify",
+  "cvs|associate software engineer": "2026-08-14 simplify",
   "cwill|r d trainee full stack engineer backend": "2026-08-11 simplify",
   "decisionpoint|entry level software developer": "2026-08-14 simplify",
   "deloitte|cyber software engineering analyst government public services cyber software engineering": "2026-08-11 simplify",
@@ -2824,5 +2827,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-14T17:09:19+00:00"
+ "last_tier2_at": "2026-08-14T18:02:37+00:00"
 }
