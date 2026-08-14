@@ -94,6 +94,7 @@
   "amazon:10498577": "2026-08-11",
   "ashby/notion:297b4ece-765f-4eea-b1b8-46057cb6501f": "2026-07-22",
   "ashby/notion:85947779-6b87-466a-98bc-30a640448c28": "2026-07-22",
+  "ashby/notion:e32799d2-8ef8-4803-8189-c72514afa816": "2026-08-14",
   "greenhouse/akunacapital:8013085": "2026-07-22",
   "greenhouse/akunacapital:8013230": "2026-07-22",
   "greenhouse/akunacapital:8016687": "2026-07-22",
@@ -2767,6 +2768,7 @@
   "northrop|associate software engineer software engineer associate engineer software t01 engineer software t02": "2026-08-12 simplify",
   "northrop|associate software engineer software engineering": "2026-08-07 simplify",
   "northrop|software engineer ground software engineering": "2026-08-11 simplify",
+  "notion|software engineer new grad dec 2026": "2026-08-14 ashby",
   "nova|software engineer early stage": "2026-08-10 simplify",
   "nvidia|developer technology engineer public sector new college grad 2026": "2026-08-11 workday",
   "nvidia|power methodology and modeling engineer new college grad 2026": "2026-08-11 workday",
@@ -2827,5 +2829,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-14T19:10:10+00:00"
+ "last_tier2_at": "2026-08-14T20:18:33+00:00"
 }
