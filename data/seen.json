@@ -2628,6 +2628,7 @@
   "workday/salesforce:JR349901": "2026-08-05",
   "workday/salesforce:JR352457": "2026-07-22",
   "workday/salesforce:JR352953": "2026-08-03",
+  "workday/salesforce:JR353585": "2026-08-14",
   "workday/salesforce:JR354301": "2026-07-31",
   "workday/salesforce:JR355250": "2026-08-06",
   "workday/salesforce:JR355789": "2026-08-12"
@@ -2772,6 +2773,7 @@
   "riverside|software developer sensor and systems": "2026-08-07 simplify",
   "rtx|data analytics and methods engineer mission applied science technology": "2026-08-12 simplify",
   "rtx|software engineer 1": "2026-08-13 simplify",
+  "salesforce|software engineering mts": "2026-08-14 workday",
   "salesforce|software engineering mts full stack agentic ai engineer": "2026-08-12 workday",
   "securian|engineering analyst": "2026-08-12 simplify",
   "selector|software engineer": "2026-08-13 simplify",
@@ -2811,5 +2813,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-14T13:36:35+00:00"
+ "last_tier2_at": "2026-08-14T14:35:34+00:00"
 }
