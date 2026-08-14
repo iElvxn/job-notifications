@@ -129,6 +129,14 @@
   "greenhouse/spacex:8446263002": "2026-07-23",
   "greenhouse/spacex:8493079002": "2026-07-23",
   "greenhouse/spacex:8578087002": "2026-07-23",
+  "greenhouse/spacex:8696058002": "2026-08-14",
+  "greenhouse/spacex:8696080002": "2026-08-14",
+  "greenhouse/spacex:8696097002": "2026-08-14",
+  "greenhouse/spacex:8696105002": "2026-08-14",
+  "greenhouse/spacex:8696124002": "2026-08-14",
+  "greenhouse/spacex:8696143002": "2026-08-14",
+  "greenhouse/spacex:8696156002": "2026-08-14",
+  "greenhouse/spacex:8696158002": "2026-08-14",
   "greenhouse/verkada:4715534007": "2026-07-22",
   "greenhouse/verkada:5172974007": "2026-07-22",
   "greenhouse/wehrtyou:7116458": "2026-07-22",
@@ -2781,6 +2789,9 @@
   "sigla|software engineer": "2026-08-13 simplify",
   "solace|associate product engineer": "2026-08-07 simplify",
   "sosi|peoplesoft software developer": "2026-08-12 simplify",
+  "spacex|new graduate engineer gnc 26 27 starlink": "2026-08-14 greenhouse",
+  "spacex|new graduate engineer software 26 27 starlink": "2026-08-14 greenhouse",
+  "spacex|new graduate engineer software security 26 27 starlink": "2026-08-14 greenhouse",
   "starbucks|software engineer software engineering": "2026-08-08 simplify",
   "state|it applications developer public health": "2026-08-13 simplify",
   "state|software engineer new grad": "2026-08-11 simplify",
@@ -2813,5 +2824,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-14T16:12:36+00:00"
+ "last_tier2_at": "2026-08-14T17:09:19+00:00"
 }
