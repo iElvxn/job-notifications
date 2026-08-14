@@ -175,6 +175,7 @@
   "microsoft:1970393556926963": "2026-07-29",
   "microsoft:1970393556929028": "2026-07-23",
   "microsoft:1970393556932425": "2026-07-24",
+  "microsoft:1970393556937438": "2026-08-14",
   "microsoft:1970393556937814": "2026-07-29",
   "microsoft:1970393556938440": "2026-07-24",
   "microsoft:1970393556940347": "2026-07-28",
@@ -187,6 +188,7 @@
   "microsoft:1970393556957819": "2026-08-07",
   "microsoft:1970393556959253": "2026-08-13",
   "microsoft:1970393556960468": "2026-08-13",
+  "microsoft:1970393556962084": "2026-08-14",
   "microsoft:1970393556962230": "2026-08-13",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
@@ -2755,7 +2757,7 @@
   "merck|software engineer ai development": "2026-08-07 simplify",
   "micron|application engineer rda": "2026-08-10 simplify",
   "microsoft|software development engineer azure postgresql": "2026-08-14 simplify",
-  "microsoft|software engineer": "2026-08-13 microsoft",
+  "microsoft|software engineer": "2026-08-14 microsoft",
   "microsoft|software engineer 1 2 identity and network access": "2026-08-10 simplify",
   "microsoft|software engineer ctj poly": "2026-08-07 microsoft",
   "microsoft|software engineer microsoft defender for endpoint": "2026-08-11 microsoft",
@@ -2829,5 +2831,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-14T20:18:33+00:00"
+ "last_tier2_at": "2026-08-14T20:51:20+00:00"
 }
