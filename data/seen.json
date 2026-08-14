@@ -2621,6 +2621,7 @@
   "workday/nvidia:JR2021742": "2026-07-22",
   "workday/nvidia:JR2021823": "2026-07-23",
   "workday/nvidia:JR2021841": "2026-08-11",
+  "workday/nvidia:JR2023252": "2026-08-14",
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
   "workday/salesforce:JR349609": "2026-07-22",
@@ -2758,6 +2759,7 @@
   "nvidia|developer technology engineer public sector new college grad 2026": "2026-08-11 workday",
   "nvidia|power methodology and modeling engineer new college grad 2026": "2026-08-11 workday",
   "nvidia|rtl power optimization engineer new college grad 2026": "2026-08-11 workday",
+  "nvidia|software engineer deep learning libraries new college graduate 2026": "2026-08-14 workday",
   "pathai|software engineer 1 fullstack": "2026-08-11 simplify",
   "pennsylvania|computing software specialist platform observability": "2026-08-11 simplify",
   "pennsylvania|software research and development engineer applied research laboratory": "2026-08-13 simplify",
@@ -2809,5 +2811,5 @@
   "welbehealth|ai engineer 1": "2026-08-07 simplify",
   "western|software engineer apps": "2026-08-11 simplify"
  },
- "last_tier2_at": "2026-08-14T09:40:33+00:00"
+ "last_tier2_at": "2026-08-14T10:37:59+00:00"
 }
