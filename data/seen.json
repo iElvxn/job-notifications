@@ -820,6 +820,7 @@
   "simplify:432f2a98-6083-457b-915b-52b50828742d": "2026-08-04",
   "simplify:435c2fcd-ac89-454c-8594-e00acf0c463c": "2026-08-10",
   "simplify:4362d7c3-926d-4c79-9b3e-a1bb06ff2d48": "2026-07-22",
+  "simplify:43a5374e-0e70-4dc9-82b0-687b54e8c5da": "2026-08-15",
   "simplify:43ab9503-9377-4297-a179-a85a7169d278": "2026-07-22",
   "simplify:43ca5d0b-0cd2-46ca-9b5a-55d7590fcaaa": "2026-07-23",
   "simplify:43cac478-76b4-4968-9ede-e3293fd02c28": "2026-08-04",
@@ -1787,6 +1788,7 @@
   "simplify:a8226777-0a54-40c9-afd6-0178a68426ed": "2026-07-22",
   "simplify:a8310416-f49f-453b-98ea-266bb88d01b4": "2026-07-22",
   "simplify:a834d8ef-f2c9-4d3f-a6c3-9776ee7123ca": "2026-07-22",
+  "simplify:a84b5ca0-5e89-4893-97cb-4be5aead281c": "2026-08-15",
   "simplify:a8969c6b-0534-4d5e-908a-45a01eb2a01c": "2026-07-22",
   "simplify:a8ad3e04-98f4-41c1-949d-f0ff017efa48": "2026-07-22",
   "simplify:a8b5504a-512d-4d60-8f56-678649f3b549": "2026-07-22",
@@ -2743,6 +2745,8 @@
   "flow|software engineer early career": "2026-08-15 simplify",
   "fsh|engineer new grad": "2026-08-10 simplify",
   "general|software engineer": "2026-08-12 simplify",
+  "goldman|engineering new analyst": "2026-08-15 simplify",
+  "goldman|engineering new analyst engineering": "2026-08-15 simplify",
   "gulfstream|it applications developer": "2026-08-11 simplify",
   "handshake|associate software engineer": "2026-08-12 simplify",
   "honeywell|software engineer 1": "2026-08-14 simplify",
@@ -2842,5 +2846,5 @@
   "western|software engineer apps": "2026-08-11 simplify",
   "wolverine|entry level c software engineer": "2026-08-15 simplify"
  },
- "last_tier2_at": "2026-08-15T04:16:50+00:00"
+ "last_tier2_at": "2026-08-15T04:52:35+00:00"
 }
