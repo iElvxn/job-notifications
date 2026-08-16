@@ -2744,8 +2744,6 @@
   "fidelity|associate software engineer etf ffio development": "2026-08-12 simplify",
   "fidelity|leap software engineer": "2026-08-14 simplify",
   "fidelity|software engineer leap program": "2026-08-14 simplify",
-  "flexcompute|cfd solver developer": "2026-08-08 simplify",
-  "flexcompute|software engineer infrastructure": "2026-08-08 simplify",
   "flow|software engineer early career": "2026-08-15 simplify",
   "fsh|engineer new grad": "2026-08-10 simplify",
   "general|software engineer": "2026-08-12 simplify",
@@ -2757,14 +2755,12 @@
   "honeywell|software engineer 1": "2026-08-14 simplify",
   "insitu|software engineer simulation": "2026-08-11 simplify",
   "integration|associate software developer compass": "2026-08-12 simplify",
-  "interface|software engineer": "2026-08-08 simplify",
   "ita|junior power platform developer": "2026-08-14 simplify",
   "johns|computer engineer new grad shipboard systems team": "2026-08-14 simplify",
   "johns|cyber engineer capabilities development": "2026-08-14 simplify",
   "johns|engineer graduate multi mission planning development": "2026-08-14 simplify",
   "johns|intelligent systems development engineer intelligent combat platforms group": "2026-08-14 simplify",
   "johns|systems engineer graduate systems engineer analyst": "2026-08-14 simplify",
-  "kanbrick|forward deployed engineer": "2026-08-08 simplify",
   "kla|applications development engineer broadband plasma division": "2026-08-11 simplify",
   "kyndryl|associate ai engineer early career consult program": "2026-08-14 simplify",
   "l3harris|associate software engineering": "2026-08-10 simplify",
@@ -2822,7 +2818,6 @@
   "spacex|software engineer new grad software starlink": "2026-08-14 simplify",
   "spacex|software security new grad software security": "2026-08-14 simplify",
   "spacex|software security new grad starlink": "2026-08-14 simplify",
-  "starbucks|software engineer software engineering": "2026-08-08 simplify",
   "state|it applications developer public health": "2026-08-13 simplify",
   "state|software engineer ios": "2026-08-14 simplify",
   "state|software engineer new grad": "2026-08-11 simplify",
@@ -2852,5 +2847,5 @@
   "western|software engineer apps": "2026-08-11 simplify",
   "wolverine|entry level c software engineer": "2026-08-15 simplify"
  },
- "last_tier2_at": "2026-08-15T23:54:03+00:00"
+ "last_tier2_at": "2026-08-16T00:28:57+00:00"
 }
