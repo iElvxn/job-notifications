@@ -842,6 +842,7 @@
   "simplify:454b7531-1c3f-4d4c-a1c8-7fdefccc4258": "2026-07-22",
   "simplify:4586102e-6794-4500-8258-2f0a102e421c": "2026-07-22",
   "simplify:45a17811-98a5-4edc-b2f0-4da07f504cb2": "2026-07-23",
+  "simplify:45abede7-dc8b-4a14-80ef-9bcf0a9396b7": "2026-08-17",
   "simplify:45dea49f-578f-44df-9362-daf85538719f": "2026-07-22",
   "simplify:45f9bf7a-34f7-48f8-93df-4a905d6c7dda": "2026-07-23",
   "simplify:4600d580-8dad-49ce-93c7-89ae51839461": "2026-07-23",
@@ -1254,6 +1255,7 @@
   "simplify:6ee7b98c-ff40-48fa-9739-71119f369879": "2026-07-22",
   "simplify:6eee6f4b-bc6f-4aab-87e5-c10dbbfed41a": "2026-08-12",
   "simplify:6efed8e0-ecf9-4113-90cc-fd187d314b95": "2026-07-22",
+  "simplify:6f000f35-4e43-4364-980a-4ac4b0c04d52": "2026-08-17",
   "simplify:6f101397-849a-4dbf-ab58-ae8ee1dd3ab2": "2026-08-12",
   "simplify:6f509f3e-5e63-482f-8eb9-7847a0c9d9b6": "2026-07-22",
   "simplify:6f99e1c0-bfec-450e-b005-708019d6c388": "2026-07-22",
@@ -1547,6 +1549,7 @@
   "simplify:8c2d8b3a-a4af-4b81-bb1a-427981e07d6d": "2026-07-31",
   "simplify:8c4d7dd9-6687-4b16-be26-325556c16534": "2026-08-10",
   "simplify:8c64de40-674c-4820-ae34-c4849de7a0a2": "2026-07-22",
+  "simplify:8c7fce06-656d-49d9-bf64-703e487b5cac": "2026-08-17",
   "simplify:8cad0fcf-e891-4637-91ed-259c291121f3": "2026-08-03",
   "simplify:8ce351e6-944c-4e61-8422-e151a5a7baf2": "2026-08-11",
   "simplify:8cf416d2-c4e8-4bbd-800d-6b10b4b953e3": "2026-07-28",
@@ -2761,7 +2764,7 @@
   "goldman|new analyst engineering": "2026-08-15 simplify",
   "gulfstream|it applications developer": "2026-08-11 simplify",
   "handshake|associate software engineer": "2026-08-12 simplify",
-  "honeywell|software engineer 1": "2026-08-14 simplify",
+  "honeywell|software engineer 1": "2026-08-17 simplify",
   "insitu|software engineer simulation": "2026-08-11 simplify",
   "integration|associate software developer compass": "2026-08-12 simplify",
   "ita|junior power platform developer": "2026-08-14 simplify",
@@ -2778,6 +2781,7 @@
   "leidos|software engineer": "2026-08-13 simplify",
   "lennar|software engineer 1": "2026-08-15 simplify",
   "litellm|forward deployed engineer new grad": "2026-08-15 simplify",
+  "lmi|junior android engineer rfid": "2026-08-17 simplify",
   "lpl|software engineering new grad": "2026-08-10 simplify",
   "marriott|associate software engineer android mobile": "2026-08-11 simplify",
   "marriott|associate software engineer mobile ios": "2026-08-11 simplify",
@@ -2806,6 +2810,7 @@
   "pathai|software engineer 1 fullstack": "2026-08-11 simplify",
   "pennsylvania|computing software specialist platform observability": "2026-08-11 simplify",
   "pennsylvania|software research and development engineer applied research laboratory": "2026-08-13 simplify",
+  "pnc|software engineer associate business intelligence enablement": "2026-08-17 simplify",
   "presidency|software developer": "2026-08-13 simplify",
   "quantcast|software engineer full stack": "2026-08-11 simplify",
   "reliance|ai software engineer 1": "2026-08-11 simplify",
@@ -2858,5 +2863,5 @@
   "western|software engineer apps": "2026-08-11 simplify",
   "wolverine|entry level c software engineer": "2026-08-15 simplify"
  },
- "last_tier2_at": "2026-08-17T22:10:15+00:00"
+ "last_tier2_at": "2026-08-17T22:36:52+00:00"
 }
