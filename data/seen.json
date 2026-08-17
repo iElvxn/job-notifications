@@ -888,6 +888,7 @@
   "simplify:49b905b6-7c18-4233-aaa8-6f7e1ce5e06e": "2026-07-22",
   "simplify:49f79fb8-6c35-4493-b3f0-b9186ad9d271": "2026-07-22",
   "simplify:4a24f76c-93eb-4463-8d7b-0c9ed7a5ffdd": "2026-07-22",
+  "simplify:4a623f52-ac3e-4809-bbff-79d93ef3ec63": "2026-08-17",
   "simplify:4a72ace1-1756-4d40-a1e6-95873ef03b1f": "2026-07-22",
   "simplify:4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d": "2026-07-22",
   "simplify:4ac72dac-062c-4ad9-94fb-8bd0961f1d95": "2026-08-15",
@@ -1799,6 +1800,7 @@
   "simplify:a8b5504a-512d-4d60-8f56-678649f3b549": "2026-07-22",
   "simplify:a8d72e67-23cb-4de7-badf-ecdebeb47df8": "2026-07-22",
   "simplify:a8e59929-440d-49cd-b14f-27c51906349c": "2026-07-22",
+  "simplify:a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6": "2026-08-17",
   "simplify:a8ff3976-75ef-4c6e-acde-b4aec7f1fd7e": "2026-07-22",
   "simplify:a90aa536-65f3-4efd-bb0e-06916ddc5c58": "2026-07-22",
   "simplify:a91a327a-440b-4f53-b087-4536d201af26": "2026-07-22",
@@ -2709,6 +2711,7 @@
   "aptiv|system engineer os kernel": "2026-08-11 simplify",
   "assa|product engineer 1": "2026-08-11 simplify",
   "associated|full stack developer associate": "2026-08-14 simplify",
+  "assyst|junior net developer": "2026-08-17 simplify",
   "barrios|software developer": "2026-08-12 simplify",
   "berkshire|full stack developer": "2026-08-14 simplify",
   "blackrock|application engineer service management operations group": "2026-08-13 simplify",
@@ -2768,6 +2771,7 @@
   "johns|systems engineer graduate systems engineer analyst": "2026-08-14 simplify",
   "kla|applications development engineer broadband plasma division": "2026-08-16 simplify",
   "kyndryl|associate ai engineer early career consult program": "2026-08-14 simplify",
+  "l3harris|associate software engineer": "2026-08-17 simplify",
   "l3harris|associate software engineering": "2026-08-10 simplify",
   "l3harris|associate systems engineer integrated communication system": "2026-08-11 simplify",
   "leidos|software engineer": "2026-08-13 simplify",
@@ -2852,5 +2856,5 @@
   "western|software engineer apps": "2026-08-11 simplify",
   "wolverine|entry level c software engineer": "2026-08-15 simplify"
  },
- "last_tier2_at": "2026-08-17T13:11:57+00:00"
+ "last_tier2_at": "2026-08-17T13:51:26+00:00"
 }
