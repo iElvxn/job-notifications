@@ -92,6 +92,7 @@
   "amazon:10481932": "2026-07-22",
   "amazon:10490741": "2026-08-03",
   "amazon:10498577": "2026-08-11",
+  "amazon:10502486": "2026-08-18",
   "ashby/notion:297b4ece-765f-4eea-b1b8-46057cb6501f": "2026-07-22",
   "ashby/notion:85947779-6b87-466a-98bc-30a640448c28": "2026-07-22",
   "ashby/notion:e32799d2-8ef8-4803-8189-c72514afa816": "2026-08-14",
@@ -2734,6 +2735,7 @@
   "air|application engineer": "2026-08-13 simplify",
   "alpha|c software engineer": "2026-08-18 simplify",
   "amazon|data engineer i amazon publisher monetization analytics": "2026-08-11 amazon",
+  "amazon|software engineer i payments": "2026-08-18 amazon",
   "amnet|software systems engineer 3": "2026-08-12 simplify",
   "apollo|software engineering associate software development associate": "2026-08-13 simplify",
   "apple|software engineer applied machine learning is t": "2026-08-12 simplify",
@@ -2899,5 +2901,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-18T17:49:11+00:00"
+ "last_tier2_at": "2026-08-18T18:17:14+00:00"
 }
