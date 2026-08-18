@@ -641,6 +641,7 @@
   "simplify:3012e3d5-bb48-4dbf-97fa-e1dd7ea2ce92": "2026-07-29",
   "simplify:3029721d-d2a5-4aba-9f0b-3fca2d03b9f5": "2026-07-22",
   "simplify:305a9d5b-1567-4b6b-a82a-8f5c28aae081": "2026-07-22",
+  "simplify:30600f27-6e64-4519-9d2a-ea875352b5eb": "2026-08-18",
   "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0": "2026-07-22",
   "simplify:3070e973-0914-4ad2-9a46-b55d936867d9": "2026-07-22",
   "simplify:308d4901-8497-4a65-98ec-751aba307b19": "2026-07-22",
@@ -2492,6 +2493,7 @@
   "simplify:ebecfe1f-3890-4cf8-8663-d7b118197e24": "2026-08-15",
   "simplify:ec5d8a02-e212-41b7-beae-22d51584065e": "2026-07-22",
   "simplify:ec5f79ed-2bcb-4e77-872a-3d171559c0fc": "2026-07-22",
+  "simplify:ec674790-bb38-423e-bf36-84796ef90847": "2026-08-18",
   "simplify:ec8d7f8d-2154-4e58-bc3d-7413c3536d43": "2026-08-12",
   "simplify:ecb0c9cf-1170-4e73-ba89-5eabe76a1168": "2026-07-22",
   "simplify:ecd7306e-e1ab-4153-bd2f-50c077e829c7": "2026-08-04",
@@ -2887,7 +2889,9 @@
   "weride|software engineer new grad algorithm": "2026-08-14 simplify",
   "western|software engineer apps": "2026-08-11 simplify",
   "wolverine|entry level c software engineer": "2026-08-15 simplify",
+  "wood|software engineer": "2026-08-18 simplify",
+  "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-18T08:19:37+00:00"
+ "last_tier2_at": "2026-08-18T08:59:09+00:00"
 }
