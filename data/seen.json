@@ -1684,6 +1684,7 @@
   "simplify:9ad854c0-7347-451e-b25a-ee95be9e627f": "2026-07-22",
   "simplify:9ae5133e-21ac-460c-a748-48bab65a707f": "2026-07-22",
   "simplify:9b136209-9ef3-43d1-9809-93b65286b8b2": "2026-07-22",
+  "simplify:9b28f741-a7e8-4acb-8697-fb44335ee538": "2026-08-18",
   "simplify:9b2981bc-4d32-488b-883d-9bbc37b18840": "2026-07-22",
   "simplify:9b3d2be7-1291-4e46-8d88-5212363141cd": "2026-07-22",
   "simplify:9b41dc89-278f-49b2-9445-208d05b10583": "2026-07-22",
@@ -2834,6 +2835,7 @@
   "quantcast|software engineer full stack": "2026-08-11 simplify",
   "reliance|ai software engineer 1": "2026-08-11 simplify",
   "renesas|ai compiler engineer": "2026-08-13 simplify",
+  "repligen|software developer 1": "2026-08-18 simplify",
   "resmed|associate software engineer digital product engineering internet of things": "2026-08-13 simplify",
   "retail|website designer front end developer": "2026-08-12 simplify",
   "roblox|software engineer foundation ai": "2026-08-17 simplify",
@@ -2887,5 +2889,5 @@
   "wolverine|entry level c software engineer": "2026-08-15 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-18T07:50:33+00:00"
+ "last_tier2_at": "2026-08-18T08:19:37+00:00"
 }
