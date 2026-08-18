@@ -1631,6 +1631,7 @@
   "simplify:94b5c207-eda9-41bc-b43a-082ff957f285": "2026-07-22",
   "simplify:94ba7763-9880-4945-95b0-821a78534555": "2026-07-22",
   "simplify:94be9874-44c0-445c-a293-6f469b674484": "2026-07-23",
+  "simplify:94cdc052-b0dd-4f83-bd97-334ea75abc20": "2026-08-18",
   "simplify:94d01de5-9fda-4158-938a-a669c956dc3e": "2026-08-14",
   "simplify:94fd2be0-ad0f-4d9e-868d-305cdda3c042": "2026-07-28",
   "simplify:94ff4390-a797-42d4-a1f1-fa12703a459e": "2026-08-03",
@@ -2793,6 +2794,7 @@
   "insitu|software engineer simulation": "2026-08-11 simplify",
   "integration|associate software developer compass": "2026-08-12 simplify",
   "ita|junior power platform developer": "2026-08-14 simplify",
+  "johnson|software engineer 1 data center engineering": "2026-08-18 simplify",
   "johns|computer engineer new grad shipboard systems team": "2026-08-14 simplify",
   "johns|cyber engineer capabilities development": "2026-08-14 simplify",
   "johns|engineer graduate multi mission planning development": "2026-08-14 simplify",
@@ -2893,5 +2895,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-18T14:03:38+00:00"
+ "last_tier2_at": "2026-08-18T14:49:05+00:00"
 }
