@@ -2714,7 +2714,8 @@
   "workday/salesforce:JR353828": "2026-08-17",
   "workday/salesforce:JR354301": "2026-07-31",
   "workday/salesforce:JR355250": "2026-08-06",
-  "workday/salesforce:JR355789": "2026-08-12"
+  "workday/salesforce:JR355789": "2026-08-12",
+  "workday/salesforce:JR356580": "2026-08-18"
  },
  "notified_keys": {
   "9to9|entry level java developer": "2026-08-12 simplify",
@@ -2850,6 +2851,7 @@
   "rtx|software engineer 2": "2026-08-18 simplify",
   "rtx|systems engineer 1": "2026-08-18 simplify",
   "salesforce|security platform engineer mts": "2026-08-17 workday",
+  "salesforce|software engineering amts": "2026-08-18 workday",
   "salesforce|software engineering mts": "2026-08-14 workday",
   "salesforce|software engineering mts full stack agentic ai engineer": "2026-08-12 workday",
   "securian|engineering analyst": "2026-08-12 simplify",
@@ -2897,5 +2899,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-18T15:53:12+00:00"
+ "last_tier2_at": "2026-08-18T16:53:55+00:00"
 }
