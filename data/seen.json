@@ -1142,6 +1142,7 @@
   "simplify:62261d98-1eb7-4891-8291-675af55d5b80": "2026-07-22",
   "simplify:624c0133-f465-4e8f-aba1-48f1e5507db3": "2026-07-22",
   "simplify:62612bc8-93cf-493c-8968-397f80cda1a1": "2026-07-22",
+  "simplify:62751ae8-bd05-4fa8-8629-d50f034fcc04": "2026-08-19",
   "simplify:62d11aec-ce0b-4085-b323-3da6cb9f2ea0": "2026-07-22",
   "simplify:62db8501-50e1-4e15-b869-1d6c53c8f3fb": "2026-08-07",
   "simplify:62e6a96c-a6b4-455c-bacc-5b38f3055835": "2026-07-22",
@@ -1160,6 +1161,7 @@
   "simplify:64037afd-254d-46c7-9a52-93b03939c7ce": "2026-07-22",
   "simplify:64052d4d-54da-4d7c-b3aa-b49f99dfb1a3": "2026-08-18",
   "simplify:64143855-33c3-40de-8f0f-51058c6f74b6": "2026-07-22",
+  "simplify:641fdd40-6b14-4a5b-9037-8b6a4ac41c35": "2026-08-19",
   "simplify:6420dbca-62cf-469e-b003-fcf4252c3df8": "2026-07-22",
   "simplify:642eabab-4ea7-48cd-b1d9-6b8899fe43d4": "2026-07-22",
   "simplify:6437f9fb-a2c5-4f46-b13c-9e9bea098167": "2026-07-22",
@@ -1972,6 +1974,7 @@
   "simplify:b58a73bb-ceab-4332-b9a0-c42d07a3386a": "2026-07-22",
   "simplify:b58aed3a-c2f5-4853-ad63-e9ed97cfdd74": "2026-07-23",
   "simplify:b59910ff-47b9-4815-804b-4b26f7cef040": "2026-07-22",
+  "simplify:b59fa048-6dd0-4a50-af24-e4c0fdd2693c": "2026-08-19",
   "simplify:b5a4b9e2-255e-4c48-b509-b104a4ee3279": "2026-07-22",
   "simplify:b5b8fd8d-bfe1-4bc0-a902-6285c6270a00": "2026-07-22",
   "simplify:b5c1fef0-1b4d-45d7-aebe-2baa0c94063b": "2026-08-06",
@@ -2754,6 +2757,8 @@
   "alpha|c software engineer": "2026-08-18 simplify",
   "amazon|software engineer i payments": "2026-08-18 amazon",
   "amnet|software systems engineer 3": "2026-08-12 simplify",
+  "anduril|software engineer battlespace awareness": "2026-08-19 simplify",
+  "anduril|software engineer tracking": "2026-08-19 simplify",
   "apollo|software engineering associate software development associate": "2026-08-13 simplify",
   "apple|software engineer applied machine learning is t": "2026-08-12 simplify",
   "apple|software engineer is t early career opportunities": "2026-08-18 simplify",
@@ -2847,6 +2852,7 @@
   "nvidia|software engineer deep learning libraries new college graduate 2026": "2026-08-14 workday",
   "pennsylvania|software research and development engineer applied research laboratory": "2026-08-13 simplify",
   "pnc|software engineer associate business intelligence enablement": "2026-08-17 simplify",
+  "pnc|software engineer associate tempus": "2026-08-19 simplify",
   "presidency|software developer": "2026-08-13 simplify",
   "quantcast|software engineer cloud infrastructure": "2026-08-18 simplify",
   "relativity|ai software engineer terrestrial software ai data and platform engineering": "2026-08-18 simplify",
@@ -2906,5 +2912,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-19T00:37:20+00:00"
+ "last_tier2_at": "2026-08-19T02:06:02+00:00"
 }
