@@ -2436,6 +2436,7 @@
   "simplify:e3161a79-bcb1-4574-9813-427804f6fd73": "2026-07-23",
   "simplify:e3632d9b-0b41-4c09-ae1a-a244b64548ba": "2026-07-22",
   "simplify:e3815529-57c7-41bb-8d69-cad889c3b01e": "2026-07-23",
+  "simplify:e38d607d-510b-4316-beec-46d1cb3cea8e": "2026-08-19",
   "simplify:e3a99a77-86d4-44e8-8c1d-6f9016adc87f": "2026-07-22",
   "simplify:e3cfe515-6df5-4847-9b31-0a9b950a8524": "2026-08-02",
   "simplify:e4077c52-2354-4df5-9e3b-8d653242718a": "2026-07-22",
@@ -2881,6 +2882,7 @@
   "salesforce|software engineering amts": "2026-08-18 workday",
   "salesforce|software engineering mts": "2026-08-14 workday",
   "salesforce|software engineering mts full stack agentic ai engineer": "2026-08-12 workday",
+  "savannah|associate software developer": "2026-08-19 simplify",
   "securian|engineering analyst": "2026-08-12 simplify",
   "selector|software engineer": "2026-08-13 simplify",
   "sigla|software engineer": "2026-08-13 simplify",
@@ -2925,5 +2927,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-19T20:11:33+00:00"
+ "last_tier2_at": "2026-08-19T20:43:00+00:00"
 }
