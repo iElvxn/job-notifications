@@ -2627,6 +2627,7 @@
   "simplify:f72e4f9c-46ba-4a77-aa67-a10faac92de9": "2026-07-23",
   "simplify:f73fef07-4935-451c-b921-b37714844677": "2026-07-22",
   "simplify:f78d89a6-e829-4921-aa03-a7ea8c011b97": "2026-07-22",
+  "simplify:f79b166b-afea-4a0b-9644-b397a4fc143e": "2026-08-19",
   "simplify:f7ad7fb2-93f8-4515-bd37-68629bc7d326": "2026-07-22",
   "simplify:f7cf0ea1-5530-43f1-b77d-aaef1130c643": "2026-07-22",
   "simplify:f7db582c-7a38-4f83-8074-0393bdba993b": "2026-07-22",
@@ -2814,6 +2815,7 @@
   "goldman|new analyst engineering": "2026-08-15 simplify",
   "handshake|associate software engineer": "2026-08-12 simplify",
   "hewlett|software systems engineer advanced compute solutions desktop workstations": "2026-08-17 simplify",
+  "honeywell|application engineer 1 training building automation cx learning enablement": "2026-08-19 simplify",
   "honeywell|software engineer 1": "2026-08-17 simplify",
   "huntington|software development analyst 1": "2026-08-18 simplify",
   "iflip4|back end developer": "2026-08-18 simplify",
@@ -2916,5 +2918,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-19T12:31:16+00:00"
+ "last_tier2_at": "2026-08-19T13:28:25+00:00"
 }
