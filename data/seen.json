@@ -642,6 +642,7 @@
   "simplify:2fc41224-c80d-482f-8683-dceef7b89b48": "2026-07-22",
   "simplify:2fc92f90-9072-4d65-92fe-6fdb60448368": "2026-07-22",
   "simplify:2fef259f-7eea-4f01-83b4-de47794fec0d": "2026-07-22",
+  "simplify:2ff524c5-b4b5-442e-9bf1-f96ce0366ce5": "2026-08-19",
   "simplify:3012e3d5-bb48-4dbf-97fa-e1dd7ea2ce92": "2026-07-29",
   "simplify:3029721d-d2a5-4aba-9f0b-3fca2d03b9f5": "2026-07-22",
   "simplify:305a9d5b-1567-4b6b-a82a-8f5c28aae081": "2026-07-22",
@@ -2850,6 +2851,7 @@
   "notion|software engineer new grad": "2026-08-15 simplify",
   "notion|software engineer new grad dec 2026": "2026-08-14 ashby",
   "nvidia|software engineer deep learning libraries new college graduate 2026": "2026-08-14 workday",
+  "okx|ai native mobile engineer new grad": "2026-08-19 simplify",
   "pennsylvania|software research and development engineer applied research laboratory": "2026-08-13 simplify",
   "pnc|software engineer associate business intelligence enablement": "2026-08-17 simplify",
   "pnc|software engineer associate tempus": "2026-08-19 simplify",
@@ -2912,5 +2914,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-19T02:06:02+00:00"
+ "last_tier2_at": "2026-08-19T03:08:13+00:00"
 }
