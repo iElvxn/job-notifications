@@ -1486,6 +1486,7 @@
   "simplify:81476e53-2803-426e-8021-2bcd1ad52184": "2026-07-28",
   "simplify:8164a1a2-c8ee-4c4f-b296-1c29817a193e": "2026-08-03",
   "simplify:816fa3ce-73c5-4f4b-8a2a-6fab0a909948": "2026-07-28",
+  "simplify:819eedb4-b5db-4a0d-8f0d-c91e64fb9eeb": "2026-08-21",
   "simplify:81a162f0-c50f-4320-881a-dc2c5ca10e48": "2026-07-22",
   "simplify:81ba8260-ef42-4899-a192-3240fa6a5bbb": "2026-07-22",
   "simplify:81d325c4-88d3-4117-bb10-bdc3c951bc3c": "2026-07-22",
@@ -2793,6 +2794,7 @@
  "notified_keys": {
   "alpha|c software engineer": "2026-08-18 simplify",
   "amazon|software engineer i payments": "2026-08-18 amazon",
+  "amentum|software programmer entry level conventional test facility": "2026-08-21 simplify",
   "anduril|software engineer battlespace awareness": "2026-08-19 simplify",
   "anduril|software engineer tracking": "2026-08-19 simplify",
   "apple|darwin runtime engineer core os": "2026-08-20 simplify",
@@ -2946,5 +2948,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-21T17:51:53+00:00"
+ "last_tier2_at": "2026-08-21T18:17:52+00:00"
 }
