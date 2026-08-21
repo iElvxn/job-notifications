@@ -1232,6 +1232,7 @@
   "simplify:67937ffc-14b5-4231-9e62-9a4f13dd11c2": "2026-07-22",
   "simplify:67b5b449-b8c2-494e-a306-0e9bc0573ab3": "2026-07-22",
   "simplify:67f616cb-649c-4944-8550-3023ef36afb9": "2026-07-22",
+  "simplify:67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c": "2026-08-21",
   "simplify:6805ad41-b94a-44ef-9bac-4bb826f84abb": "2026-07-22",
   "simplify:682f9b47-5081-4f77-85e3-da6ba3076369": "2026-08-03",
   "simplify:684c01a1-1150-43b2-81a8-aaf6e5bd06db": "2026-07-22",
@@ -1332,6 +1333,7 @@
   "simplify:71f804f1-c197-423f-a0e1-2af9ad408a51": "2026-07-22",
   "simplify:7201fef9-2990-4336-9766-3088f919731f": "2026-07-23",
   "simplify:723295b5-251b-44de-8933-5939d249aae2": "2026-07-22",
+  "simplify:7244fb2c-e4f5-41ea-82cd-95263ef93961": "2026-08-21",
   "simplify:725d5cdb-6ceb-4218-9b86-3dd4fcaf533a": "2026-07-22",
   "simplify:727bca38-2bd8-4617-9787-7d0297465286": "2026-07-22",
   "simplify:7285a57f-86ed-4201-82a9-a80f0306e1a3": "2026-08-11",
@@ -2802,6 +2804,7 @@
   "boom|software engineer exceptional talent": "2026-08-16 simplify",
   "boston|forward deployed ai engineer campus": "2026-08-20 simplify",
   "boston|software development engineer 2 engineering": "2026-08-18 simplify",
+  "bytedance|software engineer graduate aml engine forge platform": "2026-08-21 simplify",
   "caci|ai prompt engineer": "2026-08-19 simplify",
   "caci|c software engineer engineering": "2026-08-17 simplify",
   "caci|cyber software engineer cyber science technology": "2026-08-19 simplify",
@@ -2854,6 +2857,7 @@
   "l3harris|application developer associate enterprise data and ai": "2026-08-19 simplify",
   "l3harris|associate software engineer": "2026-08-18 simplify",
   "l3harris|associate software engineering": "2026-08-19 simplify",
+  "l3harris|software engineer associate ts sci": "2026-08-21 simplify",
   "lennar|software engineer 1": "2026-08-15 simplify",
   "lexisnexis|software engineer 1": "2026-08-19 simplify",
   "light|associate software engineer": "2026-08-19 simplify",
@@ -2938,5 +2942,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-21T09:04:07+00:00"
+ "last_tier2_at": "2026-08-21T09:49:34+00:00"
 }
