@@ -348,6 +348,7 @@
   "simplify:10e3b0cb-14b0-4d11-9324-b5a5a0049daf": "2026-07-22",
   "simplify:10f9d77f-0a09-4ca9-94f4-9ab43f6a14f6": "2026-07-22",
   "simplify:110f48d8-5c60-48c9-ab11-142d1241591f": "2026-07-22",
+  "simplify:1125c69f-65e1-4147-8a75-a88ddc41e3b2": "2026-08-21",
   "simplify:11300faa-161b-483b-9520-12054a5957e6": "2026-07-22",
   "simplify:1130d7d5-191c-4c55-a47a-eb8a44cf5796": "2026-07-22",
   "simplify:1169bc21-fa23-40ca-a33d-bc5c23912da9": "2026-08-07",
@@ -2872,6 +2873,7 @@
   "northrop|associate systems modeling simulation engineer systems modeling simulation engineer test evaluation": "2026-08-18 simplify",
   "notion|software engineer new grad": "2026-08-15 simplify",
   "notion|software engineer new grad dec 2026": "2026-08-14 ashby",
+  "nucleus|full stack engineer": "2026-08-21 simplify",
   "nvidia|applied machine learning engineer circuit design new college grad 2026": "2026-08-21 workday",
   "nvidia|nvidia 2027 new college graduate gpu architecture engineering china": "2026-08-21 workday",
   "nvidia|nvidia 2027 new college graduate software engineering china": "2026-08-21 workday",
@@ -2936,5 +2938,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-21T06:21:39+00:00"
+ "last_tier2_at": "2026-08-21T07:13:39+00:00"
 }
