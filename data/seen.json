@@ -598,6 +598,7 @@
   "simplify:2996a6ee-f2d3-435c-ac5f-483d0768559e": "2026-07-22",
   "simplify:2a22e614-0fd6-4b09-bc0f-15ed0eae562d": "2026-07-22",
   "simplify:2a66eaca-fc2d-4587-8cda-8e31d4687a80": "2026-07-22",
+  "simplify:2a701480-0cb2-4855-8732-d762f6105134": "2026-08-21",
   "simplify:2a8e337d-9b44-4504-ab4e-201369e5ab53": "2026-07-22",
   "simplify:2a9715ce-fc4b-4245-9f7d-dd33ae0f0bd1": "2026-07-31",
   "simplify:2ab3ea47-41c1-46b3-8932-fedbbb55e1cd": "2026-08-16",
@@ -2887,6 +2888,7 @@
   "pnc|software engineer associate business intelligence enablement": "2026-08-17 simplify",
   "pnc|software engineer associate tempus": "2026-08-19 simplify",
   "point72|2027 cubist quant academy developers": "2026-08-19 greenhouse",
+  "pplsi|software engineer": "2026-08-21 simplify",
   "principal|software engineer 1 software engineer 2 salesforce focused": "2026-08-20 simplify",
   "qualcomm|verification software engineer software engineering": "2026-08-21 simplify",
   "quantcast|software engineer cloud infrastructure": "2026-08-18 simplify",
@@ -2942,5 +2944,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-21T14:06:16+00:00"
+ "last_tier2_at": "2026-08-21T14:50:20+00:00"
 }
