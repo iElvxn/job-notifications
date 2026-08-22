@@ -1435,6 +1435,7 @@
   "simplify:7a2cd1d7-c2ad-4fbd-ba66-5796b3126e14": "2026-07-22",
   "simplify:7a3d190d-3751-4648-a630-1f26ee5a4955": "2026-07-22",
   "simplify:7a5fac0f-e672-40c7-943a-87bbd1449a89": "2026-07-22",
+  "simplify:7a70a260-965f-4aec-902f-7d5704f201a2": "2026-08-22",
   "simplify:7a71ece6-7f17-47ea-a182-140670868d14": "2026-07-22",
   "simplify:7a8c16e6-b29e-441d-9635-d193fe1c96fa": "2026-07-22",
   "simplify:7a9df6f7-6085-43b4-ad7e-c3426ad5d305": "2026-08-21",
@@ -2426,6 +2427,7 @@
   "simplify:ddab6979-2f49-4d28-b272-ce3aafb18bb5": "2026-07-22",
   "simplify:ddb04217-d7a2-4576-abf4-9213f9bda09f": "2026-08-11",
   "simplify:ddb49233-5a37-440d-b616-cac6dc372935": "2026-07-22",
+  "simplify:ddb8f300-267b-4c8d-8fcf-9e075ae95dfb": "2026-08-22",
   "simplify:ddbc3338-08db-4c93-9c6d-d0a88e19b684": "2026-08-13",
   "simplify:ddc01ed7-cfd1-4e3a-916f-9cf150b54963": "2026-08-07",
   "simplify:dde683df-ec22-4d14-9855-ddfa585da7ea": "2026-07-22",
@@ -2814,6 +2816,7 @@
   "anduril|software engineer tracking": "2026-08-19 simplify",
   "apple|darwin runtime engineer core os": "2026-08-20 simplify",
   "apple|software engineer is t early career opportunities": "2026-08-18 simplify",
+  "applied|software engineer 1": "2026-08-22 simplify",
   "applied|software engineer new grad december 2026": "2026-08-15 simplify",
   "assyst|junior net developer": "2026-08-17 simplify",
   "astrion|junior software developer datalinks test flight": "2026-08-18 simplify",
@@ -2918,6 +2921,7 @@
   "tiktok|graduate software engineer tiktok search data infra": "2026-08-20 simplify",
   "tiktok|research scientist software engineer neural graphics and world models": "2026-08-20 simplify",
   "tjx|salesforce developer loss prevention": "2026-08-18 simplify",
+  "true|software engineer 1 new grad qa": "2026-08-22 simplify",
   "truveta|software engineer commerce": "2026-08-19 simplify",
   "t|associate engineer software": "2026-08-19 simplify",
   "t|associate software engineer": "2026-08-21 simplify",
@@ -2932,5 +2936,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-22T00:40:38+00:00"
+ "last_tier2_at": "2026-08-22T02:03:42+00:00"
 }
