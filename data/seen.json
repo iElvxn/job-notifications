@@ -1650,6 +1650,7 @@
   "simplify:912909a7-5907-4e12-a460-63a997152877": "2026-07-22",
   "simplify:91387a3c-cb9a-4442-904b-ae76cac858ab": "2026-07-22",
   "simplify:913f0929-685a-45d5-9d4e-c0c89eba651e": "2026-07-22",
+  "simplify:9144eb86-7f92-4d1f-8b3a-4bb8389b35d9": "2026-08-24",
   "simplify:914a3b9a-ec4f-4ff5-8714-fd060a543f01": "2026-07-22",
   "simplify:9175fda7-29d6-4363-aab7-ee08277af697": "2026-07-22",
   "simplify:919e3428-c805-4f21-9770-29a36d2ce524": "2026-08-13",
@@ -2889,6 +2890,7 @@
   "principal|software engineer 1 software engineer 2 salesforce focused": "2026-08-20 simplify",
   "qualcomm|verification software engineer software engineering": "2026-08-21 simplify",
   "quantcast|software engineer cloud infrastructure": "2026-08-18 simplify",
+  "rei|associate software engineer salesforce": "2026-08-24 simplify",
   "relativity|ai software engineer terrestrial software ai data and platform engineering": "2026-08-18 simplify",
   "repligen|software developer 1": "2026-08-18 simplify",
   "roblox|software engineer foundation ai": "2026-08-17 simplify",
@@ -2924,5 +2926,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-24T00:28:24+00:00"
+ "last_tier2_at": "2026-08-24T02:06:28+00:00"
 }
