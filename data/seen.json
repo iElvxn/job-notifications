@@ -2014,6 +2014,7 @@
   "simplify:b3fc05eb-a25e-4094-b776-0a7dada280e7": "2026-07-22",
   "simplify:b41558a2-a4a1-460b-953a-246f18295bc7": "2026-07-22",
   "simplify:b43d2fae-47d0-4b65-bd4b-dd44ca366b00": "2026-07-22",
+  "simplify:b462559b-c917-4db0-a92b-9bd0c90f0f33": "2026-08-24",
   "simplify:b474b399-bc4e-4fed-a690-7c62e696ab51": "2026-07-22",
   "simplify:b4b8249f-b8fd-491d-a1cb-5466b6ec5f88": "2026-07-22",
   "simplify:b4c2db2d-3859-453b-823e-8dc517020ce3": "2026-07-22",
@@ -2058,6 +2059,7 @@
   "simplify:b91ba74c-d201-4cd8-b896-76ec065d1447": "2026-07-22",
   "simplify:b93029bb-0502-4da5-9050-4b8933270db8": "2026-08-12",
   "simplify:b9309db9-dccf-4bad-add7-a387f24df3c6": "2026-07-22",
+  "simplify:b948ef8c-99af-4850-940a-ca3b8506efb3": "2026-08-24",
   "simplify:b94e8d1e-3c45-4d18-b334-b8f2fec267bb": "2026-07-22",
   "simplify:b95085e2-8361-490f-ab61-0871fb589712": "2026-07-22",
   "simplify:b9532175-5121-4c43-a102-f00809c0ec25": "2026-07-22",
@@ -2180,6 +2182,7 @@
   "simplify:c52bdd71-9fd3-4559-a3c5-d9a447bfb231": "2026-08-04",
   "simplify:c5419a29-0a6b-4d6e-8818-6cfb80a43f75": "2026-07-22",
   "simplify:c551daed-04ac-42cb-a745-9664938e00da": "2026-07-22",
+  "simplify:c582d3c2-5152-41c6-b5d9-162452d0eabf": "2026-08-24",
   "simplify:c58457ce-e22e-4633-bddb-0886f0537cc2": "2026-07-22",
   "simplify:c5cca8ff-fdd8-4df1-a38b-1d3a2f8f65a8": "2026-07-22",
   "simplify:c5fcea16-f224-42aa-9e2e-6da4137424ee": "2026-07-23",
@@ -2848,6 +2851,7 @@
   "general|entry level software engineer": "2026-08-19 simplify",
   "general|software engineer entry level": "2026-08-21 simplify",
   "globalfoundries|ai ml software engineer new grad": "2026-08-20 simplify",
+  "google|software engineer early career multiple teams": "2026-08-24 simplify",
   "hewlett|software systems engineer advanced compute solutions desktop workstations": "2026-08-17 simplify",
   "honeywell|application engineer 1 training building automation cx learning enablement": "2026-08-19 simplify",
   "honeywell|software engineer 1": "2026-08-17 simplify",
@@ -2869,6 +2873,7 @@
   "light|associate software engineer": "2026-08-19 simplify",
   "lmi|junior android engineer rfid": "2026-08-17 simplify",
   "marlabs|entry level programmer developer": "2026-08-18 simplify",
+  "mastercard|software engineer launch program": "2026-08-24 simplify",
   "mercury|software engineer 1": "2026-08-21 simplify",
   "mercury|software engineer 1 test": "2026-08-21 simplify",
   "microsoft|software engineer": "2026-08-21 microsoft",
@@ -2914,6 +2919,7 @@
   "tiktok|graduate software engineer tiktok search data infra": "2026-08-20 simplify",
   "tiktok|research scientist software engineer neural graphics and world models": "2026-08-20 simplify",
   "tjx|salesforce developer loss prevention": "2026-08-18 simplify",
+  "tracelink|software engineer 1 engineering services": "2026-08-24 simplify",
   "true|software engineer 1 new grad qa": "2026-08-22 simplify",
   "truveta|software engineer commerce": "2026-08-19 simplify",
   "t|associate engineer software": "2026-08-19 simplify",
@@ -2928,5 +2934,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-24T14:22:51+00:00"
+ "last_tier2_at": "2026-08-24T15:06:08+00:00"
 }
