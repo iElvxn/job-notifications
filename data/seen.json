@@ -2037,6 +2037,7 @@
   "simplify:b6b3d7a4-ef99-4d90-b54e-4875edd95d12": "2026-08-12",
   "simplify:b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3": "2026-07-31",
   "simplify:b75b33ad-8ca9-41fa-93dd-45a8df47f6c1": "2026-08-01",
+  "simplify:b798780f-4009-488b-ab0c-948146a7a0ca": "2026-08-24",
   "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc": "2026-07-22",
   "simplify:b79c1989-c4d0-4236-83c7-5cc5c3a24ae2": "2026-07-22",
   "simplify:b7c939a9-49e2-41fb-b06c-af7bf8288a18": "2026-07-22",
@@ -2831,6 +2832,7 @@
   "charta|software engineer new grad": "2026-08-18 simplify",
   "constructconnect|associate software engineer product development": "2026-08-21 simplify",
   "cook|entry level software developer": "2026-08-18 simplify",
+  "crowdstrike|software engineer sensor sao": "2026-08-24 simplify",
   "crusoe|software engineer 1 network": "2026-08-20 simplify",
   "daikin|application software developer 1": "2026-08-17 simplify",
   "dark|junior ai software engineer": "2026-08-18 simplify",
@@ -2926,5 +2928,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-24T12:46:10+00:00"
+ "last_tier2_at": "2026-08-24T13:40:05+00:00"
 }
