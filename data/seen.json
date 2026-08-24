@@ -1533,6 +1533,7 @@
   "simplify:85b3d57c-17e3-4b2e-9786-3b5d828d0199": "2026-07-22",
   "simplify:85d31e6a-319f-48fb-9257-4d401c4f3ad5": "2026-07-22",
   "simplify:85d5f698-d3a7-44d8-ba19-1f5bb9c76509": "2026-07-22",
+  "simplify:85d7cbe8-ca54-4877-83dd-d0a6cfcc4157": "2026-08-24",
   "simplify:8610b082-0dee-4fb2-9264-5d5adf2e3bda": "2026-07-22",
   "simplify:86247036-93b7-4e67-9fd5-4b5eb0573583": "2026-08-02",
   "simplify:8625f8ce-59cc-4216-9db0-43314f6c866f": "2026-07-22",
@@ -2825,6 +2826,7 @@
   "applied|software engineer 1": "2026-08-22 simplify",
   "assyst|junior net developer": "2026-08-17 simplify",
   "astrion|junior software developer datalinks test flight": "2026-08-18 simplify",
+  "booz|software developer": "2026-08-24 simplify",
   "boston|forward deployed ai engineer campus": "2026-08-20 simplify",
   "boston|software development engineer 2 engineering": "2026-08-18 simplify",
   "bytedance|software engineer graduate aml engine forge platform": "2026-08-21 simplify",
@@ -2936,5 +2938,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-24T19:50:21+00:00"
+ "last_tier2_at": "2026-08-24T20:48:21+00:00"
 }
