@@ -1123,6 +1123,7 @@
   "simplify:5cd612da-7f1a-4d55-8fec-d7331800989b": "2026-07-22",
   "simplify:5cdafd83-dd1b-4e63-8712-e50a41b28317": "2026-07-22",
   "simplify:5ced01a5-6d42-47fc-90a6-5a183c724f67": "2026-08-04",
+  "simplify:5cf6bc0c-fa07-4cc0-8813-73901c4c566b": "2026-08-25",
   "simplify:5d023457-583e-4d96-a658-1530450d2382": "2026-07-23",
   "simplify:5d1297f8-fa47-47f1-8e47-d3b0c8a58d77": "2026-07-22",
   "simplify:5d4273a4-4eda-4ac4-8656-a398851d11d7": "2026-07-22",
@@ -2353,6 +2354,7 @@
   "simplify:d57d8dae-f824-4c62-94e2-ab9869cf39ae": "2026-07-22",
   "simplify:d5ac7a44-0234-482a-86ed-89d7941eed37": "2026-07-22",
   "simplify:d5b47b14-ab65-44e1-b532-56a96b46ed94": "2026-07-22",
+  "simplify:d5cb9991-9336-4138-b9c5-18d14b6c8f1b": "2026-08-25",
   "simplify:d5d6036d-8efd-4f15-b50c-961a15c64257": "2026-07-22",
   "simplify:d5f0fe23-0a37-470b-a1d9-728b293a7e93": "2026-07-22",
   "simplify:d653c73d-e099-4b51-8bc4-7def1732f91c": "2026-07-22",
@@ -2854,6 +2856,7 @@
   "caci|cyber software engineer cyber science technology": "2026-08-19 simplify",
   "caci|entry level software engineer": "2026-08-18 simplify",
   "caci|software engineer engineering": "2026-08-19 simplify",
+  "caris|associate software engineer clinical software products": "2026-08-25 simplify",
   "charta|software engineer new grad": "2026-08-18 simplify",
   "constructconnect|associate software engineer product development": "2026-08-21 simplify",
   "cook|entry level software developer": "2026-08-18 simplify",
@@ -2892,7 +2895,7 @@
   "l3harris|application developer associate": "2026-08-18 simplify",
   "l3harris|application developer associate enterprise data and ai": "2026-08-19 simplify",
   "l3harris|associate software engineer": "2026-08-18 simplify",
-  "l3harris|associate software engineering": "2026-08-19 simplify",
+  "l3harris|associate software engineering": "2026-08-25 simplify",
   "l3harris|software engineer associate ts sci": "2026-08-21 simplify",
   "lexisnexis|software engineer 1": "2026-08-19 simplify",
   "light|associate software engineer": "2026-08-19 simplify",
@@ -2963,5 +2966,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-25T03:09:39+00:00"
+ "last_tier2_at": "2026-08-25T03:56:11+00:00"
 }
