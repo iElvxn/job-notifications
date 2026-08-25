@@ -323,6 +323,7 @@
   "simplify:0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4": "2026-07-23",
   "simplify:0d7e5ade-c787-44c5-9358-0e54abadfdfe": "2026-07-30",
   "simplify:0d9c311a-c4bf-4426-8b6a-c25c5fc88cd2": "2026-07-22",
+  "simplify:0db410bd-2e98-4085-8c98-e2d9c6e4dfee": "2026-08-25",
   "simplify:0dbc9fad-c658-4d72-ad60-a24162928106": "2026-07-22",
   "simplify:0dcc894e-6f33-4e89-a83f-254eb01d07bc": "2026-07-22",
   "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252": "2026-07-22",
@@ -2896,7 +2897,7 @@
   "koah|software engineer early career": "2026-08-18 simplify",
   "l3harris|application developer associate": "2026-08-18 simplify",
   "l3harris|application developer associate enterprise data and ai": "2026-08-19 simplify",
-  "l3harris|associate software engineer": "2026-08-18 simplify",
+  "l3harris|associate software engineer": "2026-08-25 simplify",
   "l3harris|associate software engineering": "2026-08-25 simplify",
   "l3harris|software engineer associate ts sci": "2026-08-21 simplify",
   "lexisnexis|software engineer 1": "2026-08-19 simplify",
@@ -2968,5 +2969,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-25T10:56:10+00:00"
+ "last_tier2_at": "2026-08-25T11:49:58+00:00"
 }
