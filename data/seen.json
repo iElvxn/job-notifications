@@ -441,6 +441,7 @@
   "simplify:19dc207d-51a6-45cf-be80-50c93ab46e32": "2026-07-22",
   "simplify:19e4f3e2-8068-46e5-b5f9-879b2594bd38": "2026-08-02",
   "simplify:19f32ab3-2a4d-4e59-9937-92878312f48c": "2026-07-22",
+  "simplify:1a1f699e-127e-40c9-966b-51e682c53f44": "2026-08-25",
   "simplify:1a22f6de-6cee-4fe0-a021-eeef9cdb81ea": "2026-07-22",
   "simplify:1a2e58cc-f4e5-478e-a272-afd67fbeedd1": "2026-07-23",
   "simplify:1a30f17b-7e1c-425f-be9a-36f0533d68f5": "2026-07-22",
@@ -1593,6 +1594,7 @@
   "simplify:89442d0e-48eb-456c-ac06-cf9ce81cacae": "2026-07-22",
   "simplify:89492024-ada7-4360-b431-d46b4822c4a0": "2026-07-22",
   "simplify:8968648b-8085-4e3b-91b6-bf4581101da8": "2026-07-22",
+  "simplify:896a2ce6-0e75-40f5-9b7e-811079dfe6bb": "2026-08-25",
   "simplify:896dbe55-ef9b-431b-9a54-5c8eb5ad8c43": "2026-07-22",
   "simplify:8976baaf-f80c-49da-b96f-1827bcc5153f": "2026-07-22",
   "simplify:89ab9e19-42e3-43e0-aa23-712c8fb7d159": "2026-07-22",
@@ -2939,6 +2941,7 @@
   "nvidia|nvidia 2027 new college graduate software engineering china": "2026-08-21 workday",
   "okx|ai native mobile engineer new grad": "2026-08-19 simplify",
   "oracle|platform software engineer 1": "2026-08-24 simplify",
+  "payit|associate software engineer": "2026-08-25 simplify",
   "peraton|cobol software developer": "2026-08-21 simplify",
   "pnc|software engineer associate tempus": "2026-08-19 simplify",
   "point72|2027 cubist quant academy developers": "2026-08-19 greenhouse",
@@ -2950,7 +2953,7 @@
   "rei|associate software engineer salesforce": "2026-08-24 simplify",
   "relativity|ai software engineer terrestrial software ai data and platform engineering": "2026-08-18 simplify",
   "repligen|software developer 1": "2026-08-18 simplify",
-  "rtx|software engineer 1": "2026-08-24 simplify",
+  "rtx|software engineer 1": "2026-08-25 simplify",
   "rtx|software engineer 1 advanced products and solutions eo ir programs": "2026-08-18 simplify",
   "rtx|software engineer 2": "2026-08-18 simplify",
   "rtx|systems engineer 1": "2026-08-18 simplify",
@@ -2990,5 +2993,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-25T21:39:44+00:00"
+ "last_tier2_at": "2026-08-25T22:19:21+00:00"
 }
