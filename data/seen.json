@@ -2849,7 +2849,8 @@
   "workday/salesforce:JR354301": "2026-07-31",
   "workday/salesforce:JR355250": "2026-08-06",
   "workday/salesforce:JR355789": "2026-08-12",
-  "workday/salesforce:JR356580": "2026-08-18"
+  "workday/salesforce:JR356580": "2026-08-18",
+  "workday/salesforce:JR357449": "2026-08-25"
  },
  "notified_keys": {
   "alpha|c software engineer": "2026-08-18 simplify",
@@ -2959,6 +2960,7 @@
   "rtx|software engineer 2": "2026-08-18 simplify",
   "rtx|systems engineer 1": "2026-08-18 simplify",
   "salesforce|software engineering amts": "2026-08-18 workday",
+  "salesforce|software engineering mts": "2026-08-25 workday",
   "savannah|associate software developer": "2026-08-19 simplify",
   "servicenow|associate applications development engineer": "2026-08-21 simplify",
   "spacex|new graduate engineer software application software": "2026-08-19 greenhouse",
