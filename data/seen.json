@@ -1233,6 +1233,7 @@
   "simplify:66075d6b-0a81-4d74-8c32-466f0aab417c": "2026-07-22",
   "simplify:660c3a00-d629-407f-a045-aae133cd0c02": "2026-07-22",
   "simplify:66396035-7ef7-4576-a4e0-7487fd68616c": "2026-08-12",
+  "simplify:6642fd98-f102-48bc-b226-3acb5b8c3988": "2026-08-25",
   "simplify:666026fb-b51e-4c10-bed4-38aaceade505": "2026-07-22",
   "simplify:6667cebb-7f69-4d17-9b3c-c2cc546684b4": "2026-07-22",
   "simplify:66729d57-3a29-40b5-8252-a50252c674ee": "2026-07-22",
@@ -2919,6 +2920,7 @@
   "northrop|associate software engineer software engineer": "2026-08-19 simplify",
   "northrop|associate systems modeling simulation engineer systems modeling simulation engineer test evaluation": "2026-08-18 simplify",
   "northrop|java software engineer 1 or 2": "2026-08-24 simplify",
+  "northrop|software engineer": "2026-08-25 simplify",
   "nucleus|full stack engineer": "2026-08-21 simplify",
   "nvidia|applied machine learning engineer circuit design new college grad 2026": "2026-08-21 workday",
   "nvidia|architecture energy modeling engineer new college grad 2026": "2026-08-21 workday",
@@ -2973,5 +2975,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-25T17:01:38+00:00"
+ "last_tier2_at": "2026-08-25T17:42:18+00:00"
 }
