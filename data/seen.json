@@ -1780,6 +1780,7 @@
   "simplify:9d7c3bb8-199b-4cd3-bd7d-e65db8c1251c": "2026-08-07",
   "simplify:9d908eec-cb2d-4437-9cb1-47aea6e0c308": "2026-08-03",
   "simplify:9d91fa2e-e752-47e0-b69e-12a60a844b57": "2026-07-22",
+  "simplify:9d9c46e1-9387-4d06-841a-4497c4901c06": "2026-08-25",
   "simplify:9d9eb552-2b86-429d-875e-4c930c609200": "2026-08-18",
   "simplify:9dd271a3-9548-43cb-aa06-75e9947c1623": "2026-08-03",
   "simplify:9e07fe1f-6795-4be0-83a7-ed61fd938ce2": "2026-07-22",
@@ -1793,6 +1794,7 @@
   "simplify:9e891fa0-b4c0-4dfb-8688-b47b07a23497": "2026-07-22",
   "simplify:9ea7b170-84a0-4889-a467-6f6b75ff3189": "2026-07-22",
   "simplify:9eae2f4c-8306-416b-93fa-07c53f37cdef": "2026-07-22",
+  "simplify:9ecb4578-6a8a-4f73-ac53-0651cbbd7167": "2026-08-25",
   "simplify:9ed58f87-d1e7-411d-9f4c-edaa7f93bda2": "2026-07-22",
   "simplify:9ed7b461-c9c3-4d18-9e17-4bbc1ad3e3c9": "2026-08-06",
   "simplify:9ee25097-f93f-4cf5-94fc-b8071589bf17": "2026-08-03",
@@ -2702,6 +2704,7 @@
   "simplify:f677e047-8b60-482d-af3f-74bc07856997": "2026-07-22",
   "simplify:f6865848-c6d8-4488-a94b-ee21317efaa1": "2026-07-22",
   "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708": "2026-08-01",
+  "simplify:f6ea312c-a27d-4faa-9ea7-e433fa700f5a": "2026-08-25",
   "simplify:f6f17706-f32e-4624-8175-889945a160e5": "2026-08-20",
   "simplify:f6f83b45-cf4c-4a3e-8f32-4c64672610a1": "2026-07-22",
   "simplify:f6f93c70-242c-4186-a7d2-07dd6a45694b": "2026-07-22",
@@ -2832,6 +2835,7 @@
  },
  "notified_keys": {
   "alpha|c software engineer": "2026-08-18 simplify",
+  "amazon|software development engineer amazon leo": "2026-08-25 simplify",
   "amazon|software development engineer amazon leo early career 2026": "2026-08-25 amazon",
   "amazon|software engineer i payments": "2026-08-18 amazon",
   "amentum|software programmer entry level conventional test facility": "2026-08-21 simplify",
@@ -2855,6 +2859,7 @@
   "cook|entry level software developer": "2026-08-18 simplify",
   "crowdstrike|software engineer sensor sao": "2026-08-24 simplify",
   "crusoe|software engineer 1 network": "2026-08-20 simplify",
+  "daikin|it applications developer": "2026-08-25 simplify",
   "dark|junior ai software engineer": "2026-08-18 simplify",
   "diesel|software engineer": "2026-08-18 simplify",
   "digitalocean|software engineer automation": "2026-08-20 simplify",
@@ -2934,6 +2939,7 @@
   "spacex|new graduate engineer software starship": "2026-08-19 greenhouse",
   "spacex|software engineer new grad software application software": "2026-08-19 simplify",
   "spacex|software security engineer new grad software security starlink": "2026-08-24 simplify",
+  "stcu|software developer 1": "2026-08-25 simplify",
   "steerbridge|junior software engineer": "2026-08-24 simplify",
   "stryker|software development engineer": "2026-08-18 simplify",
   "techtronic|software engineer 1": "2026-08-19 simplify",
@@ -2957,5 +2963,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-25T00:40:35+00:00"
+ "last_tier2_at": "2026-08-25T02:06:54+00:00"
 }
