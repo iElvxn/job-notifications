@@ -987,6 +987,7 @@
   "simplify:4fe03bf3-4c12-4115-b009-2020faa2de23": "2026-08-19",
   "simplify:4ff8ce00-d5ca-486c-b103-e438be53ee1a": "2026-07-31",
   "simplify:50180eb2-dcb7-40d6-b58d-4cb6d07f22d3": "2026-07-23",
+  "simplify:501a5d9d-54bb-4a8b-a3a5-2c6efd18d963": "2026-08-25",
   "simplify:502a427d-2a14-4b25-8a0e-2b093361ed1a": "2026-07-23",
   "simplify:50390a34-333d-471c-9a4b-c2b34ecb25ad": "2026-07-22",
   "simplify:5044965f-dc9a-443a-8ec7-b438937b395b": "2026-07-22",
@@ -2873,6 +2874,7 @@
   "encova|developer developer 1": "2026-08-18 simplify",
   "expedia|software development engineer 1": "2026-08-21 simplify",
   "fidelity|software engineer leap": "2026-08-21 simplify",
+  "fidelity|software engineer new grad leap": "2026-08-25 simplify",
   "five|link 2027 software development intensive program": "2026-08-18 greenhouse",
   "garmin|software engineer 1": "2026-08-21 simplify",
   "general|ai engineer associate": "2026-08-18 simplify",
@@ -2969,5 +2971,5 @@
   "wood|software engineer 0 entry level software engineering": "2026-08-18 simplify",
   "zoro|full stack software developer": "2026-08-18 simplify"
  },
- "last_tier2_at": "2026-08-25T15:00:04+00:00"
+ "last_tier2_at": "2026-08-25T15:41:50+00:00"
 }
