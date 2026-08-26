@@ -1065,6 +1065,7 @@
   "simplify:57184400-c81e-4ede-b8a3-d47cfe8f2d1c": "2026-07-23",
   "simplify:5735479a-0db8-4cb4-b4d1-faf8deb278c3": "2026-07-22",
   "simplify:57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2": "2026-07-28",
+  "simplify:57715dab-c267-4352-aa7c-5aca9054a182": "2026-08-26",
   "simplify:5792b5a2-ef1d-434b-b7d6-f3b05887383d": "2026-07-22",
   "simplify:57a88b77-0b46-4e53-b3ad-a13cd9123377": "2026-07-22",
   "simplify:57c0a0af-24f9-4227-b1af-ab0d9214f1a2": "2026-07-22",
@@ -2884,6 +2885,7 @@
   "constructconnect|associate software engineer product development": "2026-08-21 simplify",
   "crowdstrike|software engineer sensor sao": "2026-08-24 simplify",
   "crusoe|software engineer 1 network": "2026-08-20 simplify",
+  "cummins|product engineer product engineering": "2026-08-26 simplify",
   "daikin|it applications developer": "2026-08-25 simplify",
   "digitalocean|software engineer automation": "2026-08-20 simplify",
   "dtcc|application developer analyst 2027 edge program": "2026-08-26 simplify",
@@ -2978,5 +2980,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-08-26T13:30:03+00:00"
+ "last_tier2_at": "2026-08-26T14:11:29+00:00"
 }
