@@ -1959,6 +1959,7 @@
   "simplify:abaa5e9d-c0a5-4c3e-bb1c-fc4e14df83ff": "2026-07-22",
   "simplify:abb10756-7c15-4694-8cfc-00d3fb05f0ad": "2026-08-24",
   "simplify:abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500": "2026-08-20",
+  "simplify:ac0fcf1b-7b15-45db-88c7-26e72ddf2047": "2026-08-26",
   "simplify:ac3e9cad-2324-4beb-a175-1d9b537b0de9": "2026-07-22",
   "simplify:ac4a0664-7251-4c89-828b-5bf31a2ce87d": "2026-07-22",
   "simplify:ac4ef6f6-759d-4722-84e4-20b1fcd59ac8": "2026-07-30",
@@ -2909,6 +2910,7 @@
   "infleqtion|quantum software engineer compiler control systems": "2026-08-25 simplify",
   "integration|software engineer": "2026-08-21 simplify",
   "kbr|junior software engineer": "2026-08-24 simplify",
+  "keenfinity|associate devops software engineer": "2026-08-26 simplify",
   "kikoff|software engineer new grad": "2026-08-20 simplify",
   "l3harris|application developer associate enterprise data and ai": "2026-08-19 simplify",
   "l3harris|associate software engineer": "2026-08-25 simplify",
@@ -2980,5 +2982,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-08-26T14:11:29+00:00"
+ "last_tier2_at": "2026-08-26T15:00:05+00:00"
 }
