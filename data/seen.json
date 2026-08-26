@@ -1522,6 +1522,7 @@
   "simplify:81a162f0-c50f-4320-881a-dc2c5ca10e48": "2026-07-22",
   "simplify:81ba8260-ef42-4899-a192-3240fa6a5bbb": "2026-07-22",
   "simplify:81d325c4-88d3-4117-bb10-bdc3c951bc3c": "2026-07-22",
+  "simplify:81dd9e68-82e0-4042-a97f-ce2f429a825f": "2026-08-26",
   "simplify:821b8f90-dfea-4ed9-b42f-afc50d5fe33f": "2026-07-22",
   "simplify:821bc5b7-b551-497f-b7b1-e1f9fbfcf566": "2026-07-22",
   "simplify:822d4395-6c6b-4355-b45c-19eba270d1f3": "2026-07-22",
@@ -2886,6 +2887,7 @@
   "daikin|it applications developer": "2026-08-25 simplify",
   "digitalocean|software engineer automation": "2026-08-20 simplify",
   "dtcc|application developer analyst 2027 edge program": "2026-08-26 simplify",
+  "d|software engineer 1 systems software engineering": "2026-08-26 simplify",
   "expedia|software development engineer 1": "2026-08-21 simplify",
   "fidelity|software engineer leap": "2026-08-21 simplify",
   "fidelity|software engineer new grad leap": "2026-08-25 simplify",
@@ -2976,5 +2978,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-08-26T00:44:04+00:00"
+ "last_tier2_at": "2026-08-26T02:13:21+00:00"
 }
