@@ -2166,6 +2166,7 @@
   "simplify:bf3bb7d0-4752-43c7-af63-b4cc89d1b005": "2026-07-22",
   "simplify:bf4e7af4-f65d-43ee-98a9-10279078e240": "2026-07-22",
   "simplify:bf7ce817-b414-4f35-8429-e193f9e74eff": "2026-07-22",
+  "simplify:bf9c69e7-fff4-453c-ba04-3b0a7f1bc733": "2026-08-26",
   "simplify:bfa6d860-85c2-4118-8d8c-e224b9e52584": "2026-07-22",
   "simplify:bfd1c427-89d3-4f8c-bbf9-9989c11db135": "2026-08-06",
   "simplify:c0479012-54e4-478d-922f-1948cd356ac4": "2026-07-22",
@@ -2974,6 +2975,7 @@
   "t|associate engineer software": "2026-08-19 simplify",
   "t|associate software engineer": "2026-08-21 simplify",
   "university|software developer 1": "2026-08-20 simplify",
+  "viavi|development engineer software engineering ai track": "2026-08-26 simplify",
   "vivsoft|software engineer": "2026-08-20 simplify",
   "wabtec|engineer rotational program": "2026-08-24 simplify",
   "western|engineer 1 ai forward engineer": "2026-08-20 simplify",
@@ -2982,5 +2984,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-08-26T15:00:05+00:00"
+ "last_tier2_at": "2026-08-26T16:17:22+00:00"
 }
