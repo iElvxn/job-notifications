@@ -2126,6 +2126,7 @@
   "simplify:b6b3d7a4-ef99-4d90-b54e-4875edd95d12": "2026-08-12",
   "simplify:b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3": "2026-07-31",
   "simplify:b75b33ad-8ca9-41fa-93dd-45a8df47f6c1": "2026-08-01",
+  "simplify:b768d2ef-8934-4832-9949-f25ca77045c0": "2026-08-29",
   "simplify:b798780f-4009-488b-ab0c-948146a7a0ca": "2026-08-24",
   "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc": "2026-07-22",
   "simplify:b79c1989-c4d0-4236-83c7-5cc5c3a24ae2": "2026-07-22",
@@ -3011,6 +3012,7 @@
   "northrop|associate software engineer": "2026-08-24 simplify",
   "northrop|java software engineer 1 or 2": "2026-08-24 simplify",
   "northrop|software engineer": "2026-08-25 simplify",
+  "notability|backend engineer": "2026-08-29 simplify",
   "nvidia|compiler engineer backend new college grad 2026": "2026-08-27 workday",
   "nvidia|research engineer interactive world models new college grad 2026": "2026-08-26 workday",
   "ontic|associate software engineer full stack": "2026-08-27 simplify",
@@ -3050,5 +3052,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-08-29T02:51:22+00:00"
+ "last_tier2_at": "2026-08-29T09:26:10+00:00"
 }
