@@ -284,6 +284,7 @@
   "simplify:07e7fea1-823f-4ae9-8e91-d6dc1fec8961": "2026-07-22",
   "simplify:085793b3-9e21-48f8-9900-26508af2957c": "2026-07-22",
   "simplify:085d792a-4c79-4104-946c-89da75b559db": "2026-07-25",
+  "simplify:086646b2-8b1d-43f6-975f-cd474ac11a35": "2026-08-31",
   "simplify:08668cc0-a602-48d6-b0d2-edd70ea645c7": "2026-07-22",
   "simplify:0868acf3-1670-4cb2-92b7-83c3c8f3eb31": "2026-07-22",
   "simplify:08781203-b887-478f-87f2-1ad8745a5394": "2026-07-22",
@@ -3021,7 +3022,7 @@
   "raymond|information technology accelerated development program software developer track": "2026-08-24 simplify",
   "rei|associate software engineer salesforce": "2026-08-24 simplify",
   "retell|forward deployed engineer": "2026-08-27 simplify",
-  "rtx|software engineer 1": "2026-08-28 simplify",
+  "rtx|software engineer 1": "2026-08-31 simplify",
   "rtx|systems engineer 1": "2026-08-26 simplify",
   "rubie|forward deployed engineer": "2026-08-27 simplify",
   "salesforce|software engineering mts": "2026-08-25 workday",
@@ -3050,5 +3051,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-08-31T07:45:16+00:00"
+ "last_tier2_at": "2026-08-31T15:33:04+00:00"
 }
