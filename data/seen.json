@@ -1727,6 +1727,7 @@
   "simplify:8d7ac499-bac1-44bf-9d25-8c91248e94f3": "2026-07-22",
   "simplify:8d895ea7-c0a8-45be-92d3-0711c15b7993": "2026-07-22",
   "simplify:8d99b019-5c4f-4228-8e7f-9ce6934f3d7d": "2026-08-04",
+  "simplify:8dc13916-c56a-400b-969b-302ccc73e591": "2026-09-01",
   "simplify:8def6cd4-02f6-4045-9290-2e08f2f10b24": "2026-08-10",
   "simplify:8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c": "2026-07-22",
   "simplify:8e55dd92-ce76-4276-8228-0c0d7cf68660": "2026-07-22",
@@ -1850,6 +1851,7 @@
   "simplify:9a0cff39-959e-49f8-b9e7-26404a0027d5": "2026-07-22",
   "simplify:9a15de10-77b4-4bb2-ae42-ed469259f5e8": "2026-07-22",
   "simplify:9a1c0b8c-ea90-48b5-8882-ae7445efba3e": "2026-07-24",
+  "simplify:9a334ffd-3252-4f69-a5fc-d3e16083784e": "2026-09-01",
   "simplify:9a45b0e0-e9bb-4032-a3fb-fe8189ffe12d": "2026-07-22",
   "simplify:9a501b59-f29b-4a7d-b8ef-eb5221735c94": "2026-08-24",
   "simplify:9a86364c-b451-4519-90de-7aa43e7c9e18": "2026-07-22",
@@ -2999,6 +3001,7 @@
   "workday/salesforce:JR357449": "2026-08-25"
  },
  "notified_keys": {
+  "accenture|associate software engineer pega": "2026-09-01 simplify",
   "alation|ux software engineer 1 contractor": "2026-09-01 simplify",
   "altice|software development engineer 1": "2026-08-29 simplify",
   "amazon|software dev engineer i aws region expansion": "2026-08-25 amazon",
@@ -3072,6 +3075,7 @@
   "johns|software developer new grad engagement optimization": "2026-09-01 simplify",
   "keenfinity|associate devops software engineer": "2026-08-26 simplify",
   "kla|applications development engineer broadband plasma": "2026-08-27 simplify",
+  "kla|software engineer": "2026-09-01 simplify",
   "l3harris|associate software engineer": "2026-08-25 simplify",
   "l3harris|associate software engineering": "2026-08-25 simplify",
   "lawrence|academic graduate appointee data acquisition software development": "2026-08-26 simplify",
@@ -3149,5 +3153,5 @@
   "zebra|software engineer 1": "2026-08-25 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-09-01T20:59:02+00:00"
+ "last_tier2_at": "2026-09-01T22:59:21+00:00"
 }
