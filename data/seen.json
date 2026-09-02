@@ -109,6 +109,7 @@
   "greenhouse/andurilindustries:5174562007": "2026-07-23",
   "greenhouse/andurilindustries:5185089007": "2026-07-23",
   "greenhouse/andurilindustries:5185888007": "2026-07-23",
+  "greenhouse/andurilindustries:5228868007": "2026-09-02",
   "greenhouse/aurorainnovation:8159549002": "2026-07-23",
   "greenhouse/aurorainnovation:8628066002": "2026-07-23",
   "greenhouse/doordashusa:7263610": "2026-07-22",
@@ -212,6 +213,7 @@
   "microsoft:1970393556972217": "2026-08-27",
   "microsoft:1970393556978753": "2026-08-24",
   "microsoft:1970393556978993": "2026-08-25",
+  "microsoft:1970393556982657": "2026-09-02",
   "microsoft:1970393556982924": "2026-08-29",
   "microsoft:1970393556982925": "2026-08-29",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
@@ -3031,6 +3033,7 @@
   "american|software engineer 1 enterprise technology services": "2026-09-02 simplify",
   "american|software engineer 2 enterprise technology services": "2026-09-02 simplify",
   "analytical|material response modeling engineer": "2026-08-28 simplify",
+  "anduril|2027 early career flight software engineer": "2026-09-02 greenhouse",
   "anduril|agentic ai engineer automation": "2026-08-26 simplify",
   "apple|software engineer front end": "2026-08-29 simplify",
   "apple|systems engineer ui compositing": "2026-08-27 simplify",
@@ -3105,7 +3108,7 @@
   "microchip|software engineer 1": "2026-08-27 simplify",
   "micron|software engineer new grad": "2026-08-27 simplify",
   "micron|system software engineer new grad": "2026-08-26 simplify",
-  "microsoft|software engineer": "2026-08-27 microsoft",
+  "microsoft|software engineer": "2026-09-02 microsoft",
   "microsoft|software engineer ai infra": "2026-08-26 microsoft",
   "microsoft|software engineer intune": "2026-08-29 microsoft",
   "mimecast|software engineer 1 incydr insider risk management": "2026-09-01 simplify",
@@ -3167,5 +3170,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-09-02T17:27:15+00:00"
+ "last_tier2_at": "2026-09-02T19:56:50+00:00"
 }
