@@ -534,6 +534,7 @@
   "simplify:1f87470c-a25f-4f78-b44b-eabd57ceab67": "2026-07-22",
   "simplify:1f8e4468-cfb9-4773-8eff-5deb0dfd3370": "2026-08-13",
   "simplify:1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": "2026-07-22",
+  "simplify:1f9574c2-c85b-414e-b946-2d7845c6c19f": "2026-09-02",
   "simplify:1fa3e9a7-321d-47ac-ac1b-3223f34a6cbf": "2026-07-22",
   "simplify:1fa55474-9525-4ff7-b473-17c64a2bbaa7": "2026-07-22",
   "simplify:1fbda922-46f7-467c-92fd-f4b3ee1dc2fd": "2026-07-22",
@@ -3133,6 +3134,7 @@
   "relx|software engineer new grad": "2026-08-31 simplify",
   "retell|forward deployed engineer": "2026-08-27 simplify",
   "rtx|software engineer 1": "2026-09-01 simplify",
+  "rtx|software engineer 2": "2026-09-02 simplify",
   "rtx|systems engineer 1": "2026-08-26 simplify",
   "rubie|forward deployed engineer": "2026-08-27 simplify",
   "salesforce|ai software engineer mts digital success engineering": "2026-08-31 workday",
@@ -3165,5 +3167,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zip|software engineer new grad 2027 start": "2026-08-26 simplify"
  },
- "last_tier2_at": "2026-09-02T05:09:51+00:00"
+ "last_tier2_at": "2026-09-02T09:33:23+00:00"
 }
