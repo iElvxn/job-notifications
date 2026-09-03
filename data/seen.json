@@ -151,6 +151,7 @@
   "greenhouse/spacex:8724316002": "2026-08-24",
   "greenhouse/spacex:8729121002": "2026-08-19",
   "greenhouse/spacex:8730567002": "2026-08-19",
+  "greenhouse/spacex:8783046002": "2026-09-03",
   "greenhouse/stripe:8128744": "2026-09-01",
   "greenhouse/verkada:4715534007": "2026-07-22",
   "greenhouse/verkada:5172974007": "2026-07-22",
@@ -3195,6 +3196,7 @@
   "sierra|software engineer new grad agent": "2026-09-01 simplify",
   "sift|software engineer new grad": "2026-09-03 simplify",
   "southern|application developer 1 asset technology ami": "2026-08-28 simplify",
+  "spacex|new graduate engineer starship components": "2026-09-03 greenhouse",
   "space|software engineer": "2026-09-01 simplify",
   "spirit|software engineer": "2026-08-27 simplify",
   "sri|software engineer": "2026-09-02 simplify",
@@ -3218,5 +3220,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-03T21:56:58+00:00"
+ "last_tier2_at": "2026-09-03T23:42:29+00:00"
 }
