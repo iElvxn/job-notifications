@@ -284,6 +284,7 @@
   "simplify:062d52cd-75cb-4a14-a428-ccae778d2f6d": "2026-07-22",
   "simplify:06753993-8ac8-46f8-95a2-773c488a8d07": "2026-08-10",
   "simplify:067a35d4-40e1-4bbd-9e22-956a8a7ec3ad": "2026-08-13",
+  "simplify:0682e38f-9871-4427-9d77-f26cdd97b53c": "2026-09-03",
   "simplify:068c33d1-37e9-4250-897b-6f892f36b6cf": "2026-07-22",
   "simplify:0693b2be-1d19-45ca-a48d-7345a1e23af8": "2026-07-22",
   "simplify:06e4e220-5e32-4c02-a3f2-566ebfdd2dcf": "2026-07-22",
@@ -1196,6 +1197,7 @@
   "simplify:5c6a7acc-7059-4cd2-b311-ad9527733e79": "2026-08-18",
   "simplify:5c86bff0-ee6b-4558-a3c0-592087f57ce2": "2026-07-22",
   "simplify:5c93c17b-bc67-4a76-81b3-747807eb5abf": "2026-09-01",
+  "simplify:5c9bd73e-6b9a-47ce-ac2f-8fc9d5d38bf7": "2026-09-03",
   "simplify:5ca5638a-d91f-4bd1-99cb-21e31590271d": "2026-07-22",
   "simplify:5ca6e3f4-660c-4df4-9fef-a5aa2098af1e": "2026-07-22",
   "simplify:5cb1d020-580f-4457-ad97-f82309db2eca": "2026-07-22",
@@ -2953,6 +2955,7 @@
   "simplify:fd7ab8ef-51eb-4509-94ee-5b644a84cf76": "2026-07-22",
   "simplify:fd97851c-d4e9-4a60-838c-e9bc18451bed": "2026-07-22",
   "simplify:fd9a88c9-8881-489c-a877-8a7c60b0a055": "2026-07-22",
+  "simplify:fdaba49c-18cb-4c17-a964-851be58381af": "2026-09-03",
   "simplify:fdb28bed-d2e6-44f2-b305-6599d8d12c2f": "2026-07-22",
   "simplify:fdc3a455-e72d-403a-8bf1-c952e5131c84": "2026-07-22",
   "simplify:fdfb1c4f-1335-43f0-b822-51f89bc6d49f": "2026-07-22",
@@ -3047,6 +3050,7 @@
   "booz|applied ai software developer": "2026-08-27 simplify",
   "booz|full stack developer": "2026-09-01 simplify",
   "booz|product engineer": "2026-08-27 simplify",
+  "booz|systems engineer": "2026-09-03 simplify",
   "caci|software engineer": "2026-08-29 simplify",
   "caci|software engineer engineering": "2026-08-29 simplify",
   "captech|software engineering associate consultant summer 2027": "2026-08-31 simplify",
@@ -3115,6 +3119,7 @@
   "nvidia|compiler engineer backend new college grad 2026": "2026-08-27 workday",
   "nvidia|developer technology engineer ai new college graduate 2026": "2026-09-01 workday",
   "nvidia|pcb design eda and ai engineer new college graduate 2027": "2026-09-01 workday",
+  "omnicom|experience design analyst design engineering": "2026-09-03 simplify",
   "ontic|associate software engineer full stack": "2026-08-27 simplify",
   "palantir|forward deployed infrastructure engineer new grad us government": "2026-08-31 lever",
   "pennymac|digital technology organization rotational engineer": "2026-08-31 simplify",
@@ -3126,6 +3131,7 @@
   "relx|software engineer graduate risk solutions technology": "2026-08-31 simplify",
   "relx|software engineer new grad": "2026-08-31 simplify",
   "retell|forward deployed engineer": "2026-08-27 simplify",
+  "rivian|software engineer enterprise software": "2026-09-03 simplify",
   "rtx|software engineer 1": "2026-09-01 simplify",
   "rtx|software engineer 2": "2026-09-02 simplify",
   "rubie|forward deployed engineer": "2026-08-27 simplify",
@@ -3152,5 +3158,5 @@
   "wellsky|associate software engineer": "2026-08-31 simplify",
   "whatnot|software engineer new grad": "2026-09-01 simplify"
  },
- "last_tier2_at": "2026-09-03T00:11:13+00:00"
+ "last_tier2_at": "2026-09-03T04:18:31+00:00"
 }
