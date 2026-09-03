@@ -302,6 +302,7 @@
   "simplify:08668cc0-a602-48d6-b0d2-edd70ea645c7": "2026-07-22",
   "simplify:0868acf3-1670-4cb2-92b7-83c3c8f3eb31": "2026-07-22",
   "simplify:08781203-b887-478f-87f2-1ad8745a5394": "2026-07-22",
+  "simplify:088f2658-1b13-4453-b678-b6c87fc55fd9": "2026-09-03",
   "simplify:089391ad-ee52-4c4f-993a-e79f42219682": "2026-08-07",
   "simplify:08974d19-8b88-4794-99a2-565644239206": "2026-07-22",
   "simplify:08afeb60-94f3-4622-b87c-4145ac0075c0": "2026-07-22",
@@ -3214,7 +3215,8 @@
   "viasat|software engineer automation": "2026-09-03 simplify",
   "viavi|rotational program development engineer": "2026-08-29 simplify",
   "wellsky|associate software engineer": "2026-08-31 simplify",
-  "whatnot|software engineer new grad": "2026-09-01 simplify"
+  "whatnot|software engineer new grad": "2026-09-01 simplify",
+  "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-03T13:32:04+00:00"
+ "last_tier2_at": "2026-09-03T17:11:06+00:00"
 }
