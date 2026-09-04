@@ -138,6 +138,7 @@
   "greenhouse/point72:7598678002": "2026-08-19",
   "greenhouse/roblox:8072244": "2026-08-05",
   "greenhouse/samsara:8097343": "2026-08-03",
+  "greenhouse/scaleai:4730836005": "2026-09-04",
   "greenhouse/spacex:8376990002": "2026-07-23",
   "greenhouse/spacex:8399140002": "2026-07-23",
   "greenhouse/spacex:8446263002": "2026-07-23",
@@ -1093,6 +1094,7 @@
   "simplify:51209c2a-1386-4eea-aa73-cd13c66ca8c0": "2026-08-03",
   "simplify:512194ad-90fd-44b2-9f2f-12e9f1699cd4": "2026-07-22",
   "simplify:513036c6-8bdd-44bf-8c57-e5d73bf66998": "2026-08-01",
+  "simplify:513e6d2f-18b8-4296-b39d-cd4c8b148b9b": "2026-09-04",
   "simplify:51513216-6e4c-41c3-becf-4f1894713925": "2026-07-22",
   "simplify:5164ca1e-9a08-4913-8e3c-322ddd5352b6": "2026-07-22",
   "simplify:516cd8de-9e5d-41e9-ba3a-8390dc0a1d84": "2026-07-22",
@@ -3119,6 +3121,7 @@
   "defensestorm|junior product engineer software engineer 1": "2026-08-29 simplify",
   "deloitte|software engineering analyst government public services": "2026-09-02 simplify",
   "didi|software engineer planning selection autonomy": "2026-09-01 simplify",
+  "doordash|software engineer 1 entry level": "2026-09-04 simplify",
   "doordash|software engineer i entry level graduation date fall 2026 summer 2027 us": "2026-09-04 greenhouse",
   "eaton|product engineer engineering": "2026-09-01 simplify",
   "empower|junior software developer systems software": "2026-08-28 simplify",
@@ -3191,6 +3194,7 @@
   "rtx|software engineer 1": "2026-09-01 simplify",
   "rtx|software engineer 2": "2026-09-02 simplify",
   "salesforce|ai software engineer mts digital success engineering": "2026-08-31 workday",
+  "scale|software engineer new grad": "2026-09-04 greenhouse",
   "self|associate software engineer ui": "2026-09-04 simplify",
   "sierra|software engineer agent new grad 2027": "2026-09-01 ashby",
   "sierra|software engineer new grad agent": "2026-09-01 simplify",
@@ -3220,5 +3224,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-04T14:55:43+00:00"
+ "last_tier2_at": "2026-09-04T17:52:24+00:00"
 }
