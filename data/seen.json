@@ -1417,6 +1417,7 @@
   "simplify:6c1fb526-53c3-4b84-b3b9-f057092282c6": "2026-07-23",
   "simplify:6c22dfb2-8da9-4cd7-8660-2e803c5a8aab": "2026-07-23",
   "simplify:6c2d559a-c15a-44a8-83ca-b2334187426b": "2026-07-23",
+  "simplify:6c3fb746-2d33-44e9-b97d-ada170e96ef0": "2026-09-05",
   "simplify:6c47c3f9-1c48-441a-bf9d-14b9b872d8e6": "2026-09-03",
   "simplify:6c581d90-a4e2-4e09-9005-f45e391741f9": "2026-07-22",
   "simplify:6cb13044-28d6-4291-9684-4c9f64739102": "2026-07-22",
@@ -3104,6 +3105,7 @@
   "aerotech|software engineer application development": "2026-09-04 simplify",
   "aerotech|software engineer enterprise development": "2026-09-04 simplify",
   "aerovironment|entry level software engineer specialized exploitation targeting set": "2026-09-02 simplify",
+  "aiprise|software engineer 1": "2026-09-05 simplify",
   "alation|ux software engineer 1 contractor": "2026-09-01 simplify",
   "altice|software development engineer 1": "2026-08-29 simplify",
   "amazon|robotics system development engineer": "2026-09-03 simplify",
@@ -3257,5 +3259,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-05T05:53:39+00:00"
+ "last_tier2_at": "2026-09-05T09:31:04+00:00"
 }
