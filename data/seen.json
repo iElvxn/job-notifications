@@ -2022,6 +2022,7 @@
   "simplify:a331d530-9dc8-459c-9888-bec197bbe968": "2026-07-22",
   "simplify:a348f430-8877-4f7b-808d-c796838b0655": "2026-07-22",
   "simplify:a34cd5b9-9bbf-4ec0-9485-89dac6af3581": "2026-08-04",
+  "simplify:a35187f2-2b60-4934-a7af-6dde56245e69": "2026-09-05",
   "simplify:a3601998-ef72-41e2-80ff-7dfdfbd87143": "2026-07-28",
   "simplify:a36ce204-239e-4a40-aa35-88e602ea03b0": "2026-07-22",
   "simplify:a3a958d6-27dc-4ec5-9de4-764a76e85624": "2026-08-14",
@@ -3160,7 +3161,7 @@
   "garner|associate software engineer": "2026-09-04 simplify",
   "general|engineering leadership program engineer class of 2027": "2026-09-03 simplify",
   "general|entry level software engineer": "2026-09-04 simplify",
-  "general|software engineer": "2026-09-01 simplify",
+  "general|software engineer": "2026-09-05 simplify",
   "geosyntec|early career water resources engineer": "2026-09-04 simplify",
   "ge|application engineer grid code compliance and testing": "2026-09-01 simplify",
   "globalfoundries|software engineer cloud platform": "2026-09-04 simplify",
@@ -3256,5 +3257,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-05T01:22:21+00:00"
+ "last_tier2_at": "2026-09-05T05:53:39+00:00"
 }
