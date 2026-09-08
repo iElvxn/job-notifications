@@ -225,6 +225,7 @@
   "microsoft:1970393556982657": "2026-09-02",
   "microsoft:1970393556982924": "2026-08-29",
   "microsoft:1970393556982925": "2026-08-29",
+  "microsoft:1970393556985572": "2026-09-08",
   "microsoft:1970393556988234": "2026-09-04",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
@@ -3191,6 +3192,7 @@
   "microchip|engineer 1 software development": "2026-09-04 simplify",
   "microsoft|software engineer": "2026-09-04 microsoft",
   "microsoft|software engineer fde": "2026-09-02 microsoft",
+  "microsoft|software engineer ux": "2026-09-08 microsoft",
   "mimecast|software engineer 1 incydr insider risk management": "2026-09-01 simplify",
   "nationwide|software engineer full stack application product security": "2026-09-02 simplify",
   "newrez|data product engineering operations specialist multiple teams": "2026-09-03 simplify",
@@ -3243,5 +3245,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-08T16:52:47+00:00"
+ "last_tier2_at": "2026-09-08T19:38:10+00:00"
 }
