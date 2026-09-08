@@ -2805,6 +2805,7 @@
   "simplify:e8ba2371-914e-4265-b09e-1cca792069e3": "2026-07-22",
   "simplify:e8cc1f0b-b9c4-4556-9174-cb286c1e23f3": "2026-07-22",
   "simplify:e8fdf80c-88b0-4c66-9bbf-304eb6907d8b": "2026-07-23",
+  "simplify:e90bb9b3-2e96-47e0-80c1-169bb7a56849": "2026-09-08",
   "simplify:e920c61c-4e36-466e-91fb-f7e56b5192c2": "2026-07-22",
   "simplify:e9358a97-f8ce-46dd-aff0-ad02907f6d31": "2026-07-22",
   "simplify:e94f85d7-92f9-4b17-95c0-64c50f733b02": "2026-07-22",
@@ -3208,7 +3209,7 @@
   "procter|it engineering new grad software platform network": "2026-09-04 simplify",
   "rivian|software engineer cloud software finops": "2026-09-04 simplify",
   "rivian|software engineer enterprise software": "2026-09-03 simplify",
-  "rtx|software engineer 1": "2026-09-01 simplify",
+  "rtx|software engineer 1": "2026-09-08 simplify",
   "rtx|software engineer 2": "2026-09-02 simplify",
   "scale|software engineer new grad": "2026-09-04 greenhouse",
   "self|associate software engineer ui": "2026-09-04 simplify",
@@ -3236,5 +3237,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-08T08:00:42+00:00"
+ "last_tier2_at": "2026-09-08T12:50:26+00:00"
 }
