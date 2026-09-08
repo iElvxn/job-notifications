@@ -133,6 +133,7 @@
   "greenhouse/nuro:6972272": "2026-07-23",
   "greenhouse/nuro:7351066": "2026-07-23",
   "greenhouse/oldmissioncapital:7796048003": "2026-07-23",
+  "greenhouse/oldmissioncapital:7989374003": "2026-09-08",
   "greenhouse/optiverus:8401042002": "2026-07-23",
   "greenhouse/optiverus:8604899002": "2026-07-23",
   "greenhouse/pinterest:6816337": "2026-07-22",
@@ -156,6 +157,7 @@
   "greenhouse/spacex:8724316002": "2026-08-24",
   "greenhouse/spacex:8729121002": "2026-08-19",
   "greenhouse/spacex:8730567002": "2026-08-19",
+  "greenhouse/spacex:8743362002": "2026-09-08",
   "greenhouse/spacex:8783046002": "2026-09-03",
   "greenhouse/stripe:8128744": "2026-09-01",
   "greenhouse/verkada:4715534007": "2026-07-22",
@@ -3203,6 +3205,7 @@
   "nvidia|applied systems engineering rotation engineer new college graduate 2026": "2026-09-02 workday",
   "nvidia|developer technology engineer ai new college graduate 2026": "2026-09-01 workday",
   "nvidia|pcb design eda and ai engineer new college graduate 2027": "2026-09-01 workday",
+  "old|junior trading operations devops engineer": "2026-09-08 greenhouse",
   "omnicom|experience design analyst design engineering": "2026-09-03 simplify",
   "onto|software engineer 2": "2026-09-03 simplify",
   "oracle|software developer 1": "2026-09-04 simplify",
@@ -3225,6 +3228,7 @@
   "sierra|software engineer new grad agent": "2026-09-01 simplify",
   "sift|software engineer new grad": "2026-09-03 simplify",
   "skyward|data migration engineer": "2026-09-04 simplify",
+  "spacex|new graduate engineer software starship": "2026-09-08 greenhouse",
   "spacex|new graduate engineer starship components": "2026-09-03 greenhouse",
   "space|software engineer": "2026-09-01 simplify",
   "spirit|entry level software engineer": "2026-09-04 simplify",
@@ -3245,5 +3249,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-08T19:38:10+00:00"
+ "last_tier2_at": "2026-09-08T22:00:55+00:00"
 }
