@@ -1239,6 +1239,7 @@
   "simplify:5ccab6b5-7969-43fe-9774-e707fa607b1b": "2026-08-12",
   "simplify:5cd612da-7f1a-4d55-8fec-d7331800989b": "2026-07-22",
   "simplify:5cdafd83-dd1b-4e63-8712-e50a41b28317": "2026-07-22",
+  "simplify:5cec425a-d9fb-468b-97d1-d5006c0f5694": "2026-09-08",
   "simplify:5ced01a5-6d42-47fc-90a6-5a183c724f67": "2026-08-04",
   "simplify:5cf6bc0c-fa07-4cc0-8813-73901c4c566b": "2026-08-25",
   "simplify:5d023457-583e-4d96-a658-1530450d2382": "2026-07-23",
@@ -1250,6 +1251,7 @@
   "simplify:5d4cc259-cb36-4d0d-8e53-f98aed63db86": "2026-07-22",
   "simplify:5d4fe3af-7ef6-4e2a-a4cd-aa43b4e1d91a": "2026-07-22",
   "simplify:5d54374d-6891-428e-8e9e-ad8aa3320b7e": "2026-07-22",
+  "simplify:5d894a80-4336-46b3-a9a2-280fef8f7bbd": "2026-09-08",
   "simplify:5dbfce20-e73f-4080-acb5-e87c3799b33d": "2026-07-28",
   "simplify:5dc014dc-40fe-4d80-8937-e6edfd2fc3e1": "2026-07-22",
   "simplify:5ddd9ecb-ced2-4c9d-8d98-a39b73f03884": "2026-08-12",
@@ -1505,6 +1507,7 @@
   "simplify:735ca492-0064-421c-8fc3-7912eb61c787": "2026-07-22",
   "simplify:7378026f-0707-48bb-8570-ac926d5ca53f": "2026-08-14",
   "simplify:7393b8e1-06ae-41da-8492-5a6a6fcae006": "2026-07-29",
+  "simplify:73a3a212-1ee7-41f6-808a-7d8149ed3ee2": "2026-09-08",
   "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3": "2026-07-22",
   "simplify:73f2a1e2-5560-45b6-9aef-e74758e86472": "2026-08-11",
   "simplify:74127152-f238-47ca-b3b4-df49a5135001": "2026-07-22",
@@ -3104,6 +3107,7 @@
  },
  "notified_keys": {
   "accenture|associate software engineer pega": "2026-09-04 simplify",
+  "accenture|product platform engineering analyst": "2026-09-08 simplify",
   "aerotech|software engineer application development": "2026-09-04 simplify",
   "aerotech|software engineer enterprise development": "2026-09-04 simplify",
   "aerovironment|entry level software engineer specialized exploitation targeting set": "2026-09-02 simplify",
@@ -3122,6 +3126,7 @@
   "applied|algorithm developer 1 new college grad bachelor s": "2026-09-02 simplify",
   "applied|forward deployed engineer new grad": "2026-09-03 simplify",
   "applied|software engineer new college grad master s": "2026-09-04 simplify",
+  "aptean|associate product engineer": "2026-09-08 simplify",
   "arch|operations engineer early careers": "2026-09-03 simplify",
   "arch|software engineer early careers": "2026-09-03 simplify",
   "artera|systems engineer": "2026-09-03 simplify",
@@ -3179,6 +3184,7 @@
   "kla|software engineer": "2026-09-01 simplify",
   "leidos|associate software developer air traffic business area": "2026-09-03 simplify",
   "leidos|junior software engineer ai ml applications": "2026-09-03 simplify",
+  "leidos|radar sustainment engineer system model development": "2026-09-08 simplify",
   "leidos|software engineer tactical decision aids entry level": "2026-09-01 simplify",
   "lexisnexis|software engineer new grad": "2026-09-01 simplify",
   "marathon|associate software engineer": "2026-09-01 simplify",
@@ -3237,5 +3243,5 @@
   "whatnot|software engineer new grad": "2026-09-01 simplify",
   "zebra|software engineer 1": "2026-09-03 simplify"
  },
- "last_tier2_at": "2026-09-08T12:50:26+00:00"
+ "last_tier2_at": "2026-09-08T16:52:47+00:00"
 }
