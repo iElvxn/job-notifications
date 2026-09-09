@@ -381,6 +381,7 @@
   "simplify:0f83da46-16ec-46ca-9e0d-17c88d922fdc": "2026-07-28",
   "simplify:0fb303dc-84aa-40cc-8e77-f66f910edbf9": "2026-07-22",
   "simplify:0fbbfc2f-a11a-49dd-a008-b301eb21f6df": "2026-07-22",
+  "simplify:0fd745ed-1b1c-4722-abf1-06420a3ec86d": "2026-09-09",
   "simplify:0fe76d5a-cbbc-45e1-932d-554939f5d94a": "2026-07-22",
   "simplify:0feed693-981e-4e08-8b5c-c552dde2d841": "2026-07-22",
   "simplify:0ff85166-c02a-4091-8195-f30ef0966eb3": "2026-07-22",
@@ -2382,6 +2383,7 @@
   "simplify:c0ac6ad4-9461-42b9-9740-6caf78973162": "2026-07-22",
   "simplify:c0f4591f-39f3-4edb-b844-cf93992757ea": "2026-07-22",
   "simplify:c112be05-b84b-4171-a4f6-6179189e0a5d": "2026-07-22",
+  "simplify:c1571f1b-abdd-4f65-823c-9986aeaac900": "2026-09-09",
   "simplify:c15bfdd3-3e0a-4db0-9aac-d0a6f0027459": "2026-07-22",
   "simplify:c1769190-ac65-4c91-b1f3-9ec697239e06": "2026-07-22",
   "simplify:c18c5b18-30ae-4200-998b-302316f70edb": "2026-08-18",
@@ -3159,6 +3161,7 @@
   "bestgate|systems engineer": "2026-09-03 simplify",
   "booz|systems engineer": "2026-09-03 simplify",
   "boston|software engineer 1 engineering": "2026-09-03 simplify",
+  "caci|software developer": "2026-09-09 simplify",
   "caci|software safety developer analyst": "2026-09-03 simplify",
   "caterpillar|software engineer": "2026-09-08 simplify",
   "cintal|software engineer fortran to c migration": "2026-09-09 simplify",
@@ -3212,6 +3215,7 @@
   "oracle|software developer 1": "2026-09-04 simplify",
   "paypal|software engineer new grad software engineering": "2026-09-04 simplify",
   "peraton|entry level systems engineer": "2026-09-03 simplify",
+  "peraton|software engineer": "2026-09-09 simplify",
   "pq|ai augmented software engineer": "2026-09-03 simplify",
   "procter|it engineering new grad software platform network": "2026-09-04 simplify",
   "rivian|software engineer cloud software finops": "2026-09-04 simplify",
@@ -3245,5 +3249,5 @@
   "zebra|software engineer 1": "2026-09-03 simplify",
   "zebra|software engineer 1 fullstack": "2026-09-09 simplify"
  },
- "last_tier2_at": "2026-09-09T13:40:27+00:00"
+ "last_tier2_at": "2026-09-09T17:15:47+00:00"
 }
