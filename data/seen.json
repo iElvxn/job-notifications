@@ -479,6 +479,7 @@
   "simplify:17a4eca6-f636-4d76-ae6b-949e863c7613": "2026-07-22",
   "simplify:17be086b-1987-4060-8151-25af9f96e55f": "2026-08-03",
   "simplify:17d6c668-4bc6-4bfb-8c59-1da4ee9209a5": "2026-07-22",
+  "simplify:17ee9cb8-31a6-4c61-9fb6-eeeb34a917d4": "2026-09-10",
   "simplify:183cfb1c-1bc1-441e-bbd0-5f1a5220c9da": "2026-07-22",
   "simplify:1866e9da-3ccc-4dec-bae0-9d84fe202dd4": "2026-07-22",
   "simplify:187693e3-6bfa-4f2d-bdc6-a02a23e5ce8e": "2026-07-22",
@@ -727,6 +728,7 @@
   "simplify:2da60465-c35e-418c-ba70-4bdf052f70b7": "2026-07-22",
   "simplify:2dad91a6-5142-4b50-af10-28b5216bdedf": "2026-07-22",
   "simplify:2db155f2-6346-4a55-9a65-418f1dcce820": "2026-07-22",
+  "simplify:2dcb71be-979e-47c0-b8a8-0f9a1e116f46": "2026-09-10",
   "simplify:2ddc678f-eab8-41af-aace-5d5fb90b0e1d": "2026-07-23",
   "simplify:2ddddf54-3c3b-4af6-b8c2-5b755d594dc1": "2026-08-15",
   "simplify:2e3c62d7-145c-40a1-be15-9566931b9276": "2026-07-22",
@@ -942,6 +944,7 @@
   "simplify:40e2fdfc-acb5-47d6-8840-3499fd5901c8": "2026-07-23",
   "simplify:40e6062a-75db-489e-bb33-701876794fe7": "2026-09-03",
   "simplify:410b28b6-b357-4b72-9480-bad83701b4cb": "2026-07-22",
+  "simplify:4115edde-4ae5-4920-b782-86b84818fcc2": "2026-09-10",
   "simplify:411726b3-426c-4a80-a453-ec82c3e2f47a": "2026-07-22",
   "simplify:41200d44-c1ae-4d74-8212-a9c18506edc5": "2026-07-22",
   "simplify:4126dfc9-f400-4a64-a3e7-1373338d3289": "2026-07-22",
@@ -1917,6 +1920,7 @@
   "simplify:9553a951-94b2-441a-ac0d-cccc7205d37d": "2026-07-22",
   "simplify:95645a1a-37b5-46b8-82dc-51c06ded8cbd": "2026-08-19",
   "simplify:9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc": "2026-07-22",
+  "simplify:962f1bfd-70ba-4217-a32b-3e4ff0200101": "2026-09-10",
   "simplify:9664e751-69df-4d20-a616-be872d05faf1": "2026-07-22",
   "simplify:96951771-a874-48c9-8e96-2512f1ad2c48": "2026-07-22",
   "simplify:96ca88cc-f34f-46d1-a9a1-985470de3698": "2026-08-13",
@@ -3220,6 +3224,7 @@
   "general|software engineer entry level": "2026-09-10 simplify",
   "general|systems engineer fcswg process master": "2026-09-10 simplify",
   "geosyntec|early career water resources engineer": "2026-09-04 simplify",
+  "ge|ai engineer": "2026-09-10 simplify",
   "globalfoundries|software engineer cloud platform": "2026-09-04 simplify",
   "greenboard|software engineer": "2026-09-10 simplify",
   "healthedge|associate software engineer": "2026-09-04 simplify",
@@ -3251,6 +3256,8 @@
   "onto|software engineer 2": "2026-09-03 simplify",
   "oracle|software developer 1": "2026-09-04 simplify",
   "paypal|software engineer new grad software engineering": "2026-09-04 simplify",
+  "pennsylvania|software engineer multiple teams": "2026-09-10 simplify",
+  "pennsylvania|software engineer strategic systems operation division": "2026-09-10 simplify",
   "peraton|entry level systems engineer": "2026-09-03 simplify",
   "peraton|software engineer": "2026-09-09 simplify",
   "pq|ai augmented software engineer": "2026-09-03 simplify",
@@ -3286,5 +3293,5 @@
   "zebra|software engineer 1": "2026-09-03 simplify",
   "zebra|software engineer 1 fullstack": "2026-09-09 simplify"
  },
- "last_tier2_at": "2026-09-10T13:32:35+00:00"
+ "last_tier2_at": "2026-09-10T17:10:12+00:00"
 }
