@@ -927,6 +927,7 @@
   "simplify:3f94586c-7465-4690-b2fc-6e57482fdcc0": "2026-08-05",
   "simplify:3ff68a8b-40ab-45bd-b4df-3de7fc5eab51": "2026-08-13",
   "simplify:40036615-7d95-4f3b-8105-226ddc924626": "2026-09-01",
+  "simplify:40052f73-c028-410f-8693-2219d4c4b1b9": "2026-09-10",
   "simplify:404802e3-b765-48db-b1b1-78b712cdd293": "2026-07-22",
   "simplify:406216d1-8d7b-4186-adb1-325d7c89ccfb": "2026-07-22",
   "simplify:407e1e4c-8d82-4e4c-b3ff-9482dc645fb7": "2026-08-11",
@@ -2839,6 +2840,7 @@
   "simplify:e75c8911-e320-4bc9-9ee7-a71bf0a74473": "2026-08-02",
   "simplify:e76331d3-e63d-4e1e-a4fe-e0fccbb126c8": "2026-07-22",
   "simplify:e78d9861-7865-4fcd-963b-b1697694a2f5": "2026-07-22",
+  "simplify:e794a35b-2127-44e9-87c4-e486c2c351b7": "2026-09-10",
   "simplify:e79aefdd-a0ab-47c7-8139-2d34c1e2b4a5": "2026-07-22",
   "simplify:e79e66fd-9829-4d64-9b2c-4854cdcfccd1": "2026-08-31",
   "simplify:e7b8ba38-13c5-4926-9962-f314ca280f9d": "2026-07-22",
@@ -3282,5 +3284,5 @@
   "zebra|software engineer 1": "2026-09-03 simplify",
   "zebra|software engineer 1 fullstack": "2026-09-09 simplify"
  },
- "last_tier2_at": "2026-09-10T04:34:22+00:00"
+ "last_tier2_at": "2026-09-10T09:09:10+00:00"
 }
