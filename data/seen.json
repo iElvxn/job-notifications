@@ -2537,6 +2537,7 @@
   "simplify:ccb6a372-4ded-4af1-96f6-f90442d4d826": "2026-08-19",
   "simplify:ccc30a08-187b-428e-a4e2-333c838dadaa": "2026-07-22",
   "simplify:cce50e67-1156-425f-bd5f-4a7dbccf2a0c": "2026-08-18",
+  "simplify:ccea935e-1055-419a-834c-8b52c01b71bc": "2026-09-10",
   "simplify:ccec55af-3020-4ce4-9a46-d24c1dff05aa": "2026-07-23",
   "simplify:cd2ad6a6-1cb1-4f53-aea1-c0ae6c70dc26": "2026-07-22",
   "simplify:cd2d84ef-5bc1-484b-82a8-b1d56a6d8d53": "2026-07-22",
@@ -3174,6 +3175,7 @@
   "amentum|component lab computer engineer": "2026-09-03 simplify",
   "anysphere|software engineer new grad 2027": "2026-09-10 simplify",
   "apple|cad automation and mixed signal simulation engineer": "2026-09-03 simplify",
+  "apple|software engineer apple ads": "2026-09-10 simplify",
   "applied|forward deployed engineer new grad": "2026-09-03 simplify",
   "applied|software engineer new college grad master s": "2026-09-04 simplify",
   "aptean|associate product engineer": "2026-09-08 simplify",
@@ -3284,5 +3286,5 @@
   "zebra|software engineer 1": "2026-09-03 simplify",
   "zebra|software engineer 1 fullstack": "2026-09-09 simplify"
  },
- "last_tier2_at": "2026-09-10T09:09:10+00:00"
+ "last_tier2_at": "2026-09-10T13:32:35+00:00"
 }
