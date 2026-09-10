@@ -226,6 +226,7 @@
   "microsoft:1970393556972217": "2026-08-27",
   "microsoft:1970393556978753": "2026-08-24",
   "microsoft:1970393556978993": "2026-08-25",
+  "microsoft:1970393556979106": "2026-09-10",
   "microsoft:1970393556982657": "2026-09-02",
   "microsoft:1970393556982924": "2026-08-29",
   "microsoft:1970393556982925": "2026-08-29",
@@ -3242,6 +3243,7 @@
   "microchip|engineer 1 software development": "2026-09-04 simplify",
   "microsoft|software engineer": "2026-09-10 microsoft",
   "microsoft|software engineer minecraft": "2026-09-10 microsoft",
+  "microsoft|software engineer purview": "2026-09-10 microsoft",
   "microsoft|software engineer ux": "2026-09-08 microsoft",
   "microsoft|software engineering ic2": "2026-09-09 microsoft",
   "newrez|data product engineering operations specialist multiple teams": "2026-09-03 simplify",
@@ -3293,5 +3295,5 @@
   "zebra|software engineer 1": "2026-09-03 simplify",
   "zebra|software engineer 1 fullstack": "2026-09-09 simplify"
  },
- "last_tier2_at": "2026-09-10T17:10:12+00:00"
+ "last_tier2_at": "2026-09-10T19:38:00+00:00"
 }
