@@ -141,6 +141,7 @@
   "greenhouse/pinterest:6816337": "2026-07-22",
   "greenhouse/point72:7598678002": "2026-08-19",
   "greenhouse/roblox:8072244": "2026-08-05",
+  "greenhouse/roku:8188714": "2026-09-11",
   "greenhouse/samsara:8097343": "2026-08-03",
   "greenhouse/scaleai:4730836005": "2026-09-04",
   "greenhouse/spacex:8376990002": "2026-07-23",
@@ -235,6 +236,7 @@
   "microsoft:1970393556986737": "2026-09-09",
   "microsoft:1970393556988234": "2026-09-04",
   "microsoft:1970393556988778": "2026-09-10",
+  "microsoft:1970393556989020": "2026-09-11",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
   "simplify:00620949-7bbd-4342-a515-87e57990c860": "2026-07-22",
@@ -3273,6 +3275,7 @@
   "procter|it engineering new grad software platform network": "2026-09-04 simplify",
   "replit|software engineer new grad summer 2027": "2026-09-09 ashby",
   "rivian|software engineer cloud software finops": "2026-09-04 simplify",
+  "roku|software engineer early careers focused on ai and ui": "2026-09-11 greenhouse",
   "rover|software engineer recommendations": "2026-09-10 simplify",
   "rtx|software engineer 1": "2026-09-10 simplify",
   "rtx|software engineer 1 advanced products and solutions": "2026-09-09 simplify",
@@ -3300,5 +3303,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-11T14:59:53+00:00"
+ "last_tier2_at": "2026-09-11T18:11:26+00:00"
 }
