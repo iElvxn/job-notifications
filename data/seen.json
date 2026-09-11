@@ -2000,6 +2000,7 @@
   "simplify:9bd1f0ee-ed84-41a2-b228-773d27d10ff2": "2026-08-28",
   "simplify:9c338480-379d-4ca7-b5c9-3cb606516e95": "2026-07-22",
   "simplify:9c3fc447-fdbf-41b3-ae09-b5bf11332501": "2026-07-28",
+  "simplify:9c4220ab-f3bd-423f-94ac-5cdcd9d06c63": "2026-09-11",
   "simplify:9c4f6e91-a5cc-482a-ad58-1870f54b7c91": "2026-07-22",
   "simplify:9c5494a4-fb44-4218-bc4d-4a41e1f6f607": "2026-07-22",
   "simplify:9c6f889c-f1e1-41a6-abad-5c80f77bb437": "2026-07-22",
@@ -3209,6 +3210,7 @@
   "caterpillar|software engineer": "2026-09-08 simplify",
   "cigna|software engineer program software engineering track": "2026-09-10 simplify",
   "cintal|software engineer fortran to c migration": "2026-09-09 simplify",
+  "citizens|software engineer": "2026-09-11 simplify",
   "clasp|ai labs engineer": "2026-09-10 simplify",
   "coherent|software and data": "2026-09-04 simplify",
   "constellation|associate software engineer ai": "2026-09-04 simplify",
@@ -3298,5 +3300,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-11T11:13:29+00:00"
+ "last_tier2_at": "2026-09-11T14:59:53+00:00"
 }
