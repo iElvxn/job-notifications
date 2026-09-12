@@ -1131,6 +1131,7 @@
   "simplify:5044965f-dc9a-443a-8ec7-b438937b395b": "2026-07-22",
   "simplify:504ea5f0-9992-4675-a139-aabe8b304dff": "2026-07-22",
   "simplify:504f0b08-afb2-4964-b3cd-5dee1937b1ad": "2026-07-22",
+  "simplify:5077be7d-bf97-4e0b-8fad-8674bf28d206": "2026-09-12",
   "simplify:509360f9-0204-4926-bbe2-59d92f7e7380": "2026-07-22",
   "simplify:50d9a250-7c25-4fe5-861d-0c8ad7f9299a": "2026-08-03",
   "simplify:50e60fbf-697c-49e1-88be-1f24e17fa22d": "2026-08-29",
@@ -3258,6 +3259,7 @@
   "johns|software engineer new grad multiple teams": "2026-09-10 simplify",
   "john|software engineer": "2026-09-10 simplify",
   "kbr|junior army fires modeling and simulation developer": "2026-09-10 simplify",
+  "klaviyo|software engineer 1": "2026-09-12 simplify",
   "leidos|radar sustainment engineer system model development": "2026-09-08 simplify",
   "microsoft|software engineer": "2026-09-10 microsoft",
   "microsoft|software engineer coreai": "2026-09-11 simplify",
@@ -3310,5 +3312,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-12T17:54:52+00:00"
+ "last_tier2_at": "2026-09-12T19:43:32+00:00"
 }
