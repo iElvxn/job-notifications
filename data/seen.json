@@ -3083,6 +3083,7 @@
   "simplify:f802227c-1c42-49b2-837a-ac922fdcc5c4": "2026-07-22",
   "simplify:f830b682-fcca-49ff-9b26-b7b199fde950": "2026-07-22",
   "simplify:f848cab5-c31a-4f46-8d17-06bece8231a0": "2026-07-22",
+  "simplify:f856788a-97a4-4332-a414-c568ed12438d": "2026-09-13",
   "simplify:f86afae0-0327-4116-afd0-a466375bd5d0": "2026-07-22",
   "simplify:f882cdb9-df98-4ee6-a167-e778ea4c4a50": "2026-07-22",
   "simplify:f8f71507-c0d4-4d07-ae3b-027559a5cabd": "2026-07-22",
@@ -3225,6 +3226,7 @@
   "aptean|associate product engineer": "2026-09-08 simplify",
   "argonne|software engineer": "2026-09-10 simplify",
   "assetmark|associate engineer": "2026-09-12 simplify",
+  "autostore|entry level software engineer": "2026-09-13 simplify",
   "barrios|software engineer space operations computing": "2026-09-10 simplify",
   "bertram|forward deployed ai engineer": "2026-09-10 simplify",
   "boeing|software engineer associate bixby": "2026-09-10 simplify",
@@ -3313,5 +3315,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-13T15:03:10+00:00"
+ "last_tier2_at": "2026-09-13T18:08:47+00:00"
 }
