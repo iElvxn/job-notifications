@@ -1982,6 +1982,7 @@
   "simplify:96951771-a874-48c9-8e96-2512f1ad2c48": "2026-07-22",
   "simplify:96ca88cc-f34f-46d1-a9a1-985470de3698": "2026-08-13",
   "simplify:96ce500e-5e6d-4796-8787-89a69ab30d04": "2026-09-10",
+  "simplify:96db4016-3e8f-4c92-98f2-43fa3eabab24": "2026-09-15",
   "simplify:96e88a68-a0ee-4188-a499-9672080866da": "2026-07-23",
   "simplify:96fb8f30-f721-4712-816d-5a381a92d51f": "2026-08-05",
   "simplify:9704c070-3a15-4e42-8828-6a8dd858c07f": "2026-07-22",
@@ -3351,6 +3352,7 @@
   "spacex|new graduate engineer security software starshield": "2026-09-12 greenhouse",
   "spacex|new graduate engineer software starship": "2026-09-08 greenhouse",
   "spacex|software engineer new grad software starship": "2026-09-09 simplify",
+  "stanley|engineer 1 digital": "2026-09-15 simplify",
   "state|software engineer enterprise site reliability engineering availability analytics and automation": "2026-09-09 simplify",
   "superhuman|software engineer early career": "2026-09-15 simplify",
   "texas|software development engineer development program": "2026-09-10 simplify",
@@ -3371,5 +3373,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-15T01:37:17+00:00"
+ "last_tier2_at": "2026-09-15T06:40:03+00:00"
 }
