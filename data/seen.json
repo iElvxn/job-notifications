@@ -1085,6 +1085,7 @@
   "simplify:4ae93ef5-d293-43c9-8bb7-53f4c2e97749": "2026-08-03",
   "simplify:4b148d65-e3d6-491e-90e0-319f246cb786": "2026-08-24",
   "simplify:4b22d036-3d08-41c6-8c11-48f020f7c545": "2026-08-14",
+  "simplify:4b2ecaee-656e-44a5-8c2d-3542dc11fbd5": "2026-09-15",
   "simplify:4b75759f-b4bb-4df0-8d4b-67ffa4922bf1": "2026-08-14",
   "simplify:4b82692b-c26a-4ef0-a342-fb92e340f1fe": "2026-07-22",
   "simplify:4b887fe0-6185-4f7c-b9a8-be7db867b577": "2026-07-22",
@@ -2450,6 +2451,7 @@
   "simplify:bd388190-03f5-4a8c-bdfa-6d5eb2535cbf": "2026-07-22",
   "simplify:bd40fda7-37cc-4439-aca3-fdc324bbba53": "2026-07-23",
   "simplify:bd50ff7c-e21f-427c-87ad-4a45b42e134c": "2026-08-27",
+  "simplify:bd56c51a-aae8-4121-98f4-cd683c6c4a85": "2026-09-15",
   "simplify:bd7f525a-663f-495e-b1ab-c7120399fe97": "2026-07-29",
   "simplify:bd8b3c20-c588-4db1-907f-4692e65390ff": "2026-07-22",
   "simplify:bda8e644-cbbf-4bf8-9a2b-14157ea1cb43": "2026-07-22",
@@ -2651,6 +2653,7 @@
   "simplify:d0762e79-974b-4b1c-b274-910cdf79570e": "2026-07-22",
   "simplify:d0a7e5d4-0029-4c15-aec8-ea347fe6067b": "2026-07-22",
   "simplify:d0a9a917-c584-4609-9cdb-f603bc663215": "2026-07-22",
+  "simplify:d0e246b4-68c7-434f-ae99-044c38ec043b": "2026-09-15",
   "simplify:d0ec902f-192b-4dae-a71a-8f393be88c08": "2026-07-28",
   "simplify:d10d917c-bc5a-4b18-8f26-0bd664956f32": "2026-08-01",
   "simplify:d11c38c7-6d39-4b6e-bd2e-872c3bd4f2c5": "2026-08-26",
@@ -3257,6 +3260,7 @@
   "anysphere|software engineer new grad 2027": "2026-09-10 simplify",
   "apple|software engineer apple ads": "2026-09-10 simplify",
   "aptean|associate product engineer": "2026-09-08 simplify",
+  "arcfield|software engineer": "2026-09-15 simplify",
   "argonne|software engineer": "2026-09-10 simplify",
   "assetmark|associate engineer": "2026-09-12 simplify",
   "atlassian|software engineer": "2026-09-15 simplify",
@@ -3268,6 +3272,7 @@
   "c3|platform full stack engineer new grad": "2026-09-14 simplify",
   "caci|software developer": "2026-09-14 simplify",
   "caterpillar|software engineer": "2026-09-08 simplify",
+  "cherry|software engineer entry level": "2026-09-15 simplify",
   "cigna|software engineer program software engineering track": "2026-09-10 simplify",
   "cintal|software engineer fortran to c migration": "2026-09-09 simplify",
   "citizens|software engineer": "2026-09-11 simplify",
@@ -3340,7 +3345,7 @@
   "roku|software engineer early careers focused on ai and ui": "2026-09-11 greenhouse",
   "rover|software engineer recommendations": "2026-09-10 simplify",
   "rtx|ai engineer 1": "2026-09-14 simplify",
-  "rtx|software engineer 1": "2026-09-14 simplify",
+  "rtx|software engineer 1": "2026-09-15 simplify",
   "rtx|software engineer 1 advanced products and solutions": "2026-09-09 simplify",
   "rtx|software engineer new grad": "2026-09-15 simplify",
   "scientific|software developer 1": "2026-09-11 simplify",
@@ -3373,5 +3378,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-15T12:05:08+00:00"
+ "last_tier2_at": "2026-09-15T16:53:46+00:00"
 }
