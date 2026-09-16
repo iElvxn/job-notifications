@@ -1808,6 +1808,7 @@
   "simplify:866dfdeb-427f-40f5-9c92-cabe2dd6c658": "2026-07-22",
   "simplify:8673e698-fd13-4dcc-aef5-1ccc0e8dff9b": "2026-07-22",
   "simplify:86bbbf6b-c290-40cc-abd7-bdb645167ce8": "2026-07-22",
+  "simplify:86cb0b1e-3691-4e3c-a4ec-c65f90643d87": "2026-09-16",
   "simplify:86dcc766-28a0-4fe3-b4de-eab94209ae17": "2026-07-22",
   "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372": "2026-07-22",
   "simplify:8711cb99-1e0e-45db-a68f-35b89350309e": "2026-07-22",
@@ -3367,6 +3368,7 @@
   "northrop|software development analyst": "2026-09-10 simplify",
   "northrop|software engineer": "2026-09-16 simplify",
   "nov|software engineer pathway rig technologies": "2026-09-16 simplify",
+  "nvidia|software engineer coding agent harness engineering": "2026-09-16 simplify",
   "nvidia|software engineer coding agent harness engineering new college grad 2026": "2026-09-16 workday",
   "oneimaging|associate software engineer uf only": "2026-09-12 simplify",
   "oneimaging|full stack associate software engineer georgia tech only": "2026-09-12 simplify",
@@ -3428,5 +3430,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-16T05:13:24+00:00"
+ "last_tier2_at": "2026-09-16T09:56:19+00:00"
 }
