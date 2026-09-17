@@ -3287,6 +3287,8 @@
   "workday/nvidia:JR2024111": "2026-08-21",
   "workday/nvidia:JR2024557": "2026-09-01",
   "workday/nvidia:JR2024713": "2026-09-02",
+  "workday/nvidia:JR2025900": "2026-09-17",
+  "workday/nvidia:JR2026011": "2026-09-17",
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
   "workday/salesforce:JR349609": "2026-07-22",
@@ -3396,8 +3398,10 @@
   "northrop|software development analyst": "2026-09-10 simplify",
   "northrop|software engineer": "2026-09-16 simplify",
   "nov|software engineer pathway rig technologies": "2026-09-16 simplify",
+  "nvidia|ai compiler engineer new college grad 2027": "2026-09-17 workday",
   "nvidia|software engineer coding agent harness engineering": "2026-09-16 simplify",
   "nvidia|software engineer coding agent harness engineering new college grad 2026": "2026-09-16 workday",
+  "nvidia|software qa engineer new college grad 2026": "2026-09-17 workday",
   "oneimaging|associate software engineer uf only": "2026-09-12 simplify",
   "oneimaging|full stack associate software engineer georgia tech only": "2026-09-12 simplify",
   "openai|software engineer applied emerging talent": "2026-09-15 simplify",
@@ -3450,5 +3454,5 @@
   "zoom|software development engineer": "2026-09-10 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-17T16:55:17+00:00"
+ "last_tier2_at": "2026-09-17T19:55:24+00:00"
 }
