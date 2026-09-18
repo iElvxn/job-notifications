@@ -2061,6 +2061,7 @@
   "simplify:9904ce81-b80f-448d-a958-9b719a4676e9": "2026-07-22",
   "simplify:993e682f-95cd-4e4d-8efb-2e6f929d5b6b": "2026-09-10",
   "simplify:99404c39-7108-4b92-89ba-eb3166763456": "2026-09-02",
+  "simplify:99a096e7-a5be-4022-8904-7687e11a9efa": "2026-09-18",
   "simplify:99c78802-8571-46cb-8d2b-1187887ca990": "2026-07-22",
   "simplify:99ce2c9b-4b87-41b8-b970-321354839c77": "2026-07-22",
   "simplify:99d03a1a-766a-4c0d-92a6-d283adc7583a": "2026-07-22",
@@ -3329,6 +3330,7 @@
   "amazon|systems development engineer i amazon foundational security services afss": "2026-09-17 amazon",
   "anduril|software engineer battlespace awareness": "2026-09-16 simplify",
   "apple|systems software engineer": "2026-09-16 simplify",
+  "arcfield|entry level systems engineer": "2026-09-18 simplify",
   "arcfield|software engineer": "2026-09-15 simplify",
   "aspentech|software developer 1 asset performance management": "2026-09-18 simplify",
   "assa|associate engineer": "2026-09-18 simplify",
@@ -3439,5 +3441,5 @@
   "wyetech|software engineer": "2026-09-16 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-18T09:41:00+00:00"
+ "last_tier2_at": "2026-09-18T13:48:34+00:00"
 }
