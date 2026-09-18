@@ -3033,6 +3033,7 @@
   "simplify:eb16f005-b7d4-4667-9e56-29c018b8e695": "2026-07-22",
   "simplify:eb6d5f77-90a1-46ca-97de-1e5ad01af6a5": "2026-07-23",
   "simplify:ebc85430-6db3-4aec-b94c-f1a42c8f21e8": "2026-07-22",
+  "simplify:ebda590f-cbe9-4e03-b0eb-6de1c724a228": "2026-09-18",
   "simplify:ebdbdcd8-ef03-440b-a67f-e1930d725d62": "2026-07-22",
   "simplify:ebe0c3a5-934b-43a4-83a8-c05b37b44105": "2026-07-22",
   "simplify:ebecfe1f-3890-4cf8-8663-d7b118197e24": "2026-08-15",
@@ -3336,6 +3337,7 @@
   "autostore|entry level software engineer": "2026-09-13 simplify",
   "axcelis|software applications engineer 1": "2026-09-16 simplify",
   "bny|software engineer analyst engineering developer": "2026-09-16 simplify",
+  "brady|ai prototyping engineer": "2026-09-18 simplify",
   "bruno|junior software developer ai focus": "2026-09-16 simplify",
   "c3|forward deployed engineer new grad 2027": "2026-09-14 simplify",
   "c3|platform full stack engineer new grad": "2026-09-14 simplify",
@@ -3437,5 +3439,5 @@
   "wyetech|software engineer": "2026-09-16 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-18T05:09:44+00:00"
+ "last_tier2_at": "2026-09-18T09:41:00+00:00"
 }
