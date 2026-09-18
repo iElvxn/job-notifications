@@ -1359,6 +1359,7 @@
   "simplify:5f115c55-1d75-4021-a79c-d638f003106e": "2026-08-12",
   "simplify:5f2b852b-ba6a-48a8-85f1-ac83ec6421e0": "2026-07-22",
   "simplify:5f434d07-0b1d-4a05-b639-ad6e47108448": "2026-07-22",
+  "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea": "2026-09-18",
   "simplify:5f479c19-7c94-44c3-8dc9-2066b9075833": "2026-07-22",
   "simplify:5f49434d-9995-49df-89f7-3b03f29ef00c": "2026-07-22",
   "simplify:5fb3ffae-8a78-4dbf-92eb-8b3124aeaf7d": "2026-07-22",
@@ -1808,6 +1809,7 @@
   "simplify:844eb16a-79ea-422c-8e34-590b8cf3f1b3": "2026-07-22",
   "simplify:84788597-6972-41c6-975b-e614c4c72909": "2026-07-22",
   "simplify:8498a27b-6194-4320-b7b7-dcbae0ff12b8": "2026-07-22",
+  "simplify:84bf55b8-233e-40be-8535-022acd294d1a": "2026-09-18",
   "simplify:84ce65c5-ee9c-4539-92d2-5d28da82832e": "2026-07-22",
   "simplify:84e71300-87d8-4137-b668-e505942b7dc7": "2026-07-22",
   "simplify:8504f060-41c8-4446-8045-00c37e039e6d": "2026-07-22",
@@ -3354,6 +3356,7 @@
   "eurofins|application engineer": "2026-09-11 simplify",
   "fidelity|software engineer fis university program": "2026-09-11 simplify",
   "foot|associate software engineer merchandise technology": "2026-09-16 simplify",
+  "fortinet|software development engineer gui": "2026-09-18 simplify",
   "garmin|software engineer 1 android": "2026-09-11 simplify",
   "general|software engineer early careers": "2026-09-16 simplify",
   "general|systems engineer": "2026-09-15 simplify",
@@ -3434,5 +3437,5 @@
   "wyetech|software engineer": "2026-09-16 simplify",
   "zoom|software engineer workforce engagement management": "2026-09-11 simplify"
  },
- "last_tier2_at": "2026-09-18T00:37:18+00:00"
+ "last_tier2_at": "2026-09-18T05:09:44+00:00"
 }
