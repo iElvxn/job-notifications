@@ -3257,6 +3257,7 @@
   "simplify:fdfb1c4f-1335-43f0-b822-51f89bc6d49f": "2026-07-22",
   "simplify:fe0763db-c658-4003-84f4-cc7e0d8848a4": "2026-09-16",
   "simplify:fe0776af-83c2-4cf6-8991-f8436b19be7e": "2026-08-12",
+  "simplify:fe444a2e-411b-4a40-b6f4-9098bbd980bb": "2026-09-21",
   "simplify:fe6bef22-123f-4be3-bc91-d205cf1b4c6e": "2026-09-03",
   "simplify:febce9fd-e8ba-4d95-85fb-4d00b3760c44": "2026-08-01",
   "simplify:febf0ce3-b358-48c8-805e-03aab0ba0354": "2026-07-23",
@@ -3339,6 +3340,7 @@
   "anduril|software engineer battlespace awareness": "2026-09-16 simplify",
   "apple|systems software engineer": "2026-09-16 simplify",
   "applied|algorithm developer 2": "2026-09-18 simplify",
+  "applied|software engineer new grad": "2026-09-21 simplify",
   "arcfield|entry level systems engineer": "2026-09-18 simplify",
   "arcfield|software engineer": "2026-09-15 simplify",
   "aspentech|software developer 1 asset performance management": "2026-09-18 simplify",
@@ -3436,5 +3438,5 @@
   "wolverine|entry level c software engineer": "2026-09-19 simplify",
   "wyetech|software engineer": "2026-09-16 simplify"
  },
- "last_tier2_at": "2026-09-21T00:34:58+00:00"
+ "last_tier2_at": "2026-09-21T05:26:37+00:00"
 }
