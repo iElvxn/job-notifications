@@ -121,6 +121,8 @@
   "greenhouse/andurilindustries:5241134007": "2026-09-21",
   "greenhouse/andurilindustries:5241149007": "2026-09-21",
   "greenhouse/andurilindustries:5243880007": "2026-09-21",
+  "greenhouse/andurilindustries:5246141007": "2026-09-22",
+  "greenhouse/andurilindustries:5246225007": "2026-09-22",
   "greenhouse/aurorainnovation:8159549002": "2026-07-23",
   "greenhouse/aurorainnovation:8628066002": "2026-07-23",
   "greenhouse/doordashusa:7263610": "2026-07-22",
@@ -3367,6 +3369,8 @@
   "alliancebernstein|software development associate": "2026-09-16 simplify",
   "amazon|systems development engineer i amazon foundational security services afss": "2026-09-17 amazon",
   "amentum|entry level software engineer": "2026-09-22 simplify",
+  "anduril|2027 early career firmware engineer": "2026-09-22 greenhouse",
+  "anduril|2027 early career flight test engineer": "2026-09-22 greenhouse",
   "anduril|entry level systems engineer c2 integration": "2026-09-21 greenhouse",
   "anduril|entry level systems engineer c2 networking": "2026-09-21 greenhouse",
   "anduril|new grad systems engineer c2 integration": "2026-09-21 greenhouse",
@@ -3476,5 +3480,5 @@
   "wolverine|entry level c software engineer": "2026-09-19 simplify",
   "wyetech|software engineer": "2026-09-16 simplify"
  },
- "last_tier2_at": "2026-09-22T16:52:49+00:00"
+ "last_tier2_at": "2026-09-22T19:56:07+00:00"
 }
