@@ -2760,6 +2760,7 @@
   "simplify:d1e84831-34a4-4fd1-8e04-6adc31a1c0e4": "2026-07-22",
   "simplify:d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a": "2026-08-14",
   "simplify:d1fec00e-2484-4015-8c22-39afe9bcdeec": "2026-08-12",
+  "simplify:d1ffc984-76b9-475f-9274-cc90c1c97125": "2026-09-22",
   "simplify:d2281e01-32fb-4463-bf0e-308726070837": "2026-07-22",
   "simplify:d22fdf10-42c6-4e27-9322-ee89a4ea3b3d": "2026-07-22",
   "simplify:d24846e3-7ab0-4dc5-8419-0d070719ad82": "2026-07-22",
@@ -3471,8 +3472,9 @@
   "visa|software engineer new grad": "2026-09-17 simplify",
   "visa|software engineer new grad 2027": "2026-09-17 simplify",
   "voyager|software engineer ai automation internal tools": "2026-09-22 simplify",
+  "wise|graduate software engineer": "2026-09-22 simplify",
   "wolverine|entry level c software engineer": "2026-09-19 simplify",
   "wyetech|software engineer": "2026-09-16 simplify"
  },
- "last_tier2_at": "2026-09-22T12:09:15+00:00"
+ "last_tier2_at": "2026-09-22T16:52:49+00:00"
 }
