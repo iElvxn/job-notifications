@@ -152,6 +152,7 @@
   "greenhouse/roku:8188714": "2026-09-11",
   "greenhouse/samsara:8097343": "2026-08-03",
   "greenhouse/scaleai:4730836005": "2026-09-04",
+  "greenhouse/scaleai:4736426005": "2026-09-23",
   "greenhouse/spacex:8376990002": "2026-07-23",
   "greenhouse/spacex:8399140002": "2026-07-23",
   "greenhouse/spacex:8446263002": "2026-07-23",
@@ -3478,6 +3479,7 @@
   "rockwell|leadership development program product engineering development": "2026-09-22 simplify",
   "rtx|software engineer 1": "2026-09-16 simplify",
   "saalex|junior systems developer and data analyst": "2026-09-16 simplify",
+  "scale|software engineer public sector new grad": "2026-09-23 greenhouse",
   "singlestore|software engineer new grad": "2026-09-16 simplify",
   "singlestore|software engineer new grad engine": "2026-09-22 simplify",
   "singlestore|software engineer new grad helios": "2026-09-22 simplify",
@@ -3509,5 +3511,5 @@
   "wolverine|entry level c software engineer": "2026-09-19 simplify",
   "wyetech|software engineer": "2026-09-16 simplify"
  },
- "last_tier2_at": "2026-09-23T14:58:24+00:00"
+ "last_tier2_at": "2026-09-23T18:47:42+00:00"
 }
