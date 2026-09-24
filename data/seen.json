@@ -3140,6 +3140,7 @@
   "simplify:ee3acc1d-ec01-40a7-b496-7855fc2ae28d": "2026-07-22",
   "simplify:ee4aaf62-7d90-4ccb-a4b8-316d27e6f80b": "2026-07-29",
   "simplify:ee50e885-5709-43c5-adf1-bd280a6e8786": "2026-08-15",
+  "simplify:ee5c8174-efce-40b3-a4d2-fd27931c66ec": "2026-09-24",
   "simplify:ee9895ec-9487-45e6-bc29-cad094e59644": "2026-08-11",
   "simplify:eebcbb4d-2fc1-4f3f-a75a-c138fb2fc425": "2026-08-11",
   "simplify:eebda676-e46f-4fb6-abd5-929f651c35f0": "2026-07-22",
@@ -3340,6 +3341,7 @@
   "simplify:ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81": "2026-07-22",
   "simplify:ff508a3d-9b87-4b72-99dc-9c087cc8d0ef": "2026-07-22",
   "simplify:ff5eb60f-ea2d-43d7-971e-fd3ac3915d43": "2026-07-22",
+  "simplify:ff69f8ce-2a41-499e-bf69-3d90507eb069": "2026-09-24",
   "simplify:ff8e02ae-33e9-4d66-a3d3-e686d33c4861": "2026-07-22",
   "simplify:ff966379-204b-4e1a-b720-8443d3c7bb31": "2026-07-22",
   "simplify:ffa50681-2399-4ecb-9fb2-9218fe30eb73": "2026-07-22",
@@ -3421,9 +3423,11 @@
   "authentic|software engineer new grad": "2026-09-23 simplify",
   "brady|ai prototyping engineer": "2026-09-18 simplify",
   "bytedance|graduate software engineer ai compute": "2026-09-19 simplify",
+  "caci|software engineer early career cloud": "2026-09-24 simplify",
   "caci|software safety developer analyst": "2026-09-18 simplify",
   "cai|web application developer": "2026-09-17 simplify",
   "captivation|software engineer 0 multiple teams": "2026-09-17 simplify",
+  "caterpillar|java engineer": "2026-09-24 simplify",
   "cisco|compiler software engineer 1 core platform software and toolchains": "2026-09-23 simplify",
   "cisco|software engineer compiler 1": "2026-09-23 simplify",
   "cleveland|software developer 1": "2026-09-18 simplify",
@@ -3503,5 +3507,5 @@
   "wise|graduate software engineer": "2026-09-22 simplify",
   "wolverine|entry level c software engineer": "2026-09-19 simplify"
  },
- "last_tier2_at": "2026-09-24T14:24:38+00:00"
+ "last_tier2_at": "2026-09-24T18:28:46+00:00"
 }
