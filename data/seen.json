@@ -228,6 +228,7 @@
   "microsoft:1970393556940347": "2026-07-28",
   "microsoft:1970393556940367": "2026-07-23",
   "microsoft:1970393556943247": "2026-07-28",
+  "microsoft:1970393556943785": "2026-09-24",
   "microsoft:1970393556945647": "2026-07-29",
   "microsoft:1970393556948701": "2026-07-28",
   "microsoft:1970393556953088": "2026-08-07",
@@ -3457,6 +3458,7 @@
   "microsoft|software engineer cleared": "2026-09-23 simplify",
   "microsoft|software engineer ctj poly": "2026-09-23 microsoft",
   "microsoft|software engineer ctj ts cleared": "2026-09-23 microsoft",
+  "microsoft|software engineer developer": "2026-09-24 microsoft",
   "microsoft|software engineering ic2": "2026-09-23 microsoft",
   "mks2|software engineer": "2026-09-24 simplify",
   "noblis|software developer multiple levels cleared": "2026-09-24 simplify",
@@ -3507,5 +3509,5 @@
   "wise|graduate software engineer": "2026-09-22 simplify",
   "wolverine|entry level c software engineer": "2026-09-19 simplify"
  },
- "last_tier2_at": "2026-09-24T18:28:46+00:00"
+ "last_tier2_at": "2026-09-24T21:40:14+00:00"
 }
