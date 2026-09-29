@@ -1686,6 +1686,7 @@
   "simplify:74127152-f238-47ca-b3b4-df49a5135001": "2026-07-22",
   "simplify:741404cf-64f4-4cc1-bc84-cfeae5bf2552": "2026-07-31",
   "simplify:7417cb1a-ca8b-4281-b8f6-d657f52757b6": "2026-07-22",
+  "simplify:7443e2ee-d487-4319-a352-cc1779444a7f": "2026-09-29",
   "simplify:744628a2-3b11-4f3c-83cf-0f5e6a3d772b": "2026-07-22",
   "simplify:7454affb-3e4e-42b0-bb63-7e1f868e117b": "2026-07-22",
   "simplify:7458ceb8-c0db-44e7-ae5e-41fb157b2104": "2026-09-09",
@@ -3495,6 +3496,7 @@
   "northrop|associate software engineer": "2026-09-24 simplify",
   "nuro|software engineer performance tooling and infrastructure new grad": "2026-09-23 greenhouse",
   "nvidia|compiler engineer agentic compilation systems": "2026-09-22 simplify",
+  "oneimaging|full stack associate software engineer": "2026-09-29 simplify",
   "pacific|early career software engineer": "2026-09-24 simplify",
   "parallel|full stack software engineer 1 interfaces": "2026-09-24 simplify",
   "point|associate software engineer customer operations": "2026-09-23 simplify",
@@ -3528,5 +3530,5 @@
   "wise|graduate software engineer": "2026-09-22 simplify",
   "ziprecruiter|software engineer new grad multiple teams": "2026-09-24 simplify"
  },
- "last_tier2_at": "2026-09-29T02:53:08+00:00"
+ "last_tier2_at": "2026-09-29T09:09:04+00:00"
 }
