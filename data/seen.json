@@ -133,6 +133,7 @@
   "greenhouse/fiveringsllc:5349839008": "2026-07-23",
   "greenhouse/fiveringsllc:5394515008": "2026-08-18",
   "greenhouse/imc:4577504101": "2026-07-22",
+  "greenhouse/imc:4796143101": "2026-09-30",
   "greenhouse/imc:4818790101": "2026-07-22",
   "greenhouse/imc:4823805101": "2026-07-22",
   "greenhouse/imc:4823836101": "2026-08-27",
@@ -3499,6 +3500,7 @@
   "general|software engineer": "2026-09-30 simplify",
   "gm|software development engineer 1 mobile": "2026-09-24 simplify",
   "honeywell|software engineer 1": "2026-09-23 simplify",
+  "imc|software engineer early career": "2026-09-30 greenhouse",
   "intuitive|software engineer": "2026-09-29 simplify",
   "itc|software developer navsup programs": "2026-09-29 simplify",
   "klaviyo|ai engineer 1": "2026-09-24 simplify",
@@ -3555,5 +3557,5 @@
   "wells|engineering associate cib operations technology": "2026-09-30 simplify",
   "ziprecruiter|software engineer new grad multiple teams": "2026-09-24 simplify"
  },
- "last_tier2_at": "2026-09-30T15:25:10+00:00"
+ "last_tier2_at": "2026-09-30T20:08:58+00:00"
 }
