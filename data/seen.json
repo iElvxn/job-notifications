@@ -150,6 +150,10 @@
   "greenhouse/optiverus:8401042002": "2026-07-23",
   "greenhouse/optiverus:8604899002": "2026-07-23",
   "greenhouse/pinterest:6816337": "2026-07-22",
+  "greenhouse/pinterest:7838591": "2026-10-01",
+  "greenhouse/pinterest:8138049": "2026-10-01",
+  "greenhouse/pinterest:8138065": "2026-10-01",
+  "greenhouse/pinterest:8140219": "2026-10-01",
   "greenhouse/point72:7598678002": "2026-08-19",
   "greenhouse/roblox:8072244": "2026-08-05",
   "greenhouse/roku:8188714": "2026-09-11",
@@ -264,6 +268,7 @@
   "microsoft:1970393556998698": "2026-09-22",
   "microsoft:1970393556999328": "2026-09-23",
   "microsoft:1970393557002476": "2026-10-01",
+  "microsoft:1970393557004814": "2026-10-01",
   "microsoft:1970393557004928": "2026-09-25",
   "microsoft:1970393557007990": "2026-09-28",
   "microsoft:1970393557008566": "2026-09-29",
@@ -3533,6 +3538,7 @@
   "man|technology rotational program associate engineer": "2026-09-24 simplify",
   "microsoft|software engineer": "2026-09-29 microsoft",
   "microsoft|software engineer developer": "2026-09-24 microsoft",
+  "microsoft|software engineer forward deployed engineer": "2026-10-01 microsoft",
   "microsoft|software engineer i ctj poly": "2026-09-26 microsoft",
   "microsoft|software engineer intership opportunities azure databases": "2026-10-01 microsoft",
   "microsoft|software engineer user experience": "2026-09-25 microsoft",
@@ -3551,6 +3557,10 @@
   "pacific|early career software engineer": "2026-09-24 simplify",
   "parallel|full stack software engineer 1 interfaces": "2026-09-24 simplify",
   "pg|product engineer associate": "2026-09-30 simplify",
+  "pinterest|master s university grad machine learning engineer 2027 usa": "2026-10-01 greenhouse",
+  "pinterest|university grad machine learning engineer 2027 toronto": "2026-10-01 greenhouse",
+  "pinterest|university grad software engineer 2027 usa": "2026-10-01 greenhouse",
+  "pinterest|university grad software engineer toronto": "2026-10-01 greenhouse",
   "qumulo|software development engineer new grad": "2026-09-24 simplify",
   "relx|software engineer new grad": "2026-09-24 simplify",
   "remitly|ai native software engineer": "2026-09-26 simplify",
@@ -3579,5 +3589,5 @@
   "wells|engineering associate cib operations technology": "2026-09-30 simplify",
   "ziprecruiter|software engineer new grad multiple teams": "2026-09-24 simplify"
  },
- "last_tier2_at": "2026-10-01T16:22:30+00:00"
+ "last_tier2_at": "2026-10-01T21:07:35+00:00"
 }
