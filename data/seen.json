@@ -263,6 +263,7 @@
   "microsoft:1970393556995496": "2026-09-26",
   "microsoft:1970393556998698": "2026-09-22",
   "microsoft:1970393556999328": "2026-09-23",
+  "microsoft:1970393557002476": "2026-10-01",
   "microsoft:1970393557004928": "2026-09-25",
   "microsoft:1970393557007990": "2026-09-28",
   "microsoft:1970393557008566": "2026-09-29",
@@ -2044,6 +2045,7 @@
   "simplify:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68": "2026-08-10",
   "simplify:8e8f913d-4263-4281-9cf3-3e083858cf58": "2026-08-13",
   "simplify:8ea72754-f0f4-4214-a82a-7dfe08a5b26c": "2026-07-29",
+  "simplify:8ec152ad-60df-44f3-8f06-cdc62ddea548": "2026-10-01",
   "simplify:8f12319d-baff-4b24-b854-a8c4433d3c14": "2026-07-22",
   "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d": "2026-09-10",
   "simplify:8f31dd1a-a62a-483b-9393-78256ee8726c": "2026-07-22",
@@ -3511,6 +3513,7 @@
   "dallas|associate application developer": "2026-09-29 simplify",
   "d|application developer 1": "2026-09-26 simplify",
   "early|software engineer java paze": "2026-09-29 simplify",
+  "emerson|software engineer ai enablement engineering productivity": "2026-10-01 simplify",
   "eurofins|application engineer": "2026-09-29 simplify",
   "evenup|software engineer new grad ai entities": "2026-09-30 simplify",
   "fidelity|software engineer": "2026-09-30 simplify",
@@ -3531,6 +3534,7 @@
   "microsoft|software engineer": "2026-09-29 microsoft",
   "microsoft|software engineer developer": "2026-09-24 microsoft",
   "microsoft|software engineer i ctj poly": "2026-09-26 microsoft",
+  "microsoft|software engineer intership opportunities azure databases": "2026-10-01 microsoft",
   "microsoft|software engineer user experience": "2026-09-25 microsoft",
   "mintmcp|software engineer": "2026-09-28 simplify",
   "mks2|software engineer": "2026-09-24 simplify",
@@ -3575,5 +3579,5 @@
   "wells|engineering associate cib operations technology": "2026-09-30 simplify",
   "ziprecruiter|software engineer new grad multiple teams": "2026-09-24 simplify"
  },
- "last_tier2_at": "2026-10-01T02:26:41+00:00"
+ "last_tier2_at": "2026-10-01T09:10:38+00:00"
 }
