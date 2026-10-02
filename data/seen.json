@@ -529,6 +529,7 @@
   "simplify:167abad4-6ad1-4afd-ac76-a97071a7a67b": "2026-07-29",
   "simplify:1684b5f7-9d7b-4b05-a2f1-4335f8426ec4": "2026-08-18",
   "simplify:168e5987-f713-4754-b420-77422cbf6329": "2026-08-14",
+  "simplify:169846aa-cf8c-463a-9721-b9826b79a129": "2026-10-02",
   "simplify:16a486bb-7b8b-4623-aa93-8c631c266294": "2026-07-22",
   "simplify:16ec52d6-22ea-499e-94f2-28744df9e6ff": "2026-08-11",
   "simplify:170d71a3-3702-4153-b3fd-4d73225e3caa": "2026-07-23",
@@ -3510,6 +3511,7 @@
  "notified_keys": {
   "abbott|software engineer 1 multiple teams": "2026-09-26 simplify",
   "acuity|software application developer": "2026-10-02 simplify",
+  "amazon|software development engineer early career amazon dedicated cloud adc": "2026-10-02 simplify",
   "amazon|software development engineer robotics": "2026-10-02 simplify",
   "amazon|software development engineer robotics early career 2027": "2026-10-02 amazon",
   "apple|cad engineer signoff infrastructure": "2026-09-26 simplify",
@@ -3586,5 +3588,5 @@
   "wash|neuroimaging engineer neurology": "2026-09-29 simplify",
   "wells|engineering associate cib operations technology": "2026-09-30 simplify"
  },
- "last_tier2_at": "2026-10-02T06:13:07+00:00"
+ "last_tier2_at": "2026-10-02T12:30:32+00:00"
 }
