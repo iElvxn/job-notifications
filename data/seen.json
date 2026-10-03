@@ -275,6 +275,7 @@
   "microsoft:1970393557004928": "2026-09-25",
   "microsoft:1970393557007990": "2026-09-28",
   "microsoft:1970393557008566": "2026-09-29",
+  "microsoft:1970393557016400": "2026-10-03",
   "microsoft:1970393557022395": "2026-10-02",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
@@ -3561,7 +3562,7 @@
   "itc|software developer navsup programs": "2026-09-29 simplify",
   "kla|software engineer 1": "2026-09-30 simplify",
   "leantaas|associate gtm engineer": "2026-09-26 simplify",
-  "microsoft|software engineer": "2026-10-02 microsoft",
+  "microsoft|software engineer": "2026-10-03 microsoft",
   "microsoft|software engineer forward deployed engineer": "2026-10-01 microsoft",
   "microsoft|software engineer i ctj poly": "2026-09-26 microsoft",
   "microsoft|software engineer intership opportunities azure databases": "2026-10-01 microsoft",
@@ -3605,5 +3606,5 @@
   "wells|engineering associate cib operations technology": "2026-09-30 simplify",
   "westinghouse|engineer ai delivery high potential program": "2026-10-03 simplify"
  },
- "last_tier2_at": "2026-10-03T06:26:07+00:00"
+ "last_tier2_at": "2026-10-03T11:51:27+00:00"
 }
