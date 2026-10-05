@@ -148,6 +148,7 @@
   "greenhouse/nuro:6972272": "2026-07-23",
   "greenhouse/nuro:7351066": "2026-07-23",
   "greenhouse/nuro:8227399": "2026-09-23",
+  "greenhouse/nuro:8248317": "2026-10-05",
   "greenhouse/oldmissioncapital:7796048003": "2026-07-23",
   "greenhouse/oldmissioncapital:7989374003": "2026-09-08",
   "greenhouse/optiverus:8401042002": "2026-07-23",
@@ -3095,6 +3096,7 @@
   "simplify:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e": "2026-08-03",
   "simplify:dfbe8213-3151-43f1-b442-666289345c47": "2026-07-22",
   "simplify:dfc6abcd-7f1b-4472-abff-5d0f26bab592": "2026-07-22",
+  "simplify:dfd7743c-b0f2-4e6e-b632-d83d62d785d4": "2026-10-05",
   "simplify:dfdbfcc9-49ba-4974-9c15-ba6c0402ded3": "2026-07-22",
   "simplify:dfeea355-646f-4376-875b-49fcd01615db": "2026-07-22",
   "simplify:e00cec52-cbe7-4f53-a2ca-37a477d3f367": "2026-07-22",
@@ -3594,6 +3596,7 @@
   "northrop|associate software engineer or software engineer": "2026-09-29 simplify",
   "northrop|associate software engineer software engineer": "2026-09-29 simplify",
   "northrop|associate software systems engineer software systems engineer": "2026-09-29 simplify",
+  "nuro|new grad software engineer routing": "2026-10-05 greenhouse",
   "nvidia|applied machine learning engineer ai for vlsi design new college grad 2026": "2026-09-29 workday",
   "nvidia|software engineer dgx cloud ai infrastructure new college grad 2026": "2026-09-30 workday",
   "oneimaging|full stack associate software engineer": "2026-09-29 simplify",
@@ -3609,7 +3612,7 @@
   "rivian|attributes method engineer": "2026-09-30 simplify",
   "rovisys|software engineer developer": "2026-10-04 simplify",
   "rtx|research software engineer 1": "2026-10-04 simplify",
-  "rtx|software developer engineer 1": "2026-09-30 simplify",
+  "rtx|software developer engineer 1": "2026-10-05 simplify",
   "rtx|software engineer 1": "2026-10-02 simplify",
   "rtx|software engineer developer 1": "2026-09-30 simplify",
   "rtx|software test engineer 1": "2026-10-02 simplify",
@@ -3625,5 +3628,5 @@
   "wells|engineering associate cib operations technology": "2026-09-30 simplify",
   "westinghouse|engineer ai delivery high potential program": "2026-10-03 simplify"
  },
- "last_tier2_at": "2026-10-05T15:00:52+00:00"
+ "last_tier2_at": "2026-10-05T21:58:32+00:00"
 }
