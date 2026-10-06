@@ -113,6 +113,8 @@
   "ashby/openai:55150071-fce8-48f5-aea4-14ed78b83511": "2026-09-14",
   "ashby/replit:b5e81eae-06f9-4798-8988-2d06ca936dbc": "2026-09-09",
   "ashby/sierra:149f368c-52d5-408f-ba26-ad888f318a00": "2026-09-01",
+  "greenhouse/affirm:8008649003": "2026-10-06",
+  "greenhouse/affirm:8010617003": "2026-10-06",
   "greenhouse/akunacapital:8013085": "2026-07-22",
   "greenhouse/akunacapital:8013230": "2026-07-22",
   "greenhouse/akunacapital:8016687": "2026-07-22",
@@ -3559,6 +3561,7 @@
   "workday/nvidia:JR2026218": "2026-09-21",
   "workday/nvidia:JR2026477": "2026-09-30",
   "workday/nvidia:JR2026576": "2026-09-29",
+  "workday/nvidia:JR2026800": "2026-10-06",
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
   "workday/salesforce:JR349609": "2026-07-22",
@@ -3579,6 +3582,8 @@
  "notified_keys": {
   "2k|engineering graduate program": "2026-10-06 simplify",
   "acuity|software application developer": "2026-10-02 simplify",
+  "affirm|software engineer i new grad 2027 nyc": "2026-10-06 greenhouse",
+  "affirm|software engineer i new grad 2027 sf": "2026-10-06 greenhouse",
   "amazon|software development engineer early career amazon dedicated cloud adc": "2026-10-02 simplify",
   "amazon|software development engineer robotics": "2026-10-02 simplify",
   "amazon|software development engineer robotics early career 2027": "2026-10-02 amazon",
@@ -3649,6 +3654,7 @@
   "nuro|new grad software engineer routing": "2026-10-05 greenhouse",
   "nuro|software engineer new grad routing": "2026-10-06 simplify",
   "nvidia|applied machine learning engineer ai for vlsi design new college grad 2026": "2026-09-29 workday",
+  "nvidia|high speed serdes validation engineer new college grad 2026": "2026-10-06 workday",
   "nvidia|software engineer dgx cloud ai infrastructure new college grad 2026": "2026-09-30 workday",
   "oklahoma|applications developer 1": "2026-10-06 simplify",
   "oneimaging|full stack associate software engineer": "2026-09-29 simplify",
@@ -3692,5 +3698,5 @@
   "whoop|software engineer 1 backend": "2026-10-06 simplify",
   "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify"
  },
- "last_tier2_at": "2026-10-06T15:29:44+00:00"
+ "last_tier2_at": "2026-10-06T20:27:52+00:00"
 }
