@@ -2261,6 +2261,7 @@
   "simplify:96453d18-731d-4613-bb72-8b197bfbbcdb": "2026-09-22",
   "simplify:9664e751-69df-4d20-a616-be872d05faf1": "2026-07-22",
   "simplify:96951771-a874-48c9-8e96-2512f1ad2c48": "2026-07-22",
+  "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3": "2026-10-10",
   "simplify:96c65a15-841f-4ff3-85f5-ac9291e3bb35": "2026-10-07",
   "simplify:96ca88cc-f34f-46d1-a9a1-985470de3698": "2026-08-13",
   "simplify:96ce500e-5e6d-4796-8787-89a69ab30d04": "2026-09-10",
@@ -2827,6 +2828,7 @@
   "simplify:c069313e-e379-4d06-9d05-34d8e04ca69e": "2026-07-22",
   "simplify:c08bb30b-70f9-4e9f-8e9b-1149ed41b216": "2026-08-29",
   "simplify:c0ac6ad4-9461-42b9-9740-6caf78973162": "2026-07-22",
+  "simplify:c0e68386-5f91-485f-86a7-c92db1919740": "2026-10-10",
   "simplify:c0f4591f-39f3-4edb-b844-cf93992757ea": "2026-07-22",
   "simplify:c112be05-b84b-4171-a4f6-6179189e0a5d": "2026-07-22",
   "simplify:c1571f1b-abdd-4f65-823c-9986aeaac900": "2026-09-09",
@@ -3812,6 +3814,7 @@
   "sentry|software engineer": "2026-10-06 simplify",
   "shield|simulation framework engineer 1": "2026-10-08 simplify",
   "shield|simulation framework engineer 2 simulation framework": "2026-10-08 simplify",
+  "shield|software engineer 1 factory team": "2026-10-10 simplify",
   "shield|software engineer 2 factory": "2026-10-10 simplify",
   "sierra|software engineer 1": "2026-10-09 simplify",
   "sierra|software engineer 1 devops devsecops": "2026-10-08 simplify",
@@ -3842,5 +3845,5 @@
   "whoop|software engineer 1 backend": "2026-10-06 simplify",
   "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify"
  },
- "last_tier2_at": "2026-10-10T02:18:27+00:00"
+ "last_tier2_at": "2026-10-10T08:40:58+00:00"
 }
