@@ -3709,7 +3709,6 @@
   "amtrust|software engineer 1": "2026-10-09 simplify",
   "anduril|2027 early career quality engineer": "2026-10-09 greenhouse",
   "anduril|2027 early career systems engineer": "2026-10-09 greenhouse",
-  "anthony|ai solutions developer": "2026-10-03 simplify",
   "apple|cad engineer signoff infrastructure": "2026-10-06 simplify",
   "apple|screening integration engineer watch software sensing connectivity": "2026-10-08 simplify",
   "apple|software engineer siri user experiences": "2026-10-07 simplify",
@@ -3728,7 +3727,6 @@
   "boeing|ground software engineer": "2026-10-09 simplify",
   "booz|full stack developer": "2026-10-06 simplify",
   "booz|software engineer": "2026-10-06 simplify",
-  "broadridge|junior full stack software engineer": "2026-10-03 simplify",
   "caci|entry level c software engineer": "2026-10-08 simplify",
   "caci|web application developer early career": "2026-10-07 simplify",
   "capgemini|associate software engineer": "2026-10-06 simplify",
@@ -3743,7 +3741,6 @@
   "danaher|desktop software engineer": "2026-10-04 simplify",
   "dext|ai engineering associate": "2026-10-04 simplify",
   "d|junior full stack engineer": "2026-10-06 simplify",
-  "emerson|software solutions development program": "2026-10-03 simplify",
   "equipmentshare|software engineer 1": "2026-10-07 simplify",
   "eurofins|laboratory software specialist": "2026-10-07 simplify",
   "forge|software engineer 1": "2026-10-09 simplify",
@@ -3753,7 +3750,6 @@
   "general|software developer associate": "2026-10-06 simplify",
   "globalfoundries|software engineer new grad": "2026-10-09 simplify",
   "harbor|wms software developer 1": "2026-10-08 simplify",
-  "harvey|software engineer new grad": "2026-10-03 simplify",
   "helios|junior creative engineer": "2026-10-09 simplify",
   "hewlett|graduate systems software engineer 1": "2026-10-06 simplify",
   "hewlett|storage systems software engineer": "2026-10-09 simplify",
@@ -3764,7 +3760,6 @@
   "innovative|software engineer": "2026-10-06 simplify",
   "intel|foundry cloud services developer": "2026-10-04 simplify",
   "intel|graduate talent software application development engineer": "2026-10-07 workday",
-  "ipipeline|associate software development engineer emerging professionals": "2026-10-03 simplify",
   "ixl|software engineer new grad": "2026-10-08 simplify",
   "jp|software engineer 1": "2026-10-06 simplify",
   "kla|software engineer metrology systems": "2026-10-04 simplify",
@@ -3797,7 +3792,6 @@
   "nvidia|systems software engineer ai and cloud new college grad 2026": "2026-10-07 workday",
   "oklahoma|applications developer 1": "2026-10-06 simplify",
   "otter|software engineer new grad front end": "2026-10-08 simplify",
-  "parasail|software engineer new grad forward deploy": "2026-10-03 simplify",
   "provectus|associate forward deployed engineer": "2026-10-06 simplify",
   "pure|software engineer new grad": "2026-10-06 simplify",
   "ra|software engineer data ai": "2026-10-06 simplify",
@@ -3837,7 +3831,6 @@
   "universal|associate software engineer": "2026-10-08 simplify",
   "visa|software engineer operations and infrastructure": "2026-10-07 simplify",
   "vizient|associate software engineer": "2026-10-09 simplify",
-  "westinghouse|engineer ai delivery high potential program": "2026-10-03 simplify",
   "west|software engineering ai concentration consultant": "2026-10-06 simplify",
   "west|software engineering consultant ai concentration": "2026-10-06 simplify",
   "whoop|android engineer 1": "2026-10-06 simplify",
@@ -3845,5 +3838,5 @@
   "whoop|software engineer 1 backend": "2026-10-06 simplify",
   "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify"
  },
- "last_tier2_at": "2026-10-10T22:03:38+00:00"
+ "last_tier2_at": "2026-10-11T00:57:25+00:00"
 }
