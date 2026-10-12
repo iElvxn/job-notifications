@@ -581,6 +581,7 @@
   "simplify:190a4d75-6cd1-47e7-a759-52411e0c99fd": "2026-07-24",
   "simplify:191bef07-9c08-4fff-8583-81c3ba0e6c30": "2026-09-14",
   "simplify:19241068-1a94-421a-8887-c34f2236f365": "2026-07-22",
+  "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb": "2026-10-12",
   "simplify:1941cf58-d377-4f13-8d66-ee6d978d4f5a": "2026-07-22",
   "simplify:195694df-fb1c-4340-b90c-8dc7a7a7f05b": "2026-07-22",
   "simplify:197ca67f-b0d1-4876-ac51-5e065b16540a": "2026-09-26",
@@ -687,6 +688,7 @@
   "simplify:2053c593-1305-4042-a320-4a22dd690ec4": "2026-10-02",
   "simplify:20565db4-0f8e-456e-b6e3-4c484757c633": "2026-07-22",
   "simplify:2057a6a2-9cb3-47f1-8662-38f1773c7a1c": "2026-07-29",
+  "simplify:2081ec0c-9ef0-4e78-8859-84739cedab0c": "2026-10-12",
   "simplify:20d13b00-29e6-46f7-a36c-1b045a33bc61": "2026-08-19",
   "simplify:21161652-9269-4156-abf9-9cd2dd5a5c08": "2026-07-22",
   "simplify:214e7a90-9cec-4928-a2ba-cbb8931aeb79": "2026-10-06",
@@ -3226,6 +3228,7 @@
   "simplify:def54711-e5fe-4a9d-93e2-3d38983e8f08": "2026-09-24",
   "simplify:defd53c6-373d-4684-81eb-df7e464d1c50": "2026-09-29",
   "simplify:deff0f63-535b-4c5e-9b14-c2ad508e3a92": "2026-07-24",
+  "simplify:df030492-3a72-4388-a440-77952fc6c3d3": "2026-10-12",
   "simplify:df7ccad4-e94d-42b5-914a-8875029af2a8": "2026-08-14",
   "simplify:dfacc0ec-9177-43dd-ac67-df11218705ac": "2026-07-22",
   "simplify:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e": "2026-08-03",
@@ -3696,6 +3699,7 @@
  "notified_keys": {
   "2k|engineering graduate program": "2026-10-06 simplify",
   "abbott|associate software engineer": "2026-10-08 simplify",
+  "aderant|associate software engineer": "2026-10-12 simplify",
   "aerovironment|associate software engineer": "2026-10-06 simplify",
   "aerovironment|software engineer": "2026-10-09 simplify",
   "aerovironment|software engineer 1 apps": "2026-10-09 simplify",
@@ -3736,6 +3740,7 @@
   "cisco|machine learning engineer": "2026-10-08 simplify",
   "constant|software engineering development program": "2026-10-06 simplify",
   "corning|software engineer": "2026-10-06 simplify",
+  "crown|systems engineer 1": "2026-10-12 simplify",
   "cvs|associate software development engineer conversion": "2026-10-09 simplify",
   "d|junior full stack engineer": "2026-10-06 simplify",
   "equipmentshare|software engineer 1": "2026-10-07 simplify",
@@ -3826,7 +3831,8 @@
   "whoop|android engineer 1": "2026-10-06 simplify",
   "whoop|ios engineer 1": "2026-10-06 simplify",
   "whoop|software engineer 1 backend": "2026-10-06 simplify",
-  "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify"
+  "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify",
+  "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-12T07:30:46+00:00"
+ "last_tier2_at": "2026-10-12T16:59:11+00:00"
 }
