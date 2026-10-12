@@ -2086,6 +2086,7 @@
   "simplify:89338d70-b185-443c-ab9d-8f66f7eb969e": "2026-07-22",
   "simplify:893c3c32-4034-4b9a-aeec-2289b0a7055b": "2026-07-22",
   "simplify:89442d0e-48eb-456c-ac06-cf9ce81cacae": "2026-07-22",
+  "simplify:8944e3f6-18d2-4e20-b86a-23223ceba88f": "2026-10-12",
   "simplify:89492024-ada7-4360-b431-d46b4822c4a0": "2026-07-22",
   "simplify:894eb687-31ed-49f7-86c8-228331a4c092": "2026-09-03",
   "simplify:8959c750-8d22-4a06-9312-785748572110": "2026-09-09",
@@ -3779,6 +3780,7 @@
   "nvidia|c software engineer new grad infrastructure tools": "2026-10-10 simplify",
   "nvidia|high speed serdes validation engineer new college grad 2026": "2026-10-06 workday",
   "nvidia|software engineer dl kernel libraries new college grad 2027": "2026-10-12 workday",
+  "nvidia|software engineer new grad dl kernel libraries": "2026-10-12 simplify",
   "nvidia|systems software engineer ai and cloud": "2026-10-07 simplify",
   "nvidia|systems software engineer ai and cloud new college grad 2026": "2026-10-07 workday",
   "oklahoma|applications developer 1": "2026-10-06 simplify",
@@ -3826,5 +3828,5 @@
   "whoop|software engineer 1 backend": "2026-10-06 simplify",
   "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify"
  },
- "last_tier2_at": "2026-10-12T01:17:10+00:00"
+ "last_tier2_at": "2026-10-12T07:30:46+00:00"
 }
