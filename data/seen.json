@@ -2943,6 +2943,7 @@
   "simplify:c89cddfc-ea4d-453c-91cd-3f9293e56a32": "2026-07-22",
   "simplify:c8dbf05b-aee8-4f84-a174-60e1bed590ba": "2026-07-22",
   "simplify:c8ebd7cf-ad8f-40af-b281-b1f22b13842f": "2026-07-22",
+  "simplify:c922394e-fefa-48bc-88e6-16e52ab6de44": "2026-10-13",
   "simplify:c922e8d4-2a85-4851-868c-771e8523bb0e": "2026-09-12",
   "simplify:c924c806-5fa8-4f1d-9765-da6d89a05dc7": "2026-07-22",
   "simplify:c92fc7de-e326-4327-8f9c-5195b90591e9": "2026-08-06",
@@ -3798,11 +3799,11 @@
   "microsoft|software engineering": "2026-10-12 simplify",
   "microsoft|software engineering ic2": "2026-10-08 microsoft",
   "momentum|software engineer 0": "2026-10-12 simplify",
+  "netic|software engineer gap year": "2026-10-13 simplify",
   "noblis|software developer multiple levels": "2026-10-09 simplify",
   "nordstrom|engineer 1": "2026-10-08 simplify",
   "nordstrom|engineer 1 supply chain": "2026-10-09 simplify",
   "northrop|software engineer level": "2026-10-08 simplify",
-  "nuro|new grad software engineer routing": "2026-10-05 greenhouse",
   "nuro|software engineer new grad routing": "2026-10-06 simplify",
   "nvidia|c software engineer infrastructure tools new college grad 2027": "2026-10-10 workday",
   "nvidia|c software engineer new grad infrastructure tools": "2026-10-10 simplify",
@@ -3822,7 +3823,6 @@
   "roku|software engineer ai ui": "2026-10-06 simplify",
   "roku|software engineer early careers ai ui": "2026-10-06 greenhouse",
   "rtx|full stack software engineer 1": "2026-10-09 simplify",
-  "rtx|software developer engineer 1": "2026-10-05 simplify",
   "rtx|software engineer 1": "2026-10-12 simplify",
   "rtx|web full stack software engineer 1": "2026-10-09 simplify",
   "sentry|software engineer": "2026-10-06 simplify",
@@ -3860,5 +3860,5 @@
   "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-12T23:29:30+00:00"
+ "last_tier2_at": "2026-10-13T03:43:47+00:00"
 }
