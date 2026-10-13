@@ -268,6 +268,7 @@
   "microsoft:1970393556982924": "2026-08-29",
   "microsoft:1970393556982925": "2026-08-29",
   "microsoft:1970393556983220": "2026-09-10",
+  "microsoft:1970393556985571": "2026-10-13",
   "microsoft:1970393556985572": "2026-09-08",
   "microsoft:1970393556986144": "2026-09-18",
   "microsoft:1970393556986737": "2026-09-09",
@@ -2658,6 +2659,7 @@
   "simplify:b1f346c8-dec2-4d79-a9a7-47bbd3bb02f1": "2026-07-22",
   "simplify:b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18": "2026-09-24",
   "simplify:b1fb1349-fb26-4b33-ad4d-d920ce999a99": "2026-07-22",
+  "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6": "2026-10-13",
   "simplify:b20fdc5f-62fb-404d-8b45-0dbb43b19684": "2026-07-22",
   "simplify:b2121226-8983-4430-91a7-95bf8bc84e96": "2026-07-22",
   "simplify:b2164fa6-c46d-43b1-91e6-a954faa36167": "2026-09-14",
@@ -3794,7 +3796,7 @@
   "mastercard|software engineer 1": "2026-10-08 simplify",
   "micron|ai engineer": "2026-10-09 simplify",
   "micron|cad engineer new grad": "2026-10-09 simplify",
-  "microsoft|software engineer": "2026-10-12 microsoft",
+  "microsoft|software engineer": "2026-10-13 microsoft",
   "microsoft|software engineer ctj poly": "2026-10-06 microsoft",
   "microsoft|software engineering": "2026-10-12 simplify",
   "microsoft|software engineering ic2": "2026-10-08 microsoft",
@@ -3860,5 +3862,5 @@
   "whoop|software engineer 1 frontend ai platform": "2026-10-06 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-13T03:43:47+00:00"
+ "last_tier2_at": "2026-10-13T11:06:55+00:00"
 }
