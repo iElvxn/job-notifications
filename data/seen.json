@@ -580,6 +580,7 @@
   "simplify:189921e3-430a-4e43-b346-19090aca1deb": "2026-07-23",
   "simplify:18a9df54-1420-4258-8c24-37817d250f22": "2026-08-21",
   "simplify:18d486ba-7847-4071-af9b-c194a73c76ea": "2026-07-22",
+  "simplify:18d884be-500d-4ea1-8486-4edd9f37b5b7": "2026-10-14",
   "simplify:18dded30-85da-4cf5-a07f-5f4f9aa52535": "2026-09-16",
   "simplify:190a4d75-6cd1-47e7-a759-52411e0c99fd": "2026-07-24",
   "simplify:191bef07-9c08-4fff-8583-81c3ba0e6c30": "2026-09-14",
@@ -801,6 +802,7 @@
   "simplify:27d46f0f-ff42-4028-970a-2feef813f4b6": "2026-07-22",
   "simplify:27d97b17-2a57-439e-86ca-f86b853fac0d": "2026-07-22",
   "simplify:28026292-cafa-4127-a7e7-ea980ab5ddef": "2026-07-22",
+  "simplify:2811b58f-5918-42f5-bcb0-73989dbc4f33": "2026-10-14",
   "simplify:281fb399-0f01-46dc-9b50-d761b69e53ab": "2026-09-09",
   "simplify:28303e99-9047-460e-96fc-3454339fed7b": "2026-07-22",
   "simplify:28364c69-14ae-4cf0-ae5a-eaa37e2e3cab": "2026-07-22",
@@ -3796,6 +3798,7 @@
   "highmark|etdp associate software engineering": "2026-10-09 simplify",
   "intel|graduate talent software application development engineer": "2026-10-07 workday",
   "ixl|software engineer new grad": "2026-10-08 simplify",
+  "jabil|ai and data solutions developer global supply chain": "2026-10-14 simplify",
   "johns|graduate engineer analyst for isrt and bmc2 applications": "2026-10-13 simplify",
   "justworks|associate software engineer frontend": "2026-10-13 simplify",
   "kla|software engineer 1": "2026-10-13 simplify",
@@ -3842,6 +3845,7 @@
   "sierra|software engineer 1 devops devsecops": "2026-10-08 simplify",
   "sierra|software engineer 1 ground software": "2026-10-08 simplify",
   "sigma|software engineer": "2026-10-13 simplify",
+  "simventions|ai machine learning engineer rag pipeline development": "2026-10-14 simplify",
   "snorkel|software engineer": "2026-10-07 simplify",
   "snowflake|software engineer customer experience engineering": "2026-10-09 simplify",
   "spacex|new graduate engineer automation 26 27 starlink": "2026-10-09 greenhouse",
@@ -3860,5 +3864,5 @@
   "vizient|associate software engineer": "2026-10-09 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-14T06:16:44+00:00"
+ "last_tier2_at": "2026-10-14T12:09:23+00:00"
 }
