@@ -3728,6 +3728,7 @@
   "workday/nvidia:JR2027337": "2026-10-12",
   "workday/nvidia:JR2027431": "2026-10-10",
   "workday/nvidia:JR2027552": "2026-10-14",
+  "workday/salesforce:JR330400": "2026-10-14",
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
   "workday/salesforce:JR349609": "2026-07-22",
@@ -3843,6 +3844,7 @@
   "rtx|full stack software engineer 1": "2026-10-09 simplify",
   "rtx|software engineer 1": "2026-10-13 simplify",
   "rtx|web full stack software engineer 1": "2026-10-09 simplify",
+  "salesforce|software engineering amts college grad": "2026-10-14 workday",
   "shield|simulation framework engineer 1": "2026-10-08 simplify",
   "shield|simulation framework engineer 2 simulation framework": "2026-10-08 simplify",
   "shield|software engineer 1 factory team": "2026-10-10 simplify",
@@ -3871,5 +3873,5 @@
   "vizient|associate software engineer": "2026-10-09 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-14T17:05:06+00:00"
+ "last_tier2_at": "2026-10-14T20:39:16+00:00"
 }
