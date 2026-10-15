@@ -1461,6 +1461,7 @@
   "simplify:59da20b4-89d9-4050-8d93-b79c0953d1c7": "2026-07-22",
   "simplify:5a03e922-9be2-4e12-9821-b01d8c92b5e6": "2026-07-22",
   "simplify:5a05b3b2-2805-4fa2-9f98-6346f0932a5d": "2026-07-22",
+  "simplify:5a07cf07-d410-41af-b750-23e449367969": "2026-10-15",
   "simplify:5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8": "2026-09-10",
   "simplify:5a3af054-4413-4265-a625-02bc1cc34542": "2026-07-22",
   "simplify:5a476d63-cb12-4e98-8fd7-35895108a039": "2026-08-14",
@@ -2463,6 +2464,7 @@
   "simplify:a1e87ed8-5609-4ab7-89ac-b86a8c86ff89": "2026-07-22",
   "simplify:a21b609a-b72b-47d9-a330-6549d9172b60": "2026-09-10",
   "simplify:a2474c19-e21a-460f-80f9-e3eedb70ab05": "2026-07-23",
+  "simplify:a254c38f-5fae-467c-9cff-3dd2e72094f5": "2026-10-15",
   "simplify:a25655df-6e19-4c64-8b24-e85f531e94db": "2026-07-22",
   "simplify:a26a1cb6-76af-42d1-8117-a8ef5dce2fae": "2026-07-22",
   "simplify:a26c7b74-1550-4e9f-bc9a-ed3c7465b92e": "2026-10-09",
@@ -3863,6 +3865,7 @@
   "qualcomm|compiler toolchain engineer compiler toolchain software": "2026-10-14 simplify",
   "rtx|full stack software engineer 1": "2026-10-09 simplify",
   "rtx|software engineer 1": "2026-10-14 simplify",
+  "rtx|software engineer 1 next gen systems": "2026-10-15 simplify",
   "rtx|software engineer developer 1": "2026-10-14 simplify",
   "rtx|web full stack software engineer 1": "2026-10-09 simplify",
   "salesforce|software engineering amts college grad": "2026-10-14 workday",
@@ -3876,6 +3879,7 @@
   "sigma|software engineer": "2026-10-13 simplify",
   "signet|software engineer 1": "2026-10-14 simplify",
   "simventions|ai machine learning engineer rag pipeline development": "2026-10-14 simplify",
+  "sirenopt|software engineer early career c systems": "2026-10-15 simplify",
   "snowflake|software engineer customer experience engineering": "2026-10-09 simplify",
   "spacex|new graduate engineer automation 26 27 starlink": "2026-10-09 greenhouse",
   "space|software engineer level 1 2 or 3": "2026-10-14 simplify",
@@ -3895,5 +3899,5 @@
   "vizient|associate software engineer": "2026-10-09 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-15T01:35:11+00:00"
+ "last_tier2_at": "2026-10-15T06:24:32+00:00"
 }
