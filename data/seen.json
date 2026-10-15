@@ -587,6 +587,7 @@
   "simplify:18d884be-500d-4ea1-8486-4edd9f37b5b7": "2026-10-14",
   "simplify:18dded30-85da-4cf5-a07f-5f4f9aa52535": "2026-09-16",
   "simplify:190a4d75-6cd1-47e7-a759-52411e0c99fd": "2026-07-24",
+  "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d": "2026-10-15",
   "simplify:191bef07-9c08-4fff-8583-81c3ba0e6c30": "2026-09-14",
   "simplify:19241068-1a94-421a-8887-c34f2236f365": "2026-07-22",
   "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb": "2026-10-12",
@@ -3547,6 +3548,7 @@
   "simplify:f3a9de98-82b9-40ff-be18-62ed750578c6": "2026-07-22",
   "simplify:f3afd047-0a89-40c5-ba2f-e21673172f2b": "2026-08-24",
   "simplify:f3be0d48-9942-4bd1-9a82-93364573a167": "2026-07-22",
+  "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2": "2026-10-15",
   "simplify:f40a37c8-77b2-4062-8e57-b644127a95ea": "2026-07-29",
   "simplify:f41272f9-0120-450f-abf0-a8d6cbd6d49d": "2026-07-22",
   "simplify:f41790eb-8c94-4879-9b85-5c60ed5f3d6c": "2026-07-22",
@@ -3889,6 +3891,7 @@
   "synchrony|api engineer 1 credit": "2026-10-14 simplify",
   "thales|graduate ai engineer": "2026-10-13 simplify",
   "thrivent|associate application engineer asset management": "2026-10-14 simplify",
+  "tiktok|backend engineer graduate social foundation": "2026-10-15 simplify",
   "tiktok|software engineer graduate data ecosystem 2027 start": "2026-10-14 simplify",
   "tmeic|associate software developer ai": "2026-10-13 simplify",
   "trinet|software engineer": "2026-10-12 simplify",
@@ -3899,5 +3902,5 @@
   "vizient|associate software engineer": "2026-10-09 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-15T06:24:32+00:00"
+ "last_tier2_at": "2026-10-15T11:45:34+00:00"
 }
