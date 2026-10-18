@@ -3829,7 +3829,6 @@
   "aveva|software developer graduate ai proficient": "2026-10-13 simplify",
   "avis|deployed transformation engineer new grad": "2026-10-14 simplify",
   "axon|software engineer 1": "2026-10-16 simplify",
-  "becton|software engineer 1": "2026-10-10 simplify",
   "boeing|b1 software systems engineer": "2026-10-14 simplify",
   "boeing|entry level flight simulation software engineer": "2026-10-14 simplify",
   "boeing|entry level software engineer developer": "2026-10-13 simplify",
@@ -3881,8 +3880,6 @@
   "northrop|associate cloud software engineer 1": "2026-10-13 simplify",
   "northrop|associate software engineer pathways": "2026-10-16 simplify",
   "northrop|software engineer": "2026-10-16 simplify",
-  "nvidia|c software engineer infrastructure tools new college grad 2027": "2026-10-10 workday",
-  "nvidia|c software engineer new grad infrastructure tools": "2026-10-10 simplify",
   "nvidia|deep learning software engineer tensorrt performance new college grad 2027": "2026-10-12 workday",
   "nvidia|developer technology engineer new college graduate 2027": "2026-10-14 workday",
   "nvidia|soc software engineer new college grad 2027": "2026-10-14 workday",
@@ -3900,8 +3897,6 @@
   "rtx|software engineer developer 1": "2026-10-14 simplify",
   "saic|software test engineer": "2026-10-16 simplify",
   "salesforce|software engineering amts college grad": "2026-10-14 workday",
-  "shield|software engineer 1 factory team": "2026-10-10 simplify",
-  "shield|software engineer 2 factory": "2026-10-10 simplify",
   "sigma|software engineer": "2026-10-13 simplify",
   "signet|software engineer 1": "2026-10-14 simplify",
   "simventions|ai machine learning engineer rag pipeline development": "2026-10-14 simplify",
@@ -3922,5 +3917,5 @@
   "western|engineer 1": "2026-10-15 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-17T23:04:43+00:00"
+ "last_tier2_at": "2026-10-18T00:58:06+00:00"
 }
