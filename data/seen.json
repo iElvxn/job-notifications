@@ -945,6 +945,7 @@
   "simplify:313831ca-ffcc-4bd3-a849-b96c643c8df9": "2026-07-22",
   "simplify:3154be10-173a-4b90-8b24-47c92d5b67ae": "2026-07-22",
   "simplify:315c6fae-a358-463d-b03c-942573ef4064": "2026-07-22",
+  "simplify:316c2d00-0f12-44d3-a120-dec7324caeff": "2026-10-19",
   "simplify:3187d7f5-bee5-440f-9e37-6a4fa018e014": "2026-07-22",
   "simplify:31a6db78-1795-45ff-a8cf-7fa9073f5fbf": "2026-07-22",
   "simplify:31b3c490-c657-472c-8aec-d367ec0d3a3a": "2026-07-22",
@@ -3856,7 +3857,7 @@
   "faraday|sdk platform engineer": "2026-10-17 simplify",
   "fortinet|software development engineer": "2026-10-16 simplify",
   "galatea|entry level financial software consultant": "2026-10-17 simplify",
-  "huntington|software engineer 1": "2026-10-16 simplify",
+  "huntington|software engineer 1": "2026-10-19 simplify",
   "intuit|software engineer 1": "2026-10-16 simplify",
   "jabil|ai and data solutions developer global supply chain": "2026-10-14 simplify",
   "johns|graduate engineer analyst for isrt and bmc2 applications": "2026-10-13 simplify",
@@ -3919,5 +3920,5 @@
   "western|engineer 1": "2026-10-15 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-19T06:22:28+00:00"
+ "last_tier2_at": "2026-10-19T13:42:49+00:00"
 }
