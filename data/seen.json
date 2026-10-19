@@ -135,6 +135,8 @@
   "greenhouse/andurilindustries:5246225007": "2026-09-22",
   "greenhouse/andurilindustries:5262324007": "2026-10-09",
   "greenhouse/andurilindustries:5262340007": "2026-10-09",
+  "greenhouse/andurilindustries:5268564007": "2026-10-19",
+  "greenhouse/andurilindustries:5268704007": "2026-10-19",
   "greenhouse/aurorainnovation:8159549002": "2026-07-23",
   "greenhouse/aurorainnovation:8628066002": "2026-07-23",
   "greenhouse/doordashusa:7263610": "2026-07-22",
@@ -428,6 +430,7 @@
   "simplify:0a05b05d-daaf-4bd5-964c-6f2e5bd47d82": "2026-09-24",
   "simplify:0a264790-fc03-4d54-97bd-6403679d2ff3": "2026-10-16",
   "simplify:0a4c4cde-1d9b-48c5-8918-3a0f171d4fe8": "2026-07-22",
+  "simplify:0a4cd2e5-65b4-4298-ab71-d0c7705a376c": "2026-10-19",
   "simplify:0a4ddd3e-fd39-4c8e-b938-939631cad5df": "2026-07-22",
   "simplify:0a9be08c-daa1-47fd-aa7a-7fe64c9ec828": "2026-07-22",
   "simplify:0ac59efb-a60a-487e-ae88-72d4b34fac13": "2026-08-18",
@@ -1747,6 +1750,7 @@
   "simplify:6ba49fd7-fca8-4128-a0e2-5d8cffc9661e": "2026-09-22",
   "simplify:6bbdcfe2-93ba-469c-9fe4-be23b9387ac6": "2026-07-28",
   "simplify:6bd763c5-8c6c-497c-bdee-cbad490fbbb5": "2026-07-22",
+  "simplify:6bd9b720-b688-4436-b0fe-a96710105de2": "2026-10-19",
   "simplify:6c1fb526-53c3-4b84-b3b9-f057092282c6": "2026-07-23",
   "simplify:6c22dfb2-8da9-4cd7-8660-2e803c5a8aab": "2026-07-23",
   "simplify:6c2d559a-c15a-44a8-83ca-b2334187426b": "2026-07-23",
@@ -3826,6 +3830,8 @@
   "amazon|software engineer i": "2026-10-14 amazon",
   "amazon|systems development engineer early career": "2026-10-17 simplify",
   "analog|associate software engineer": "2026-10-14 simplify",
+  "anduril|2027 early career supply chain engineer": "2026-10-19 greenhouse",
+  "anduril|2027 early career warhead engineer": "2026-10-19 greenhouse",
   "applied|software engineer 3": "2026-10-15 simplify",
   "arcfield|software engineer 1": "2026-10-15 simplify",
   "aveva|software developer graduate ai proficient": "2026-10-13 simplify",
@@ -3843,6 +3849,7 @@
   "check|software engineer": "2026-10-14 simplify",
   "choice|software engineer 1": "2026-10-16 simplify",
   "cisco|software engineer": "2026-10-16 simplify",
+  "citizens|software engineer 1": "2026-10-19 simplify",
   "clear|software development engineer 1": "2026-10-14 simplify",
   "costar|software engineer 1": "2026-10-16 simplify",
   "crown|systems engineer 1": "2026-10-12 simplify",
@@ -3899,6 +3906,7 @@
   "rtx|software engineer developer 1": "2026-10-14 simplify",
   "saic|software test engineer": "2026-10-16 simplify",
   "salesforce|software engineering amts college grad": "2026-10-14 workday",
+  "sallie|engineer 1": "2026-10-19 simplify",
   "sigma|software engineer": "2026-10-13 simplify",
   "signet|software engineer 1": "2026-10-14 simplify",
   "simventions|ai machine learning engineer rag pipeline development": "2026-10-14 simplify",
@@ -3920,5 +3928,5 @@
   "western|engineer 1": "2026-10-15 simplify",
   "wolverine|early career c software engineer": "2026-10-12 simplify"
  },
- "last_tier2_at": "2026-10-19T13:42:49+00:00"
+ "last_tier2_at": "2026-10-19T19:28:30+00:00"
 }
