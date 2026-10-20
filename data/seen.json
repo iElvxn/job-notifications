@@ -561,6 +561,7 @@
   "simplify:1530dfa5-7c83-434e-a46e-bead4069bdcd": "2026-07-22",
   "simplify:154cf85d-ed07-4a20-9730-3f260ba95a0f": "2026-08-16",
   "simplify:15516d2c-266f-4437-aa09-f737ed54939c": "2026-07-26",
+  "simplify:1583766b-60b6-44e5-b135-0ebadcdcaee0": "2026-10-20",
   "simplify:15ab606d-06a7-4c26-a9f0-13694d5b2e85": "2026-07-22",
   "simplify:15b8e425-7774-43c9-9a6b-93b969bef2a3": "2026-08-01",
   "simplify:1600d176-4eb0-4795-b869-f9ffced07431": "2026-07-22",
@@ -2605,6 +2606,7 @@
   "simplify:a8310416-f49f-453b-98ea-266bb88d01b4": "2026-07-22",
   "simplify:a834d8ef-f2c9-4d3f-a6c3-9776ee7123ca": "2026-07-22",
   "simplify:a84b5ca0-5e89-4893-97cb-4be5aead281c": "2026-08-15",
+  "simplify:a864bebf-e087-4574-860e-29229283a0fd": "2026-10-20",
   "simplify:a8969c6b-0534-4d5e-908a-45a01eb2a01c": "2026-07-22",
   "simplify:a8ad3e04-98f4-41c1-949d-f0ff017efa48": "2026-07-22",
   "simplify:a8b5504a-512d-4d60-8f56-678649f3b549": "2026-07-22",
@@ -3480,6 +3482,7 @@
   "simplify:e8cc1f0b-b9c4-4556-9174-cb286c1e23f3": "2026-07-22",
   "simplify:e8fdf80c-88b0-4c66-9bbf-304eb6907d8b": "2026-07-23",
   "simplify:e90bb9b3-2e96-47e0-80c1-169bb7a56849": "2026-09-08",
+  "simplify:e912cad0-0531-489d-9c62-88dae5a40170": "2026-10-20",
   "simplify:e920c61c-4e36-466e-91fb-f7e56b5192c2": "2026-07-22",
   "simplify:e9358a97-f8ce-46dd-aff0-ad02907f6d31": "2026-07-22",
   "simplify:e94f85d7-92f9-4b17-95c0-64c50f733b02": "2026-07-22",
@@ -3883,6 +3886,7 @@
   "costar|software engineer 1": "2026-10-16 simplify",
   "cvent|software engineer 1": "2026-10-14 simplify",
   "cvs|analyst software development engineer conversion": "2026-10-15 simplify",
+  "cvs|full stack engineer training program": "2026-10-20 simplify",
   "cwill|pop up email marketing r d trainee full stack engineer bilingual mandarin": "2026-10-13 simplify",
   "cwill|r d trainee full stack engineer backend": "2026-10-13 simplify",
   "dexcom|software development engineer 1": "2026-10-16 simplify",
@@ -3891,6 +3895,7 @@
   "electronic|software engineer 1": "2026-10-20 simplify",
   "faraday|sdk platform engineer": "2026-10-17 simplify",
   "fortinet|software development engineer": "2026-10-16 simplify",
+  "funnel|software engineer entry to mid level": "2026-10-20 simplify",
   "galatea|entry level financial software consultant": "2026-10-17 simplify",
   "hntb|geospatial systems developer 1": "2026-10-19 simplify",
   "hp|software applications engineer": "2026-10-20 simplify",
@@ -3907,6 +3912,7 @@
   "kyndryl|forward deployed engineer": "2026-10-13 simplify",
   "l3harris|associate software engineer": "2026-10-15 simplify",
   "luminai|forward deployed engineer new grad": "2026-10-15 simplify",
+  "magna|junior ai engineer": "2026-10-20 simplify",
   "mastercard|ai engineer 1 launch program": "2026-10-16 simplify",
   "micron|computer engineer new grad central engineering": "2026-10-15 simplify",
   "microsoft|software engineer": "2026-10-16 microsoft",
@@ -3953,5 +3959,5 @@
   "vtg|junior software engineer": "2026-10-18 simplify",
   "western|engineer 1": "2026-10-15 simplify"
  },
- "last_tier2_at": "2026-10-20T12:07:29+00:00"
+ "last_tier2_at": "2026-10-20T16:55:45+00:00"
 }
