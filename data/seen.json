@@ -550,6 +550,7 @@
   "simplify:14c0df8f-b9c8-4236-bca9-4a50f9f5f256": "2026-09-01",
   "simplify:14d06381-f4e2-4569-b52c-adddefb8627f": "2026-07-22",
   "simplify:14d68a82-73d3-450d-8f83-5e35e2c34cca": "2026-09-21",
+  "simplify:14dca508-6481-402d-a5d6-943f5efb9a58": "2026-10-20",
   "simplify:14e1d321-87e3-43d7-86b2-7826d4163a57": "2026-07-22",
   "simplify:14ef1e83-8c2e-4630-9ce6-257af68d24db": "2026-07-22",
   "simplify:14f15f8c-4d06-416b-ae40-d498a8e4b07c": "2026-07-22",
@@ -3894,6 +3895,7 @@
   "hntb|geospatial systems developer 1": "2026-10-19 simplify",
   "hp|software applications engineer": "2026-10-20 simplify",
   "huntington|software engineer 1": "2026-10-19 simplify",
+  "intel|cad eda tools software engineer": "2026-10-20 simplify",
   "intuit|software engineer 1": "2026-10-16 simplify",
   "jabil|ai and data solutions developer global supply chain": "2026-10-14 simplify",
   "johns|cybersecurity software engineer new grad cyber concepts": "2026-10-20 simplify",
@@ -3951,5 +3953,5 @@
   "vtg|junior software engineer": "2026-10-18 simplify",
   "western|engineer 1": "2026-10-15 simplify"
  },
- "last_tier2_at": "2026-10-20T06:34:07+00:00"
+ "last_tier2_at": "2026-10-20T12:07:29+00:00"
 }
