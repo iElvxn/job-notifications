@@ -3855,6 +3855,7 @@
   "workday/nvidia:JR2027337": "2026-10-12",
   "workday/nvidia:JR2027431": "2026-10-10",
   "workday/nvidia:JR2027552": "2026-10-14",
+  "workday/nvidia:JR2028237": "2026-10-21",
   "workday/nvidia:JR2028350": "2026-10-21",
   "workday/salesforce:JR330400": "2026-10-14",
   "workday/salesforce:JR334858": "2026-07-29",
@@ -3957,6 +3958,7 @@
   "northrop|associate software engineer pathways": "2026-10-16 simplify",
   "northrop|software engineer": "2026-10-16 simplify",
   "nvidia|developer technology engineer new college graduate 2027": "2026-10-14 workday",
+  "nvidia|high performance llm training engineer new college grad 2027": "2026-10-21 workday",
   "nvidia|soc software engineer new college grad 2027": "2026-10-14 workday",
   "nvidia|soc software engineer new college graduate 2026": "2026-10-14 workday",
   "nvidia|soc software engineer new grad": "2026-10-14 simplify",
@@ -3996,5 +3998,5 @@
   "western|engineer 1": "2026-10-15 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-21T17:24:23+00:00"
+ "last_tier2_at": "2026-10-21T20:43:25+00:00"
 }
