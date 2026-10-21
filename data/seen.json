@@ -823,6 +823,7 @@
   "simplify:269848d0-7a8d-45ef-8519-06340de9f7fc": "2026-07-22",
   "simplify:26c69754-b42a-4afd-807e-41e2dfe8b206": "2026-10-09",
   "simplify:26c7ab03-9323-42e2-aa15-b1e39a9530b1": "2026-07-22",
+  "simplify:26d84509-a16b-4556-99f7-18329fa61191": "2026-10-21",
   "simplify:26f3c78f-dda8-42c5-95af-0b4294303214": "2026-08-07",
   "simplify:26fe63da-ab35-4c3c-a2fb-9c2d3c58a726": "2026-07-22",
   "simplify:27128bd1-9b1b-4cf4-96f8-b1585bb7b987": "2026-07-22",
@@ -1930,6 +1931,7 @@
   "simplify:76174b12-915d-4e52-89b3-df3db4eca70d": "2026-09-01",
   "simplify:7625e8e7-c2d7-45f5-b371-6e0940672f53": "2026-07-31",
   "simplify:7650ccc7-1f1d-4681-a5e1-ec914f2123f1": "2026-07-22",
+  "simplify:7654bad4-ebff-466a-bd2d-63a5d167ba11": "2026-10-21",
   "simplify:7656aad8-a423-4e16-bb7e-5b487532457f": "2026-08-03",
   "simplify:7663017a-6036-4a9f-997c-0db0dd562328": "2026-09-04",
   "simplify:7664cd86-6c33-4b8e-9a6b-09632c6b3cfa": "2026-07-22",
@@ -2357,6 +2359,7 @@
   "simplify:962f1bfd-70ba-4217-a32b-3e4ff0200101": "2026-09-10",
   "simplify:96453d18-731d-4613-bb72-8b197bfbbcdb": "2026-09-22",
   "simplify:9664e751-69df-4d20-a616-be872d05faf1": "2026-07-22",
+  "simplify:96705002-95d7-4a17-8292-87bbaea60a95": "2026-10-21",
   "simplify:9682b9f6-49b4-4232-b676-470ac9b9e96f": "2026-10-19",
   "simplify:96951771-a874-48c9-8e96-2512f1ad2c48": "2026-07-22",
   "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3": "2026-10-10",
@@ -3265,6 +3268,7 @@
   "simplify:d822056b-4f51-4414-b019-feaa401e5dc6": "2026-07-22",
   "simplify:d823046b-2af3-4895-929e-d93c666bb7e9": "2026-07-22",
   "simplify:d826e4b9-2dc1-49fa-881e-cd8795539e03": "2026-07-22",
+  "simplify:d848615a-0d50-478c-a92e-2dda9489542c": "2026-10-21",
   "simplify:d84c25e4-c5e3-470f-ad8d-f37b18a2020a": "2026-07-22",
   "simplify:d85c0e1f-47bb-4555-bfe1-6b3d9809e7c2": "2026-07-22",
   "simplify:d863f3ab-0c48-41f5-bc64-bc833eff1b1e": "2026-07-22",
@@ -3874,6 +3878,7 @@
   "affirm|software engineer i fullstack search": "2026-10-15 greenhouse",
   "akamai|software engineer": "2026-10-19 simplify",
   "all|application developer": "2026-10-20 simplify",
+  "amazon|software development engineer 1 ai ml network infrastructure": "2026-10-21 simplify",
   "amazon|software development engineer early career 2027 us": "2026-10-19 amazon",
   "amazon|software development engineer i ai ml network infrastructure annapurna labs": "2026-10-21 amazon",
   "amazon|software engineer early career": "2026-10-20 simplify",
@@ -3895,6 +3900,8 @@
   "boeing|entry level flight simulation software engineer": "2026-10-14 simplify",
   "book|associate product engineer": "2026-10-16 simplify",
   "booz|software engineer mid": "2026-10-15 simplify",
+  "brain|ai platform engineer new grad": "2026-10-21 simplify",
+  "brain|ai product engineer new grad": "2026-10-21 simplify",
   "brown|software engineer": "2026-10-16 simplify",
   "c3|forward deployed engineer new grad federal": "2026-10-20 simplify",
   "check|software engineer": "2026-10-14 simplify",
@@ -3947,6 +3954,7 @@
   "nvidia|soc software engineer new college graduate 2026": "2026-10-14 workday",
   "nvidia|soc software engineer new grad": "2026-10-14 simplify",
   "nvidia|software engineer agent performance modeling new college grad 2026": "2026-10-21 workday",
+  "nvidia|software engineer new grad agent performance modeling": "2026-10-21 simplify",
   "pacific|early career software engineer": "2026-10-14 simplify",
   "palantir|software engineer new grad query engines": "2026-10-20 lever",
   "planview|software engineer 1": "2026-10-16 simplify",
@@ -3978,5 +3986,5 @@
   "western|engineer 1": "2026-10-15 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-21T01:30:33+00:00"
+ "last_tier2_at": "2026-10-21T06:32:36+00:00"
 }
