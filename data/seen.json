@@ -3618,6 +3618,7 @@
   "simplify:f069fafb-ce10-4a57-ad75-490ec5dd3b38": "2026-08-20",
   "simplify:f07c781c-3f76-44c2-ad53-fbefb9ca1fd1": "2026-08-12",
   "simplify:f0865c39-c2d0-4de6-9758-7218853be989": "2026-07-22",
+  "simplify:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8": "2026-10-22",
   "simplify:f0b8e23b-2ade-4c11-b110-06b6d18f1043": "2026-08-10",
   "simplify:f0c09f25-6461-4b5e-8bce-950aa917c086": "2026-07-22",
   "simplify:f0d91c80-6a29-46d4-bfb7-ad3fb4918547": "2026-08-07",
@@ -3898,7 +3899,7 @@
   "akamai|software engineer": "2026-10-19 simplify",
   "akamai|software engineer 1": "2026-10-21 simplify",
   "all|application developer": "2026-10-20 simplify",
-  "amazon|software development engineer 1 ai ml network infrastructure": "2026-10-21 simplify",
+  "amazon|software development engineer 1 ai ml network infrastructure": "2026-10-22 simplify",
   "amazon|software development engineer early career 2027 us": "2026-10-19 amazon",
   "amazon|software development engineer i ai ml network infrastructure annapurna labs": "2026-10-21 amazon",
   "amazon|software engineer early career": "2026-10-20 simplify",
@@ -3995,5 +3996,5 @@
   "western|engineer 1": "2026-10-15 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-22T01:49:06+00:00"
+ "last_tier2_at": "2026-10-22T06:42:22+00:00"
 }
