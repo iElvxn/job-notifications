@@ -1404,6 +1404,7 @@
   "simplify:51c44ec8-40a2-4c31-b595-8906166e845a": "2026-08-26",
   "simplify:51ca28a3-5501-448a-a399-6a1d14a4fcda": "2026-07-22",
   "simplify:51dc8f47-d346-4272-93b2-7f2c2644530e": "2026-07-22",
+  "simplify:520038e7-bfdd-42f9-aa50-aac4b5ab037d": "2026-10-23",
   "simplify:52083bf3-06b8-477f-bfd1-7d690058e3f6": "2026-09-01",
   "simplify:520857cc-c405-4d92-892b-d0074625e1f7": "2026-09-02",
   "simplify:5213f441-13c0-44bc-b8b9-3aa1d5e0a19b": "2026-10-14",
@@ -1735,6 +1736,7 @@
   "simplify:6746badb-f5ea-4fd3-baed-e0355ea5cfd5": "2026-07-22",
   "simplify:674e67ef-7ad8-486e-9f4c-f82c982d003c": "2026-08-04",
   "simplify:6753e83e-b85a-4ab7-9211-95f03794a58c": "2026-10-04",
+  "simplify:6758a87a-3390-4a31-aedb-02d2e64ed054": "2026-10-23",
   "simplify:6765f939-ce0a-421f-9d29-884dc3fe84a0": "2026-09-11",
   "simplify:677e8f2d-1a4c-4b80-b630-cc24cd4ff3df": "2026-09-24",
   "simplify:678077f9-ae48-457f-8a21-5b51072d2d48": "2026-08-02",
@@ -1753,6 +1755,7 @@
   "simplify:68797743-f70f-4505-beb0-26014dc59941": "2026-09-16",
   "simplify:688f2ebb-1fef-4424-a9f4-04a953688db8": "2026-09-30",
   "simplify:68a6a4dc-3fdb-4b12-83f1-c98c75b2761c": "2026-07-22",
+  "simplify:68a8db52-bc77-4d26-a755-f80315884f5f": "2026-10-23",
   "simplify:68c78410-3863-4c7d-a9bb-a1e5f65fca6f": "2026-07-22",
   "simplify:68c9c709-6701-42c1-b4a1-7dc087873405": "2026-07-22",
   "simplify:68e4bba0-a727-469b-85b3-b908918f535a": "2026-10-22",
@@ -4004,7 +4007,7 @@
   "rtx|software engineer 1": "2026-10-21 simplify",
   "rtx|software engineer 1 core services and libraries": "2026-10-20 simplify",
   "rtx|software engineer 1 embedded linux": "2026-10-20 simplify",
-  "rtx|software engineer 2": "2026-10-22 simplify",
+  "rtx|software engineer 2": "2026-10-23 simplify",
   "saic|software test engineer": "2026-10-20 simplify",
   "salesforce|software engineering mts": "2026-10-22 workday",
   "sallie|engineer 1": "2026-10-19 simplify",
@@ -4014,9 +4017,11 @@
   "storable|software development engineer": "2026-10-21 simplify",
   "twitch|software engineer 1": "2026-10-21 simplify",
   "t|associate engineer software mobile app development": "2026-10-16 simplify",
+  "t|associate software engineer": "2026-10-23 simplify",
+  "visa|software engineer": "2026-10-23 simplify",
   "vizient|associate software engineer": "2026-10-21 simplify",
   "vtg|junior software engineer": "2026-10-18 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-23T12:03:55+00:00"
+ "last_tier2_at": "2026-10-23T16:59:58+00:00"
 }
