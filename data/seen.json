@@ -3648,6 +3648,7 @@
   "simplify:ef9e0f33-1078-45dc-b96b-17e6dca86073": "2026-07-22",
   "simplify:efdc29ac-3896-4cea-8dfa-2a4eb0e9929d": "2026-07-22",
   "simplify:efdc72ea-9ac5-43e5-b3e6-31dbf215e470": "2026-07-22",
+  "simplify:eff6e46f-68bb-46cd-b491-ae901b415a6d": "2026-10-24",
   "simplify:f0161280-5965-4a82-b8b7-c465d64b4914": "2026-07-22",
   "simplify:f0167483-73bf-4867-a155-e00aea256b68": "2026-07-22",
   "simplify:f023b068-443c-4a3f-a999-a2a15a39b368": "2026-07-22",
@@ -4018,6 +4019,7 @@
   "pultegroup|associate developer": "2026-10-20 simplify",
   "quora|full stack software engineer new grad": "2026-10-20 simplify",
   "rhoda|software engineer rhoda platform": "2026-10-21 simplify",
+  "rtx|engineer 1 software engineer test engineering": "2026-10-24 simplify",
   "rtx|software engineer 1": "2026-10-21 simplify",
   "rtx|software engineer 1 core services and libraries": "2026-10-20 simplify",
   "rtx|software engineer 1 embedded linux": "2026-10-20 simplify",
@@ -4039,5 +4041,5 @@
   "vtg|junior software engineer": "2026-10-18 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-24T11:20:06+00:00"
+ "last_tier2_at": "2026-10-24T14:40:25+00:00"
 }
