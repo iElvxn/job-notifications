@@ -445,6 +445,7 @@
   "simplify:0a4c4cde-1d9b-48c5-8918-3a0f171d4fe8": "2026-07-22",
   "simplify:0a4cd2e5-65b4-4298-ab71-d0c7705a376c": "2026-10-19",
   "simplify:0a4ddd3e-fd39-4c8e-b938-939631cad5df": "2026-07-22",
+  "simplify:0a84a020-20f0-4f81-904e-c3582b0d20f0": "2026-10-24",
   "simplify:0a9be08c-daa1-47fd-aa7a-7fe64c9ec828": "2026-07-22",
   "simplify:0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2": "2026-10-20",
   "simplify:0ac59efb-a60a-487e-ae88-72d4b34fac13": "2026-08-18",
@@ -2101,6 +2102,7 @@
   "simplify:80ed1f87-b2ee-49df-bc46-c9a78897a5ad": "2026-07-22",
   "simplify:8121dc2e-ce22-45e4-a3d0-1e4b4abc83ee": "2026-08-18",
   "simplify:81239222-d1e3-44a1-931c-13a88effe13b": "2026-07-22",
+  "simplify:8135261f-ace0-4f34-9e6a-7a979e430526": "2026-10-24",
   "simplify:81410c86-5eab-481e-b83a-d9aef5ae21a3": "2026-07-22",
   "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f": "2026-10-20",
   "simplify:81476e53-2803-426e-8021-2bcd1ad52184": "2026-07-28",
@@ -2612,6 +2614,7 @@
   "simplify:a4eaef17-c8b2-452e-a5e6-65c81405e419": "2026-07-22",
   "simplify:a4f0ad06-c1ae-46ac-b9ae-cb9d2eefc001": "2026-09-16",
   "simplify:a4f1f1ef-5c02-4610-b206-1791f99b714e": "2026-07-22",
+  "simplify:a509cc99-b862-4bd9-8c30-49393b371170": "2026-10-24",
   "simplify:a50a37d7-38a8-4a25-9de8-9744a0ac5f89": "2026-07-22",
   "simplify:a5205150-c68d-4b65-b961-cd54d104ac76": "2026-09-10",
   "simplify:a5436b84-33a5-41fc-91cd-78012456a7cc": "2026-07-22",
@@ -3956,12 +3959,13 @@
   "autostore|software engineer": "2026-10-22 simplify",
   "blockhouse|rl environments engineer": "2026-10-20 simplify",
   "blue|software developer": "2026-10-23 simplify",
-  "boeing|entry level software engineer": "2026-10-23 simplify",
+  "boeing|entry level software engineer": "2026-10-24 simplify",
   "booz|software developer": "2026-10-22 simplify",
   "booz|systems engineer": "2026-10-22 simplify",
   "brain|ai platform engineer new grad": "2026-10-21 simplify",
   "brain|ai product engineer new grad": "2026-10-21 simplify",
   "c3|forward deployed engineer new grad federal": "2026-10-20 simplify",
+  "carvana|software engineering": "2026-10-24 simplify",
   "cdk|associate software engineer": "2026-10-22 simplify",
   "chewy|software engineer 1": "2026-10-21 simplify",
   "citizens|software engineer 1": "2026-10-19 simplify",
@@ -3997,6 +4001,7 @@
   "mach9|software engineer 3d graphics": "2026-10-21 simplify",
   "magna|junior ai engineer": "2026-10-20 simplify",
   "meijer|software engineer 1 ai": "2026-10-23 simplify",
+  "mercury|frontend engineer design systems": "2026-10-24 simplify",
   "microsoft|software engineer": "2026-10-23 microsoft",
   "microsoft|software engineering ic2": "2026-10-23 microsoft",
   "motorola|android applications developer": "2026-10-23 simplify",
@@ -4034,5 +4039,5 @@
   "vtg|junior software engineer": "2026-10-18 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-24T01:32:04+00:00"
+ "last_tier2_at": "2026-10-24T06:25:52+00:00"
 }
