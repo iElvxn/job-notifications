@@ -140,6 +140,7 @@
   "greenhouse/andurilindustries:5268564007": "2026-10-19",
   "greenhouse/andurilindustries:5268704007": "2026-10-19",
   "greenhouse/andurilindustries:5269789007": "2026-10-23",
+  "greenhouse/andurilindustries:5275431007": "2026-10-26",
   "greenhouse/aurorainnovation:8159549002": "2026-07-23",
   "greenhouse/aurorainnovation:8628066002": "2026-07-23",
   "greenhouse/doordashusa:7263610": "2026-07-22",
@@ -301,6 +302,7 @@
   "microsoft:1970393557022487": "2026-10-06",
   "microsoft:1970393557022926": "2026-10-08",
   "microsoft:1970393557023170": "2026-10-12",
+  "microsoft:1970393557025694": "2026-10-26",
   "microsoft:1970393557026652": "2026-10-15",
   "microsoft:1970393557027406": "2026-10-17",
   "microsoft:1970393557027422": "2026-10-09",
@@ -3951,6 +3953,7 @@
   "anduril|2027 early career supply chain engineer": "2026-10-19 greenhouse",
   "anduril|2027 early career warhead engineer": "2026-10-19 greenhouse",
   "anduril|2027 new grad low observables engineer": "2026-10-23 greenhouse",
+  "anduril|early career software engineer battlespace awareness": "2026-10-26 greenhouse",
   "apple|software engineer": "2026-10-23 simplify",
   "apple|software engineer is t": "2026-10-20 simplify",
   "applied|ai engineer application development": "2026-10-23 simplify",
@@ -4003,6 +4006,7 @@
   "meijer|software engineer 1 ai": "2026-10-23 simplify",
   "mercury|frontend engineer design systems": "2026-10-24 simplify",
   "microsoft|software engineer": "2026-10-23 microsoft",
+  "microsoft|software engineer ctj poly": "2026-10-26 microsoft",
   "microsoft|software engineering ic2": "2026-10-23 microsoft",
   "motorola|android applications developer": "2026-10-23 simplify",
   "ncr|software engineer 1": "2026-10-21 simplify",
@@ -4039,5 +4043,5 @@
   "vizient|associate software engineer": "2026-10-21 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-26T17:18:32+00:00"
+ "last_tier2_at": "2026-10-26T21:42:14+00:00"
 }
