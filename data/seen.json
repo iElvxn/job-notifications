@@ -143,6 +143,8 @@
   "greenhouse/andurilindustries:5275431007": "2026-10-26",
   "greenhouse/aurorainnovation:8159549002": "2026-07-23",
   "greenhouse/aurorainnovation:8628066002": "2026-07-23",
+  "greenhouse/databricks:6865698002": "2026-10-27",
+  "greenhouse/databricks:6865704002": "2026-10-27",
   "greenhouse/doordashusa:7263610": "2026-07-22",
   "greenhouse/doordashusa:8163709": "2026-09-04",
   "greenhouse/fiveringsllc:4017982008": "2026-07-23",
@@ -3998,6 +4000,8 @@
   "cvs|associate ai engineer conversion": "2026-10-22 simplify",
   "cvs|full stack engineer training program": "2026-10-20 simplify",
   "cvs|software development engineer conversion": "2026-10-20 simplify",
+  "databricks|software engineer new grad 2027 start": "2026-10-27 greenhouse",
+  "databricks|software engineer new grad distributed data systems 2027 start": "2026-10-27 greenhouse",
   "draftkings|software engineer": "2026-10-21 simplify",
   "electronic|software engineer 1": "2026-10-20 simplify",
   "etsy|software engineer 1 marketplace makers": "2026-10-21 simplify",
@@ -4066,5 +4070,5 @@
   "vizient|associate software engineer": "2026-10-21 simplify",
   "zebra|software engineer": "2026-10-20 simplify"
  },
- "last_tier2_at": "2026-10-27T16:12:59+00:00"
+ "last_tier2_at": "2026-10-27T20:40:59+00:00"
 }
