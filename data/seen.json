@@ -725,6 +725,7 @@
   "simplify:1e93719f-be56-4b80-ade4-8960827c0469": "2026-07-22",
   "simplify:1ec1ac3b-fbaa-46db-b0e9-7cef01e932e9": "2026-10-09",
   "simplify:1edb8a08-d47d-49e1-aec0-0e98e3c17e05": "2026-07-22",
+  "simplify:1edcd461-c4f7-41b5-99da-49416607380e": "2026-10-29",
   "simplify:1f07993a-5e6f-4e09-8236-942da5e6d9e3": "2026-10-27",
   "simplify:1f2e1b58-5b27-4f5a-8096-df61f24a3aaf": "2026-09-03",
   "simplify:1f2f92ef-4765-4730-b29c-a7f5dff8437a": "2026-09-30",
@@ -1246,6 +1247,7 @@
   "simplify:43cac478-76b4-4968-9ede-e3293fd02c28": "2026-08-04",
   "simplify:43cec23f-151f-42b8-b94c-23b40da351c5": "2026-09-29",
   "simplify:43fc9d48-8060-4be6-a811-17fa6c4fa615": "2026-08-27",
+  "simplify:4410c5c1-b6aa-4a86-af4c-c5ea5ee6b824": "2026-10-29",
   "simplify:44204253-7c75-428c-a016-dd46d0bf229d": "2026-07-22",
   "simplify:4430d739-ddf1-4b1c-966a-d5e29f89a980": "2026-10-02",
   "simplify:4443770a-eb73-498d-9946-6976c5cd5984": "2026-07-22",
@@ -3985,6 +3987,7 @@
   "workday/nvidia:JR2027552": "2026-10-14",
   "workday/nvidia:JR2028237": "2026-10-21",
   "workday/nvidia:JR2028350": "2026-10-21",
+  "workday/salesforce:JR307116": "2026-10-29",
   "workday/salesforce:JR330400": "2026-10-14",
   "workday/salesforce:JR334858": "2026-07-29",
   "workday/salesforce:JR340716": "2026-07-25",
@@ -4050,6 +4053,7 @@
   "ge|ai engineer new grad": "2026-10-27 simplify",
   "glean|software engineer": "2026-10-29 simplify",
   "guidehouse|technical associate application developer": "2026-10-23 simplify",
+  "hearst|ai newsroom developer fellow": "2026-10-29 simplify",
   "hntb|software engineer 1 new grad": "2026-10-27 simplify",
   "intel|compiler engineer for ai dsls": "2026-10-29 simplify",
   "lawrence|data visualization software engineer": "2026-10-27 simplify",
@@ -4075,10 +4079,12 @@
   "palantir|forward deployed software engineer new grad": "2026-10-22 simplify",
   "palantir|forward deployed software engineer new grad warp speed": "2026-10-22 lever",
   "priceline|junior software engineer front end": "2026-10-29 simplify",
+  "pure|ios ui engineer": "2026-10-29 simplify",
   "rainfocus|junior ui developer": "2026-10-27 simplify",
   "rtx|engineer 1 software engineer test engineering": "2026-10-24 simplify",
   "rtx|software engineer 2": "2026-10-27 simplify",
   "rubrik|software engineer entra id": "2026-10-29 simplify",
+  "salesforce|software engineering amts": "2026-10-29 workday",
   "salesforce|software engineering mts": "2026-10-22 workday",
   "sambanova|compiler engineer new grad": "2026-10-27 simplify",
   "sambanova|ml infrastructure engineer new grad": "2026-10-27 simplify",
@@ -4100,5 +4106,5 @@
   "u|software engineer 1 python": "2026-10-23 simplify",
   "visa|software engineer": "2026-10-23 simplify"
  },
- "last_tier2_at": "2026-10-29T01:04:34+00:00"
+ "last_tier2_at": "2026-10-29T07:00:02+00:00"
 }
