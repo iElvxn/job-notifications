@@ -1938,6 +1938,7 @@
   "simplify:72985476-1779-4c98-b2ad-be7924937896": "2026-08-19",
   "simplify:72a32a13-b44c-41dd-888b-9e2622f4fade": "2026-10-14",
   "simplify:72ad42ac-5813-49d3-9be4-1a0eec0b481a": "2026-07-22",
+  "simplify:72b18e7d-621d-41bb-8752-697fd3edb89d": "2026-10-29",
   "simplify:72d0319a-682a-47d0-b6d8-19168039b6f4": "2026-07-22",
   "simplify:72d39aa8-4e41-4461-b86b-7aa17e2f4da1": "2026-07-22",
   "simplify:72d55dcb-e320-4394-ba68-2a4ea45c18f3": "2026-07-29",
@@ -2393,6 +2394,7 @@
   "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e": "2026-07-22",
   "simplify:9288d3f9-b0e5-4d21-8dd2-6910da83436f": "2026-10-27",
   "simplify:929cfe45-2ac9-4d39-80b3-b3fa750e2ceb": "2026-08-20",
+  "simplify:92bf3646-4a8c-41d1-b24c-c18e53318dfd": "2026-10-29",
   "simplify:92dbb10e-7ec8-4b64-9dd9-a1521850b0db": "2026-09-16",
   "simplify:92e26ac8-dfc6-42c8-867f-6c96fb1a9e63": "2026-08-27",
   "simplify:92ed232b-c9f2-451b-b0ce-31ae57ae6118": "2026-10-28",
@@ -3892,6 +3894,7 @@
   "simplify:fca9f7d1-58c5-4539-bb95-b96780683edb": "2026-07-22",
   "simplify:fcba025b-7ee1-430b-9e21-9d26659e462c": "2026-09-16",
   "simplify:fccfbc48-e092-43f4-9a9e-59bb88ed801d": "2026-07-22",
+  "simplify:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6": "2026-10-29",
   "simplify:fcf451cc-c3d6-4cbf-ad77-d000a660390e": "2026-09-10",
   "simplify:fd03da5a-a70b-427f-a6de-180422cf49a8": "2026-07-22",
   "simplify:fd11a598-750e-41c2-a06d-7ff0ae10fe31": "2026-09-11",
@@ -4056,6 +4059,7 @@
   "hearst|ai newsroom developer fellow": "2026-10-29 simplify",
   "hntb|software engineer 1 new grad": "2026-10-27 simplify",
   "intel|compiler engineer for ai dsls": "2026-10-29 simplify",
+  "kla|system software engineer distributed computing": "2026-10-29 simplify",
   "lawrence|data visualization software engineer": "2026-10-27 simplify",
   "leidos|junior software engineer": "2026-10-28 simplify",
   "lumaril|engineer generalist": "2026-10-28 simplify",
@@ -4084,6 +4088,7 @@
   "rtx|engineer 1 software engineer test engineering": "2026-10-24 simplify",
   "rtx|software engineer 2": "2026-10-27 simplify",
   "rubrik|software engineer entra id": "2026-10-29 simplify",
+  "salesforce|software engineer new grad": "2026-10-29 simplify",
   "salesforce|software engineering amts": "2026-10-29 workday",
   "salesforce|software engineering mts": "2026-10-22 workday",
   "sambanova|compiler engineer new grad": "2026-10-27 simplify",
@@ -4106,5 +4111,5 @@
   "u|software engineer 1 python": "2026-10-23 simplify",
   "visa|software engineer": "2026-10-23 simplify"
  },
- "last_tier2_at": "2026-10-29T07:00:02+00:00"
+ "last_tier2_at": "2026-10-29T13:57:09+00:00"
 }
