@@ -810,6 +810,7 @@
   "simplify:23c417dd-4a2d-4c26-a7d1-380d2a7f24fe": "2026-10-22",
   "simplify:23e33f26-3a42-4fb5-9910-93c79b50e859": "2026-07-22",
   "simplify:23e3ed13-41f7-4c8c-a7d9-7a33e6a92987": "2026-10-21",
+  "simplify:23eb3ce6-e1fc-472c-a546-e4b2a19212cd": "2026-10-30",
   "simplify:240aec7f-4292-4146-b546-08c1b4d6430f": "2026-08-29",
   "simplify:241beb5c-7e35-4106-b8ba-ca9fe68b225a": "2026-07-23",
   "simplify:242213e9-bbe0-4913-a052-26f570d8359a": "2026-07-22",
@@ -4161,9 +4162,10 @@
   "t|associate software engineer billing platform": "2026-10-27 simplify",
   "usaa|software engineer": "2026-10-28 simplify",
   "u|software engineer 1 python": "2026-10-23 simplify",
+  "verizon|engineer 1 systems engineering generative ai agentic systems": "2026-10-30 simplify",
   "visa|software engineer": "2026-10-23 simplify",
   "waggoner|software engineer": "2026-10-29 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-10-30T02:42:42+00:00"
+ "last_tier2_at": "2026-10-30T08:58:49+00:00"
 }
