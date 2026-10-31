@@ -3486,6 +3486,7 @@
   "simplify:dc53bf27-8562-4b15-bb8a-5c712b61d498": "2026-08-03",
   "simplify:dc6217c1-230d-4b6d-9ec6-781741754f2e": "2026-07-31",
   "simplify:dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9": "2026-08-24",
+  "simplify:dc6e6af1-c573-4952-aef5-9791f94fcd44": "2026-10-31",
   "simplify:dc78ae5b-1e53-4193-9e47-0549b350dd79": "2026-07-31",
   "simplify:dc8cd8dc-3c3b-409c-9320-6db0956ea02c": "2026-07-22",
   "simplify:dc97139d-fa2b-4aa2-8621-a1924dcbdb75": "2026-07-22",
@@ -4122,7 +4123,7 @@
   "motorola|software engineer java python": "2026-10-29 simplify",
   "nordstrom|engineer 1 pos": "2026-10-27 simplify",
   "northrop|associate cyber software engineer pathways program": "2026-10-29 simplify",
-  "northrop|associate software engineer": "2026-10-27 simplify",
+  "northrop|associate software engineer": "2026-10-31 simplify",
   "northrop|associate software engineer pathways program": "2026-10-29 simplify",
   "northrop|associate software engineer software engineer": "2026-10-28 simplify",
   "northrop|software engineer": "2026-10-28 simplify",
@@ -4170,5 +4171,5 @@
   "waggoner|software engineer": "2026-10-29 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-10-31T08:52:05+00:00"
+ "last_tier2_at": "2026-10-31T14:51:46+00:00"
 }
