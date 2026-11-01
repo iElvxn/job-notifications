@@ -416,6 +416,7 @@
   "simplify:0750f5ca-d84f-422e-a917-baccdf94d7b1": "2026-10-08",
   "simplify:075cb7e8-d845-460b-8465-3af3ab30f11b": "2026-09-18",
   "simplify:076d29c9-8b56-4cfc-8845-bf6bc453ef63": "2026-07-22",
+  "simplify:076e4d7b-c105-4b49-866b-5ac1f12ec7b3": "2026-11-01",
   "simplify:07705204-70be-436b-85af-c48fd1f5e63d": "2026-10-09",
   "simplify:07bd103c-1d70-4013-a353-134890eb3530": "2026-08-27",
   "simplify:07e7fea1-823f-4ae9-8e91-d6dc1fec8961": "2026-07-22",
@@ -1697,6 +1698,7 @@
   "simplify:61c0c8df-1076-44d6-987e-3b5e536c6e12": "2026-07-23",
   "simplify:61ccd754-cb5e-4e52-8a9e-fa2e607a4fd5": "2026-07-22",
   "simplify:61d8dbf2-2c1b-470c-bef4-1a13de37e583": "2026-08-03",
+  "simplify:61e56b29-9b9f-481a-926e-c653983f3ff8": "2026-11-01",
   "simplify:6203f891-9874-4b06-9079-4a95178007dc": "2026-08-04",
   "simplify:62062c60-b51b-42e1-ad42-76f03297fcb6": "2026-09-12",
   "simplify:6219210e-e390-4c2e-a436-58559bdccd22": "2026-07-22",
@@ -4104,6 +4106,7 @@
   "glean|software engineer": "2026-10-29 simplify",
   "hearst|ai newsroom developer fellow": "2026-10-29 simplify",
   "hntb|software engineer 1 new grad": "2026-10-27 simplify",
+  "huntington|software engineer 1": "2026-11-01 simplify",
   "intelliforce|junior software engineer prime": "2026-10-29 simplify",
   "intel|compiler engineer for ai dsls": "2026-10-29 simplify",
   "intel|software application development engineer new grad": "2026-10-30 simplify",
@@ -4121,7 +4124,7 @@
   "motorola|software engineer java python": "2026-10-29 simplify",
   "nordstrom|engineer 1 pos": "2026-10-27 simplify",
   "northrop|associate cyber software engineer pathways program": "2026-10-29 simplify",
-  "northrop|associate software engineer": "2026-10-31 simplify",
+  "northrop|associate software engineer": "2026-11-01 simplify",
   "northrop|associate software engineer pathways program": "2026-10-29 simplify",
   "northrop|associate software engineer software engineer": "2026-10-28 simplify",
   "northrop|software engineer": "2026-10-28 simplify",
@@ -4168,5 +4171,5 @@
   "waggoner|software engineer": "2026-10-29 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-11-01T06:48:46+00:00"
+ "last_tier2_at": "2026-11-01T13:52:12+00:00"
 }
