@@ -756,6 +756,7 @@
   "simplify:1fc8df79-d47d-4ab3-a745-920d0f302bdc": "2026-07-22",
   "simplify:1fceed24-f2fd-41af-83d8-5c7114574435": "2026-07-22",
   "simplify:1fecff90-462a-4ac7-870f-56914da0438a": "2026-07-22",
+  "simplify:1ffcff00-a92b-4393-850a-1accadb25edc": "2026-11-02",
   "simplify:20080998-6e06-4a67-a507-2e2f610642ac": "2026-07-22",
   "simplify:2008e979-6d81-4fe7-9be3-e05bce3c0990": "2026-07-22",
   "simplify:2053c593-1305-4042-a320-4a22dd690ec4": "2026-10-02",
@@ -4137,6 +4138,7 @@
   "nvidia|pcb design eda and ai engineer new college graduate 2027": "2026-10-30 workday",
   "oxbridge|ai engineer": "2026-10-28 simplify",
   "pacific|software engineer 1": "2026-10-27 simplify",
+  "pennsylvania|software engineer": "2026-11-02 simplify",
   "priceline|junior software engineer front end": "2026-10-29 simplify",
   "pure|ios ui engineer": "2026-10-29 simplify",
   "rainfocus|junior ui developer": "2026-10-27 simplify",
@@ -4177,5 +4179,5 @@
   "waggoner|software engineer": "2026-10-29 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-11-02T08:14:31+00:00"
+ "last_tier2_at": "2026-11-02T18:20:50+00:00"
 }
