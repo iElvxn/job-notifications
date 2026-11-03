@@ -109,6 +109,7 @@
   "amazon:10583340": "2026-10-19",
   "amazon:10584797": "2026-10-21",
   "amazon:10593902": "2026-10-30",
+  "amazon:10595839": "2026-11-03",
   "ashby/cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b": "2026-09-10",
   "ashby/harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": "2026-10-02",
   "ashby/harvey:b0996df6-6b6e-42be-a4f9-0084536068f5": "2026-10-02",
@@ -3945,6 +3946,7 @@
   "simplify:fad9be14-9d62-46ad-bf50-c787ed3b48d5": "2026-08-10",
   "simplify:fb0623ca-1ed7-4273-adcc-dda455705721": "2026-08-12",
   "simplify:fb111552-e548-480f-9cff-4c13c1f67d69": "2026-09-03",
+  "simplify:fb29fcfc-780f-4938-b6c8-9d73ba45b207": "2026-11-03",
   "simplify:fb32d8c1-90d9-4e21-85fa-e0b10b5d15a5": "2026-08-07",
   "simplify:fb36b1cc-b7db-4245-b995-01063045a9f2": "2026-07-22",
   "simplify:fb5917ce-bd82-47ef-85e5-deb003001c61": "2026-07-22",
@@ -4090,6 +4092,7 @@
   "amazon|software development engineer": "2026-10-29 simplify",
   "amazon|software development engineer database": "2026-10-30 simplify",
   "amazon|software development engineer database early career 2027 us": "2026-10-30 amazon",
+  "amazon|software development engineer embedded systems early career 2027 us": "2026-11-03 amazon",
   "amazon|software privacy engineer multiple teams": "2026-10-29 simplify",
   "amd|distributed systems software engineer collectives": "2026-10-29 simplify",
   "amentum|entry level software engineer": "2026-10-27 simplify",
@@ -4174,6 +4177,7 @@
   "raydar|full stack engineer": "2026-10-29 simplify",
   "raydar|full stack software engineer": "2026-10-29 simplify",
   "raydar|product engineer": "2026-10-29 simplify",
+  "rtx|leadership development program engineering software discipline": "2026-11-03 simplify",
   "rtx|software engineer 1": "2026-10-29 simplify",
   "rtx|software engineer 2": "2026-10-27 simplify",
   "rubrik|software engineer entra id": "2026-10-29 simplify",
@@ -4202,5 +4206,5 @@
   "waggoner|software engineer": "2026-10-29 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-11-03T15:31:08+00:00"
+ "last_tier2_at": "2026-11-03T21:14:20+00:00"
 }
