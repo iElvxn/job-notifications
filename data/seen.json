@@ -776,6 +776,7 @@
   "simplify:214e7a90-9cec-4928-a2ba-cbb8931aeb79": "2026-10-06",
   "simplify:217fe233-6af8-4cdd-aeaf-5380d0ca183d": "2026-07-22",
   "simplify:2184ba51-9029-4b0d-956c-e66d880ffe74": "2026-07-22",
+  "simplify:2188ec4a-987f-4736-b3c9-2173a826ad74": "2026-11-04",
   "simplify:21891d00-3597-4abe-b856-02cb924e0f6c": "2026-07-29",
   "simplify:2189cc14-cc40-48f0-bc91-3b649e11fec9": "2026-08-28",
   "simplify:218ed5a9-b0c2-4de1-a692-7c2c9a16e0fb": "2026-09-14",
@@ -3029,6 +3030,7 @@
   "simplify:b989c0d7-19f2-4acd-8837-402a4c9fbfe0": "2026-08-21",
   "simplify:b9924f81-622f-4aea-8a48-f2b1aa2914e5": "2026-07-22",
   "simplify:b9a40060-5b62-4093-91a6-d1bc3334c669": "2026-10-15",
+  "simplify:b9a6c4af-0de6-42ab-bf01-0698fa0f5bf1": "2026-11-04",
   "simplify:b9ba08a6-903a-46d4-9103-ba6528e580da": "2026-07-22",
   "simplify:b9bcf351-5da5-411a-9194-d85ff25786a8": "2026-07-22",
   "simplify:b9dddc91-404f-4923-b104-dda004ce620a": "2026-07-22",
@@ -4124,6 +4126,7 @@
   "discernis|software engineer": "2026-10-31 simplify",
   "draftkings|software engineer": "2026-10-29 simplify",
   "dtcc|software engineer python ai solutions": "2026-11-03 simplify",
+  "endeavorai|forward deployed engineer": "2026-11-04 simplify",
   "exelixis|associate ai and agentic engineer": "2026-10-29 simplify",
   "exelixis|associate engineer ai and agentics": "2026-10-29 simplify",
   "glean|software engineer": "2026-10-29 simplify",
@@ -4147,6 +4150,7 @@
   "motorola|software engineer java python": "2026-10-29 simplify",
   "m|technology development program software engineering consumer marketing application development": "2026-11-04 simplify",
   "m|technology development program software engineering digital banking applications platforms": "2026-11-04 simplify",
+  "nooks|software engineer": "2026-11-04 simplify",
   "northrop|associate cyber software engineer pathways program": "2026-10-29 simplify",
   "northrop|associate software engineer": "2026-11-01 simplify",
   "northrop|associate software engineer pathways program": "2026-10-29 simplify",
@@ -4199,5 +4203,5 @@
   "waggoner|software engineer": "2026-10-29 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-11-04T01:19:48+00:00"
+ "last_tier2_at": "2026-11-04T07:36:51+00:00"
 }
