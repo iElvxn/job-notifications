@@ -111,6 +111,8 @@
   "amazon:10593902": "2026-10-30",
   "amazon:10595839": "2026-11-03",
   "amazon:10597112": "2026-11-04",
+  "amazon:10597803": "2026-11-05",
+  "amazon:10598021": "2026-11-05",
   "ashby/cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b": "2026-09-10",
   "ashby/harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": "2026-10-02",
   "ashby/harvey:b0996df6-6b6e-42be-a4f9-0084536068f5": "2026-10-02",
@@ -4139,8 +4141,10 @@
   "amazon|software developer engineer 1 security platform": "2026-11-05 simplify",
   "amazon|software developer engineer product knowledge store": "2026-10-29 simplify",
   "amazon|software development engineer": "2026-10-29 simplify",
+  "amazon|software development engineer amazon leo early career 2027 us": "2026-11-05 amazon",
   "amazon|software development engineer database": "2026-10-30 simplify",
   "amazon|software development engineer database early career 2027 us": "2026-10-30 amazon",
+  "amazon|software development engineer embedded systems amazon leo early career 2027 us": "2026-11-05 amazon",
   "amazon|software development engineer embedded systems early career 2027 us": "2026-11-03 amazon",
   "amazon|software privacy engineer multiple teams": "2026-10-29 simplify",
   "amd|distributed systems software engineer collectives": "2026-10-29 simplify",
@@ -4258,5 +4262,5 @@
   "wash|neuroimaging engineer psychiatry": "2026-11-05 simplify",
   "zoox|contract student worker software engineer": "2026-10-29 simplify"
  },
- "last_tier2_at": "2026-11-05T16:37:44+00:00"
+ "last_tier2_at": "2026-11-05T22:16:44+00:00"
 }
