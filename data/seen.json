@@ -2407,6 +2407,7 @@
   "simplify:8d7ac499-bac1-44bf-9d25-8c91248e94f3": "2026-07-22",
   "simplify:8d895ea7-c0a8-45be-92d3-0711c15b7993": "2026-07-22",
   "simplify:8d99b019-5c4f-4228-8e7f-9ce6934f3d7d": "2026-08-04",
+  "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a": "2026-11-06",
   "simplify:8dc13916-c56a-400b-969b-302ccc73e591": "2026-09-01",
   "simplify:8dc34a98-6cba-4361-b5ab-d5e64d0e8b2e": "2026-10-06",
   "simplify:8def6cd4-02f6-4045-9290-2e08f2f10b24": "2026-08-10",
@@ -4224,6 +4225,7 @@
   "stubhub|software engineer new grad consumer experience": "2026-11-06 simplify",
   "susquehanna|software developer core order management system c": "2026-11-05 simplify",
   "the|software integration engineer new grad": "2026-10-30 simplify",
+  "tiktok|research engineer agentic video editing": "2026-11-06 simplify",
   "truveta|software engineer data fulfillment": "2026-11-03 simplify",
   "tsc|software engineer 1": "2026-10-30 simplify",
   "twitch|software development engineer 1 security platform": "2026-11-05 simplify",
@@ -4236,5 +4238,5 @@
   "wash|neuroimaging engineer psychiatry": "2026-11-05 simplify",
   "wgu|associate software engineer": "2026-11-06 simplify"
  },
- "last_tier2_at": "2026-11-06T02:36:12+00:00"
+ "last_tier2_at": "2026-11-06T09:50:02+00:00"
 }
