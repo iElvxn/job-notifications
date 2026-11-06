@@ -1145,6 +1145,7 @@
   "simplify:3850cd46-4749-462c-b106-06e568d3c84a": "2026-07-22",
   "simplify:3859ee3a-9bd7-4c36-98c9-4e3c8984ced5": "2026-07-22",
   "simplify:386cfd56-38d2-46f4-b0c6-c08efe688b73": "2026-07-22",
+  "simplify:3894dc6f-4a40-46a7-a802-6df2df2be783": "2026-11-06",
   "simplify:38bfa52f-a27c-4720-83bc-a784421b3807": "2026-07-22",
   "simplify:38c27a23-7876-45aa-b3c9-dc90974d6625": "2026-08-25",
   "simplify:38c31d17-1f58-4475-945b-9f073f5b3fe8": "2026-07-22",
@@ -2718,6 +2719,7 @@
   "simplify:a26a1cb6-76af-42d1-8117-a8ef5dce2fae": "2026-07-22",
   "simplify:a26c7b74-1550-4e9f-bc9a-ed3c7465b92e": "2026-10-09",
   "simplify:a29766ff-554e-4aea-82d5-a2a52d9a3c9c": "2026-07-22",
+  "simplify:a2b2e981-b6ad-4332-89d7-66aed007d477": "2026-11-06",
   "simplify:a2b45a60-8ee3-4c7a-9e53-e95d40fb400c": "2026-07-22",
   "simplify:a2d5fd3d-4229-48f6-825c-46ab5d830520": "2026-07-22",
   "simplify:a2d8c9a4-b8cb-4299-a621-7c8f004488ab": "2026-10-12",
@@ -4168,6 +4170,7 @@
   "caci|junior software developer": "2026-11-05 simplify",
   "cae|visualization engineer": "2026-11-05 simplify",
   "capgemini|full stack developer": "2026-11-03 simplify",
+  "charles|associate software development engineering": "2026-11-06 simplify",
   "cisco|software engineer full stack backend 1": "2026-11-05 simplify",
   "cisive|associate software developer": "2026-11-05 simplify",
   "connecticut|web developer": "2026-11-06 simplify",
@@ -4188,7 +4191,7 @@
   "guidewire|software engineer": "2026-11-05 simplify",
   "hardin|entry level web developer": "2026-11-05 simplify",
   "huntington|it software engineer 1 robotic process automation": "2026-11-02 simplify",
-  "huntington|software engineer 1": "2026-11-01 simplify",
+  "huntington|software engineer 1": "2026-11-06 simplify",
   "intel|software application development engineer new grad": "2026-10-30 simplify",
   "isembard|forward deployed engineer": "2026-10-30 simplify",
   "johnson|nextgen software engineer": "2026-11-06 simplify",
@@ -4238,5 +4241,5 @@
   "wash|neuroimaging engineer psychiatry": "2026-11-05 simplify",
   "wgu|associate software engineer": "2026-11-06 simplify"
  },
- "last_tier2_at": "2026-11-06T09:50:02+00:00"
+ "last_tier2_at": "2026-11-06T16:58:36+00:00"
 }
