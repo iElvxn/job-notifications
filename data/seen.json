@@ -325,6 +325,7 @@
   "microsoft:1970393557045516": "2026-10-27",
   "microsoft:1970393557045536": "2026-10-23",
   "microsoft:1970393557050639": "2026-11-03",
+  "microsoft:1970393557053350": "2026-11-07",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
   "simplify:00620949-7bbd-4342-a515-87e57990c860": "2026-07-22",
@@ -1393,6 +1394,7 @@
   "simplify:4b22d036-3d08-41c6-8c11-48f020f7c545": "2026-08-14",
   "simplify:4b2ecaee-656e-44a5-8c2d-3542dc11fbd5": "2026-09-15",
   "simplify:4b410012-08f3-48f8-8a2a-d71ca89a4191": "2026-10-29",
+  "simplify:4b5a24bb-4cb3-4d79-95d7-860287cc32b8": "2026-11-07",
   "simplify:4b75759f-b4bb-4df0-8d4b-67ffa4922bf1": "2026-08-14",
   "simplify:4b7d9212-ac43-4c9a-8377-465403c23615": "2026-10-17",
   "simplify:4b82692b-c26a-4ef0-a342-fb92e340f1fe": "2026-07-22",
@@ -2888,6 +2890,7 @@
   "simplify:acccb77e-40c0-4811-b35d-470b7b148ec5": "2026-07-22",
   "simplify:acd3a097-121f-4cd6-9056-d07f551dd0fb": "2026-10-14",
   "simplify:ace2a03a-1f53-4778-8e95-2ca42b7a7d5a": "2026-09-04",
+  "simplify:ace4e9cd-7570-4e01-9270-0686dce912d3": "2026-11-07",
   "simplify:acf0d0e1-8c4d-46ec-b752-fd7a1e27b611": "2026-07-22",
   "simplify:acf78218-ae13-4623-950b-916366d02693": "2026-07-22",
   "simplify:ad034685-ee26-4178-986c-f8bd127e945b": "2026-07-22",
@@ -4083,6 +4086,7 @@
   "simplify:ff69f8ce-2a41-499e-bf69-3d90507eb069": "2026-09-24",
   "simplify:ff8e02ae-33e9-4d66-a3d3-e686d33c4861": "2026-07-22",
   "simplify:ff966379-204b-4e1a-b720-8443d3c7bb31": "2026-07-22",
+  "simplify:ffa2113a-b45f-49c0-afa2-03a8614f1c28": "2026-11-07",
   "simplify:ffa50681-2399-4ecb-9fb2-9218fe30eb73": "2026-07-22",
   "simplify:ffb4bdca-3de5-4962-937b-7fda5a63c717": "2026-08-27",
   "simplify:ffb577d7-9361-420e-b157-f03bdbd597d3": "2026-07-22",
@@ -4165,6 +4169,8 @@
  },
  "notified_keys": {
   "abbvie|ai engineer": "2026-11-03 simplify",
+  "abbvie|associate engineer technology 1": "2026-11-07 simplify",
+  "abbvie|associate software engineer 1": "2026-11-07 simplify",
   "alarm|software rotation program associate": "2026-11-04 simplify",
   "amazon|software dev engineer i security platform": "2026-11-04 amazon",
   "amazon|software developer engineer 1 security platform": "2026-11-05 simplify",
@@ -4214,6 +4220,7 @@
   "huntington|software engineer 1": "2026-11-06 simplify",
   "icf|software developer": "2026-11-07 simplify",
   "intel|software performance engineer": "2026-11-07 simplify",
+  "iowa|software developer 1": "2026-11-07 simplify",
   "johnson|nextgen software engineer": "2026-11-06 simplify",
   "keyfactor|associate software engineer": "2026-11-07 simplify",
   "keysight|r d software engineer sampling oscilloscope applications devops": "2026-11-05 simplify",
@@ -4223,6 +4230,7 @@
   "magnite|engineer 1 automation and custom applications": "2026-11-06 simplify",
   "microchip|engineer 1 software": "2026-11-05 simplify",
   "microsoft|software engineer": "2026-11-05 microsoft",
+  "microsoft|software engineer ctj top secret": "2026-11-07 microsoft",
   "microsoft|software engineer ic2": "2026-11-03 simplify",
   "microsoft|software engineering ic2": "2026-11-03 microsoft",
   "myriad360|junior ai and automation engineer": "2026-11-05 simplify",
@@ -4262,5 +4270,5 @@
   "wells|software engineer": "2026-11-07 simplify",
   "wgu|associate software engineer": "2026-11-06 simplify"
  },
- "last_tier2_at": "2026-11-07T01:20:20+00:00"
+ "last_tier2_at": "2026-11-07T07:22:02+00:00"
 }
