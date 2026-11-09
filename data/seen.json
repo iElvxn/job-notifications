@@ -453,6 +453,7 @@
   "simplify:08c705ca-04ce-417a-8f8b-9a0998c91224": "2026-07-22",
   "simplify:08db92a5-f5d4-4445-98af-ae0d895cbeee": "2026-08-14",
   "simplify:0904ada8-dd5b-47ed-b6b2-f23cdd66fb39": "2026-10-06",
+  "simplify:09189c3a-8701-428c-a334-fc2353eed8e3": "2026-11-09",
   "simplify:09196c2e-4267-4ca4-b899-14fa16e52c59": "2026-07-23",
   "simplify:0921cc7c-5118-4b58-bb30-c23a720502d9": "2026-07-22",
   "simplify:09245a39-078b-476f-a779-34881b444f91": "2026-10-29",
@@ -2787,6 +2788,7 @@
   "simplify:a6080c21-a844-48d7-bcc9-8a240ddd19e1": "2026-09-02",
   "simplify:a61d2533-62dc-4fe1-9f5d-a9dba2f9255f": "2026-07-22",
   "simplify:a62806df-d00b-4b10-9d89-b2e124ba1727": "2026-08-27",
+  "simplify:a62bfe3c-827f-4d3c-b91c-b3a6768bd499": "2026-11-09",
   "simplify:a63197b5-c5d9-443c-bada-560d14dcefea": "2026-07-22",
   "simplify:a64d3e41-0647-4eea-9f66-4dce71543588": "2026-07-22",
   "simplify:a6635562-b768-4870-a2d2-3e1802de470d": "2026-10-14",
@@ -4240,7 +4242,9 @@
   "microsoft|software engineering ic2": "2026-11-03 microsoft",
   "myriad360|junior ai and automation engineer": "2026-11-05 simplify",
   "m|technology development program software engineering consumer marketing application development": "2026-11-04 simplify",
+  "m|technology development program software engineering data api engineering": "2026-11-09 simplify",
   "m|technology development program software engineering digital banking applications platforms": "2026-11-04 simplify",
+  "m|technology development program software engineering enterprise wealth application development": "2026-11-09 simplify",
   "neurohire|software ai engineer": "2026-11-06 simplify",
   "nightwing|software developer 1 system security": "2026-11-07 simplify",
   "nooks|software engineer": "2026-11-04 simplify",
@@ -4279,5 +4283,5 @@
   "wells|software engineer": "2026-11-07 simplify",
   "wgu|associate software engineer": "2026-11-06 simplify"
  },
- "last_tier2_at": "2026-11-09T02:07:54+00:00"
+ "last_tier2_at": "2026-11-09T09:41:04+00:00"
 }
