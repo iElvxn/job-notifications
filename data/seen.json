@@ -146,6 +146,7 @@
   "greenhouse/andurilindustries:5268564007": "2026-10-19",
   "greenhouse/andurilindustries:5268704007": "2026-10-19",
   "greenhouse/andurilindustries:5269789007": "2026-10-23",
+  "greenhouse/andurilindustries:5270839007": "2026-11-10",
   "greenhouse/andurilindustries:5270855007": "2026-10-29",
   "greenhouse/andurilindustries:5275431007": "2026-10-26",
   "greenhouse/aurorainnovation:8159549002": "2026-07-23",
@@ -4180,6 +4181,7 @@
   "workday/nvidia:JR2027611": "2026-10-30",
   "workday/nvidia:JR2028237": "2026-10-21",
   "workday/nvidia:JR2028350": "2026-10-21",
+  "workday/nvidia:JR2029164": "2026-11-10",
   "workday/salesforce:JR307116": "2026-10-29",
   "workday/salesforce:JR330400": "2026-10-14",
   "workday/salesforce:JR334858": "2026-07-29",
@@ -4197,6 +4199,7 @@
   "workday/salesforce:JR355789": "2026-08-12",
   "workday/salesforce:JR356580": "2026-08-18",
   "workday/salesforce:JR357449": "2026-08-25",
+  "workday/salesforce:JR360316": "2026-11-10",
   "workday/salesforce:JR361861": "2026-09-25",
   "workday/salesforce:JR364718": "2026-10-22"
  },
@@ -4215,6 +4218,7 @@
   "amazon|systems development engineer aws commerce platform adc": "2026-11-07 simplify",
   "amentum|software tools developer": "2026-11-04 simplify",
   "ande|software engineer early career ai": "2026-11-10 simplify",
+  "anduril|2027 new grad information security engineer": "2026-11-10 greenhouse",
   "anduril|space orbital software engineer": "2026-11-03 simplify",
   "anysphere|software engineer new grad": "2026-11-10 simplify",
   "apple|cellular power optimization software engineer wireless technologies ecosystems": "2026-11-03 simplify",
@@ -4283,6 +4287,7 @@
   "nightwing|software developer 1 system security": "2026-11-07 simplify",
   "nooks|software engineer": "2026-11-04 simplify",
   "northrop|associate cyber software engineer vulnerability research reverse engineering": "2026-11-10 simplify",
+  "nvidia|digital design engineer coherent high speed interconnect new college graduate": "2026-11-10 workday",
   "old|associate developer c net": "2026-11-10 simplify",
   "orbital|ai ops engineer gtm": "2026-11-07 simplify",
   "pacific|early career software engineer": "2026-11-05 simplify",
@@ -4296,6 +4301,7 @@
   "rocket|ai software engineer 1": "2026-11-04 simplify",
   "rtx|leadership development program engineering software discipline": "2026-11-03 simplify",
   "rtx|software engineer 1": "2026-11-10 simplify",
+  "salesforce|software engineering mts": "2026-11-10 workday",
   "samsara|security operations engineer i": "2026-11-06 greenhouse",
   "servicenow|software engineer agent eval platform": "2026-11-04 simplify",
   "shadowdragon|junior ai machine learning engineer": "2026-11-04 simplify",
@@ -4324,5 +4330,5 @@
   "whoop|software engineer 1 backend growth": "2026-11-10 simplify",
   "wolverine|c software engineer new grad": "2026-11-10 simplify"
  },
- "last_tier2_at": "2026-11-10T17:59:06+00:00"
+ "last_tier2_at": "2026-11-10T22:49:45+00:00"
 }
