@@ -1102,6 +1102,7 @@
   "simplify:33972c52-575d-4ede-a314-0ccebc85ee47": "2026-07-28",
   "simplify:33a92a71-ce82-4a78-954c-43f88db17f65": "2026-07-22",
   "simplify:33b49b9d-1aed-41bb-ba49-d0567c7f2f94": "2026-09-11",
+  "simplify:33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c": "2026-11-12",
   "simplify:33c29f4d-ba3e-4b4e-8d7f-ba31f0fe0e0b": "2026-07-27",
   "simplify:33d2b21e-e763-4fa0-ba7c-9ca954d0b1bc": "2026-07-22",
   "simplify:33d712fe-87e1-49e6-ba71-1dd17d118d63": "2026-07-22",
@@ -1963,6 +1964,7 @@
   "simplify:6d205503-8ba9-4c04-bf96-31add0b07625": "2026-07-22",
   "simplify:6d45c124-a55b-42b9-91ce-c2a6748876d5": "2026-07-22",
   "simplify:6d55f27f-9786-4c75-ab7c-c79dd9c729e0": "2026-07-22",
+  "simplify:6d58d484-4f54-48a9-bf20-be2c64214b60": "2026-11-12",
   "simplify:6d65d71a-c89b-41ea-a76a-4d4f43b82d7e": "2026-11-11",
   "simplify:6d6a3ee8-39c1-4c9d-b0bb-4bc6bb8953c5": "2026-09-04",
   "simplify:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d": "2026-10-27",
@@ -3379,6 +3381,7 @@
   "simplify:ca6ef69e-201e-46cf-89dc-a048de49dfb8": "2026-07-22",
   "simplify:ca7b6f2d-22c2-4d9a-baab-b5e91077acc8": "2026-10-20",
   "simplify:ca7d68ba-0e7b-411e-974e-de4b08bc123f": "2026-07-22",
+  "simplify:ca8d4e99-7c1a-43f6-9730-cb0083351686": "2026-11-12",
   "simplify:ca93362f-f11c-4d3b-a867-f3c1417de4e6": "2026-07-22",
   "simplify:cab69aff-72b9-4758-b1e7-b89d00f92f99": "2026-07-22",
   "simplify:cac83c89-3891-4a0b-9daa-28eca0edcb0f": "2026-07-22",
@@ -4275,6 +4278,8 @@
   "autodesk|software engineer ai fusion engineering fusion engineering": "2026-11-11 simplify",
   "avante|product engineer agent experience": "2026-11-12 simplify",
   "bask|backend engineer new grad": "2026-11-12 simplify",
+  "bask|frontend engineer new grad": "2026-11-12 simplify",
+  "bask|junior design engineer": "2026-11-12 simplify",
   "bask|junior full stack engineer": "2026-11-12 simplify",
   "bask|junior product engineer interactive experiences": "2026-11-12 simplify",
   "bask|product engineer new grad": "2026-11-12 simplify",
@@ -4328,6 +4333,7 @@
   "keysight|software engineer semiconductor technology c net": "2026-11-05 simplify",
   "lawrence|super intelligence platform integration engineer": "2026-11-07 simplify",
   "magnite|engineer 1 automation and custom applications": "2026-11-06 simplify",
+  "markon|software engineer level 0": "2026-11-12 simplify",
   "mercury|software engineer 1": "2026-11-10 simplify",
   "microchip|engineer 1 software": "2026-11-05 simplify",
   "microsoft|software development engineer": "2026-11-12 simplify",
@@ -4392,5 +4398,5 @@
   "zensar|graduate software engineer ai platform development ai": "2026-11-12 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-12T04:10:47+00:00"
+ "last_tier2_at": "2026-11-12T12:36:02+00:00"
 }
