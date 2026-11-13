@@ -440,6 +440,7 @@
   "simplify:076d29c9-8b56-4cfc-8845-bf6bc453ef63": "2026-07-22",
   "simplify:076e4d7b-c105-4b49-866b-5ac1f12ec7b3": "2026-11-01",
   "simplify:07705204-70be-436b-85af-c48fd1f5e63d": "2026-10-09",
+  "simplify:07b3aa17-de9e-4ec0-9ea5-73d1cafeaeb4": "2026-11-13",
   "simplify:07bd103c-1d70-4013-a353-134890eb3530": "2026-08-27",
   "simplify:07e1f6dd-a46e-489d-b04c-f42fe868abfc": "2026-11-05",
   "simplify:07e7fea1-823f-4ae9-8e91-d6dc1fec8961": "2026-07-22",
@@ -3857,6 +3858,7 @@
   "simplify:e8292892-4349-44e5-85e7-214c365e9796": "2026-08-26",
   "simplify:e82e6804-4e24-4e45-9518-2d1264d42e0f": "2026-08-14",
   "simplify:e836023a-cc88-4b8c-9d23-7cfd701c6d9d": "2026-07-22",
+  "simplify:e83b2b8a-4be2-4964-85be-319d2e951209": "2026-11-13",
   "simplify:e83ea8a4-83fe-416d-b480-6e3a3a18cac3": "2026-11-05",
   "simplify:e849f4c2-737b-476e-8296-765db1bdc056": "2026-07-22",
   "simplify:e84bac62-0fcc-47e6-ac4d-9834e775e0f5": "2026-07-22",
@@ -4371,6 +4373,7 @@
   "planview|software engineer 1": "2026-11-10 simplify",
   "promega|software integration engineer": "2026-11-11 simplify",
   "prosync|software engineer 0 1": "2026-11-07 simplify",
+  "q2|software engineer": "2026-11-13 simplify",
   "rli|associate software engineer": "2026-11-13 simplify",
   "rtx|software engineer 1": "2026-11-13 simplify",
   "rubrik|software engineer virtual platform": "2026-11-12 simplify",
@@ -4415,5 +4418,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-13T15:43:59+00:00"
+ "last_tier2_at": "2026-11-13T21:38:00+00:00"
 }
