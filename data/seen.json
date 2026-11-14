@@ -2194,6 +2194,7 @@
   "simplify:786414d8-5fda-439b-81fc-9534536d2589": "2026-07-22",
   "simplify:787f92a1-006f-4ba4-baac-41b86f13cf1a": "2026-07-22",
   "simplify:788a250d-5057-4584-ba08-4aece01fb4c1": "2026-07-22",
+  "simplify:788e4fa2-855c-4290-a24e-47ddccdf7692": "2026-11-14",
   "simplify:7894345d-6677-46a0-b561-523670a2aa56": "2026-08-14",
   "simplify:78ab6c83-7d91-460e-acf5-e924894eb1cc": "2026-07-22",
   "simplify:78aeccde-cc65-477c-9f1f-b791b9597940": "2026-08-04",
@@ -4349,6 +4350,7 @@
   "dillards|cobol developer": "2026-11-12 simplify",
   "d|application developer 1": "2026-11-10 simplify",
   "eagle|mes software engineer": "2026-11-10 simplify",
+  "edmentum|software engineer 1": "2026-11-14 simplify",
   "elevation|software engineer ai workflow automation": "2026-11-07 simplify",
   "emerson|software engineer applied ai": "2026-11-14 simplify",
   "empire|applied ai engineer 1": "2026-11-14 simplify",
@@ -4436,5 +4438,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-14T08:01:07+00:00"
+ "last_tier2_at": "2026-11-14T14:59:26+00:00"
 }
