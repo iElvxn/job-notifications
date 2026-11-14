@@ -2851,6 +2851,7 @@
   "simplify:a3ce789a-1156-4ebb-b4b2-5bdc7e47c7be": "2026-07-22",
   "simplify:a422035a-8c4c-4612-9ef6-e5f88dbae73a": "2026-07-22",
   "simplify:a43641ff-3abd-46fe-ab19-0315be4a14ac": "2026-07-22",
+  "simplify:a43681bf-8c34-45b6-b4e2-2a15f57ba4a7": "2026-11-14",
   "simplify:a455da9d-eaec-41c8-9de6-819c1f5bac60": "2026-07-23",
   "simplify:a457a2b0-7767-4949-b5a3-823af49cefb2": "2026-09-10",
   "simplify:a47669a1-5125-4aff-abcf-2ddd05fe0a55": "2026-07-22",
@@ -3254,6 +3255,7 @@
   "simplify:bdd26867-ca52-4259-8854-4b2f11893171": "2026-10-06",
   "simplify:bde086bf-dab1-4025-b1fa-8d581fc9b704": "2026-08-18",
   "simplify:bdec9d0e-5c93-4f92-8f63-47a3797815fa": "2026-07-22",
+  "simplify:be00edcb-0605-494a-93b0-3872479dfe92": "2026-11-14",
   "simplify:be190eb7-84af-40b0-a799-10bba4d9eab4": "2026-07-22",
   "simplify:be193618-bf2d-4df5-81bd-5962df8578f2": "2026-07-22",
   "simplify:be220962-337b-458d-9bf5-631a762cc07b": "2026-09-30",
@@ -4339,6 +4341,7 @@
   "cambridge|software engineer 1 cloud": "2026-11-14 simplify",
   "cdk|associate database engineer": "2026-11-12 simplify",
   "cdk|associate software engineer": "2026-11-12 simplify",
+  "cdphp|software engineer etl": "2026-11-14 simplify",
   "charles|associate software engineer": "2026-11-07 simplify",
   "charles|junior software developer": "2026-11-07 simplify",
   "chewy|software engineer 1 full stack promotions": "2026-11-07 simplify",
@@ -4357,6 +4360,7 @@
   "empowerly|full stack software engineer": "2026-11-13 simplify",
   "engine|software engineer gtm engineering": "2026-11-07 simplify",
   "fidelity|mainframe software engineer 1": "2026-11-10 simplify",
+  "fort|web developer web development information technology": "2026-11-14 simplify",
   "general|platform services software engineer entry level": "2026-11-13 simplify",
   "goldman|software engineer software engineering": "2026-11-11 simplify",
   "h2o|software engineer": "2026-11-14 simplify",
@@ -4438,5 +4442,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-14T14:59:26+00:00"
+ "last_tier2_at": "2026-11-14T19:42:07+00:00"
 }
