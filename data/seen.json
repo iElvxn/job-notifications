@@ -335,6 +335,8 @@
   "microsoft:1970393557050639": "2026-11-03",
   "microsoft:1970393557053350": "2026-11-07",
   "microsoft:1970393557053863": "2026-11-10",
+  "microsoft:1970393557072925": "2026-11-14",
+  "microsoft:1970393557073410": "2026-11-14",
   "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f": "2026-07-25",
   "simplify:00142abd-9aec-4fca-9c8d-b46f6fb762d2": "2026-07-22",
   "simplify:00620949-7bbd-4342-a515-87e57990c860": "2026-07-22",
@@ -2646,6 +2648,7 @@
   "simplify:96fb8f30-f721-4712-816d-5a381a92d51f": "2026-08-05",
   "simplify:9704c070-3a15-4e42-8828-6a8dd858c07f": "2026-07-22",
   "simplify:97058eb6-70e5-40db-8c64-0391a99980ec": "2026-08-12",
+  "simplify:970abbb2-7906-4686-914b-09bd6d622dd5": "2026-11-14",
   "simplify:97108d56-7eab-4ad6-9e63-adccea714e91": "2026-07-22",
   "simplify:9711e6ae-607c-424c-a8e4-b67ad0c3e2a0": "2026-07-22",
   "simplify:9716a16a-957e-4b0b-808d-978e71b50ae5": "2026-07-22",
@@ -4371,9 +4374,11 @@
   "markon|software engineer level 0": "2026-11-12 simplify",
   "mercury|software engineer 1": "2026-11-10 simplify",
   "microsoft|software development engineer": "2026-11-12 simplify",
-  "microsoft|software engineer": "2026-11-10 microsoft",
+  "microsoft|software engineer": "2026-11-14 microsoft",
   "microsoft|software engineer ctj top secret": "2026-11-07 microsoft",
   "microsoft|software engineer integration and automation": "2026-11-11 microsoft",
+  "microsoft|software engineer mbo": "2026-11-14 microsoft",
+  "microsoft|software engineer microsoft business operations": "2026-11-14 simplify",
   "microsoft|software engineering": "2026-11-10 simplify",
   "multi|software engineer 1 2": "2026-11-10 simplify",
   "m|technology development program software engineering data api engineering": "2026-11-09 simplify",
@@ -4431,5 +4436,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-14T01:44:21+00:00"
+ "last_tier2_at": "2026-11-14T08:01:07+00:00"
 }
