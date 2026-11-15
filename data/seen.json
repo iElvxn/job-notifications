@@ -442,6 +442,7 @@
   "simplify:076d29c9-8b56-4cfc-8845-bf6bc453ef63": "2026-07-22",
   "simplify:076e4d7b-c105-4b49-866b-5ac1f12ec7b3": "2026-11-01",
   "simplify:07705204-70be-436b-85af-c48fd1f5e63d": "2026-10-09",
+  "simplify:07af461e-da0d-4062-b7f9-8b0eafd5795f": "2026-11-15",
   "simplify:07b3aa17-de9e-4ec0-9ea5-73d1cafeaeb4": "2026-11-13",
   "simplify:07bd103c-1d70-4013-a353-134890eb3530": "2026-08-27",
   "simplify:07e1f6dd-a46e-489d-b04c-f42fe868abfc": "2026-11-05",
@@ -4382,6 +4383,7 @@
   "northrop|associate software engineer pathways": "2026-11-12 simplify",
   "nuro|systems engineering new grad 2027": "2026-11-12 greenhouse",
   "nvidia|deep learning framework communications engineer new college grad 2026": "2026-11-15 workday",
+  "nvidia|deep learning framework communications engineer new grad": "2026-11-15 simplify",
   "nvidia|digital design engineer coherent high speed interconnect new college graduate": "2026-11-10 workday",
   "old|associate developer c net": "2026-11-10 simplify",
   "peraton|full stack engineer": "2026-11-13 simplify",
@@ -4427,5 +4429,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-15T02:52:14+00:00"
+ "last_tier2_at": "2026-11-15T10:00:00+00:00"
 }
