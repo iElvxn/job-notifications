@@ -1082,6 +1082,7 @@
   "simplify:3154be10-173a-4b90-8b24-47c92d5b67ae": "2026-07-22",
   "simplify:315c6fae-a358-463d-b03c-942573ef4064": "2026-07-22",
   "simplify:316c2d00-0f12-44d3-a120-dec7324caeff": "2026-10-19",
+  "simplify:31812f33-8341-4662-afc6-55ed8d3f06cd": "2026-11-17",
   "simplify:3187d7f5-bee5-440f-9e37-6a4fa018e014": "2026-07-22",
   "simplify:318aef66-c06b-44af-aaa1-fb5e89fae8cc": "2026-11-12",
   "simplify:31a6db78-1795-45ff-a8cf-7fa9073f5fbf": "2026-07-22",
@@ -2763,6 +2764,7 @@
   "simplify:9d74aeea-fa25-46c6-af6f-3d20a6065b64": "2026-08-25",
   "simplify:9d7967bf-9168-4534-85c7-1b7cb6ebb568": "2026-09-10",
   "simplify:9d7c3bb8-199b-4cd3-bd7d-e65db8c1251c": "2026-08-07",
+  "simplify:9d85e1dd-dd78-4128-9da0-f6f57c3ab6bf": "2026-11-17",
   "simplify:9d908eec-cb2d-4437-9cb1-47aea6e0c308": "2026-08-03",
   "simplify:9d91fa2e-e752-47e0-b69e-12a60a844b57": "2026-07-22",
   "simplify:9d9c46e1-9387-4d06-841a-4497c4901c06": "2026-08-25",
@@ -2846,6 +2848,7 @@
   "simplify:a2f1914e-0d8a-4ad1-9ec9-b41b6f58e680": "2026-07-23",
   "simplify:a321ad73-583a-4203-bee3-a9fe75923346": "2026-07-22",
   "simplify:a3234be6-d59c-401e-85b3-634d691ce11f": "2026-07-22",
+  "simplify:a32f67ff-5d44-4e8f-946d-3bf4be9d7b8b": "2026-11-17",
   "simplify:a331d530-9dc8-459c-9888-bec197bbe968": "2026-07-22",
   "simplify:a3488e6f-c542-4279-9aef-97a3f424a008": "2026-10-04",
   "simplify:a348f430-8877-4f7b-808d-c796838b0655": "2026-07-22",
@@ -4383,6 +4386,7 @@
   "hewlett|systems software engineer 1": "2026-11-13 simplify",
   "huntington|software development engineer 1": "2026-11-14 simplify",
   "intercontinental|associate software developer": "2026-11-11 simplify",
+  "interimage|software engineer level 0": "2026-11-17 simplify",
   "jamf|associate software engineer full stack": "2026-11-12 simplify",
   "johnson|nextgen software engineer new grad": "2026-11-15 simplify",
   "johns|mission modeling simulation software engineer new grad": "2026-11-12 simplify",
@@ -4409,6 +4413,7 @@
   "nvidia|deep learning framework communications engineer new grad": "2026-11-15 simplify",
   "nvidia|digital design engineer coherent high speed interconnect new college graduate": "2026-11-10 workday",
   "old|associate developer c net": "2026-11-10 simplify",
+  "peraton|entry level software engineer ignite innovator program": "2026-11-17 simplify",
   "peraton|full stack engineer": "2026-11-13 simplify",
   "planview|software engineer 1": "2026-11-10 simplify",
   "promega|software integration engineer": "2026-11-11 simplify",
@@ -4453,5 +4458,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-17T09:09:24+00:00"
+ "last_tier2_at": "2026-11-17T18:29:40+00:00"
 }
