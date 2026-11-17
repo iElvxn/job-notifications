@@ -1597,6 +1597,7 @@
   "simplify:540cb73e-d506-40f3-9265-30fdcf18d821": "2026-07-23",
   "simplify:54109d7b-e383-4172-8aba-eda5ce54188b": "2026-10-08",
   "simplify:541b7177-0a14-41ed-9ffb-9cc0f5cf924a": "2026-10-07",
+  "simplify:542753ed-5d89-4aa7-855f-a20530ae5084": "2026-11-17",
   "simplify:54341115-e630-4bf3-adbd-85b2174da927": "2026-07-22",
   "simplify:5443fedc-d890-4929-9ace-e2ce40d1b5a6": "2026-11-09",
   "simplify:54749497-4189-4a1e-ba2f-224fbd8b967c": "2026-07-22",
@@ -3025,6 +3026,7 @@
   "simplify:addc9110-286b-45d0-9b03-24ea2d3042c6": "2026-10-08",
   "simplify:ade523a0-5034-46be-960d-f582dd8d70eb": "2026-07-22",
   "simplify:aded84fb-4d21-4dae-b6fc-4ee782d8a5ec": "2026-07-22",
+  "simplify:ae1ec61d-333f-47da-8b9c-8bf931b6d07b": "2026-11-17",
   "simplify:ae2ced0f-f2e0-45de-9937-89deb69a3565": "2026-07-22",
   "simplify:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17": "2026-08-13",
   "simplify:ae4cebf6-b99d-41ca-a145-35192486f863": "2026-09-09",
@@ -3497,6 +3499,7 @@
   "simplify:ce76b0bf-36f0-4008-b0a0-193ee9e09639": "2026-08-28",
   "simplify:ce9280c2-f942-4e08-8be0-a8640eee129b": "2026-08-06",
   "simplify:cea1563c-802d-45b0-9937-3a8f1a7ec8bb": "2026-07-22",
+  "simplify:cea336b4-1147-402b-9c76-6b7ed2757eee": "2026-11-17",
   "simplify:cea6352a-da56-4d24-a4d4-4a5f5833eeec": "2026-09-30",
   "simplify:ceae354f-7659-436b-88e0-759362464965": "2026-08-14",
   "simplify:ceb2a9a3-fcd7-4b2b-ae29-f17de014d0f8": "2026-07-22",
@@ -3608,6 +3611,7 @@
   "simplify:d60e31f1-2334-4b39-aa53-c45bed4cc0f8": "2026-10-29",
   "simplify:d612d086-97bc-4978-a864-867a361e1d09": "2026-11-04",
   "simplify:d653c73d-e099-4b51-8bc4-7def1732f91c": "2026-07-22",
+  "simplify:d679fa04-c74e-4987-a9aa-2e381ad6fa52": "2026-11-17",
   "simplify:d67e8124-beec-46b0-86d3-bd2bd3173de3": "2026-07-22",
   "simplify:d68084c5-ab49-4255-ae22-0c224fc51dfe": "2026-07-22",
   "simplify:d6849abb-e865-4cce-a9b9-a23021fc49f7": "2026-08-03",
@@ -4367,6 +4371,7 @@
   "emerson|software engineer applied ai": "2026-11-14 simplify",
   "empire|applied ai engineer 1": "2026-11-14 simplify",
   "empowerly|full stack software engineer": "2026-11-13 simplify",
+  "fantom|software engineer level 0": "2026-11-17 simplify",
   "fidelity|mainframe software engineer 1": "2026-11-10 simplify",
   "fortinet|early careers software engineer": "2026-11-17 simplify",
   "fortinet|embedded software engineer early careers": "2026-11-17 simplify",
@@ -4383,6 +4388,7 @@
   "johns|mission modeling simulation software engineer new grad": "2026-11-12 simplify",
   "kalshi|software engineer marketing": "2026-11-10 simplify",
   "keysight|it engineer software": "2026-11-14 simplify",
+  "laborie|software engineer 1": "2026-11-17 simplify",
   "leidos|software engineer": "2026-11-13 simplify",
   "mantech|junior software developer": "2026-11-17 simplify",
   "markon|software engineer level 0": "2026-11-12 simplify",
@@ -4439,6 +4445,7 @@
   "vizient|associate software engineer": "2026-11-10 simplify",
   "whoop|software engineer 1 backend growth": "2026-11-10 simplify",
   "wolverine|c software engineer new grad": "2026-11-10 simplify",
+  "wyetech|software engineer 0 or 1": "2026-11-17 simplify",
   "w|ai developer": "2026-11-11 simplify",
   "zensar|graduate software engineer ai": "2026-11-12 simplify",
   "zensar|graduate software engineer ai platform development": "2026-11-12 simplify",
@@ -4446,5 +4453,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-17T01:03:20+00:00"
+ "last_tier2_at": "2026-11-17T09:09:24+00:00"
 }
