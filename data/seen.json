@@ -1186,6 +1186,7 @@
   "simplify:37136fd4-099f-4274-9089-5506ab49a026": "2026-09-25",
   "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33": "2026-11-18",
   "simplify:372f6713-b484-4724-ac51-015c5d0810f2": "2026-07-22",
+  "simplify:3731ea17-7b7f-45a8-9f5e-995882d14ed6": "2026-11-18",
   "simplify:37335f53-bff9-416b-8b8a-490d6a68102f": "2026-08-31",
   "simplify:373a9878-b32b-4c85-8ce6-20b6df03c8b3": "2026-09-21",
   "simplify:373ffa0d-6efb-4fdc-9e34-45018a822f3d": "2026-07-23",
@@ -1904,6 +1905,7 @@
   "simplify:66055d03-6077-4b6b-a0dc-455d2dd18a88": "2026-09-12",
   "simplify:66075d6b-0a81-4d74-8c32-466f0aab417c": "2026-07-22",
   "simplify:660c3a00-d629-407f-a045-aae133cd0c02": "2026-07-22",
+  "simplify:6613bded-9926-49a7-bc7f-60a11f1a05ee": "2026-11-18",
   "simplify:662a9504-a02e-4a49-b186-8619c9b721c5": "2026-10-14",
   "simplify:66396035-7ef7-4576-a4e0-7487fd68616c": "2026-08-12",
   "simplify:6642fd98-f102-48bc-b226-3acb5b8c3988": "2026-08-25",
@@ -2315,6 +2317,7 @@
   "simplify:7fb4df11-724b-4388-80ba-7b185189f957": "2026-10-26",
   "simplify:7fe84778-db60-4cf1-a1c1-8dbbc12097d5": "2026-07-22",
   "simplify:7fe90a2a-0330-4ae9-9898-f398dc5bad9e": "2026-07-22",
+  "simplify:7ff1037a-0d70-4c8f-8e2a-19d7d8f52893": "2026-11-18",
   "simplify:7ff2bfdc-c0f7-4d3b-9cc7-c2eae7f22986": "2026-07-22",
   "simplify:7ff44f5f-836a-4ac9-b33c-935e0b4281ae": "2026-09-02",
   "simplify:7ff8dfb2-55f5-48fb-80b2-c0eb3c980e4a": "2026-08-14",
@@ -4347,6 +4350,7 @@
  "notified_keys": {
   "absolics|production automation engineer": "2026-11-17 simplify",
   "actionet|junior developer": "2026-11-18 simplify",
+  "adyen|junior full stack developer docs experience engineering team": "2026-11-18 simplify",
   "affirm|software engineer 1 backend continuous delivery": "2026-11-13 simplify",
   "affirm|software engineer i backend continuous delivery": "2026-11-13 greenhouse",
   "allegion|full stack software engineer": "2026-11-12 simplify",
@@ -4359,6 +4363,7 @@
   "apple|darwin runtime engineer core os": "2026-11-11 simplify",
   "apple|software engineer ad platforms": "2026-11-13 simplify",
   "arcxis|ai rapid prototype developer level 1": "2026-11-13 simplify",
+  "asm|software engineer early career": "2026-11-18 simplify",
   "autodesk|software engineer ai fusion engineering fusion engineering": "2026-11-11 simplify",
   "avante|product engineer agent experience": "2026-11-12 simplify",
   "bask|backend engineer new grad": "2026-11-12 simplify",
@@ -4368,6 +4373,7 @@
   "bask|junior product engineer interactive experiences": "2026-11-12 simplify",
   "bask|product engineer new grad": "2026-11-12 simplify",
   "bask|software engineer": "2026-11-12 simplify",
+  "berkshire|software engineer bhepg": "2026-11-18 simplify",
   "biointellisense|android engineer": "2026-11-11 simplify",
   "boeing|design and analysis engineer entry level or associate": "2026-11-14 simplify",
   "booz|junior c software engineer": "2026-11-13 simplify",
@@ -4464,5 +4470,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-18T08:29:34+00:00"
+ "last_tier2_at": "2026-11-18T17:26:17+00:00"
 }
