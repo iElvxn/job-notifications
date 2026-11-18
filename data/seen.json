@@ -336,6 +336,7 @@
   "microsoft:1970393557050639": "2026-11-03",
   "microsoft:1970393557053350": "2026-11-07",
   "microsoft:1970393557053863": "2026-11-10",
+  "microsoft:1970393557070491": "2026-11-18",
   "microsoft:1970393557072925": "2026-11-14",
   "microsoft:1970393557073410": "2026-11-14",
   "microsoft:1970393557074534": "2026-11-17",
@@ -4416,6 +4417,7 @@
   "microsoft|software development engineer": "2026-11-12 simplify",
   "microsoft|software engineer": "2026-11-17 microsoft",
   "microsoft|software engineer agentic security": "2026-11-17 microsoft",
+  "microsoft|software engineer ctj poly": "2026-11-18 microsoft",
   "microsoft|software engineer integration and automation": "2026-11-11 microsoft",
   "microsoft|software engineer mbo": "2026-11-14 microsoft",
   "microsoft|software engineer microsoft business operations": "2026-11-14 simplify",
@@ -4470,5 +4472,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zt|test software developer": "2026-11-11 simplify"
  },
- "last_tier2_at": "2026-11-18T17:26:17+00:00"
+ "last_tier2_at": "2026-11-18T23:27:28+00:00"
 }
