@@ -2709,6 +2709,7 @@
   "simplify:986968af-4a3a-4038-96dc-9caaa8a58066": "2026-10-01",
   "simplify:988e5175-a56f-4c3a-b1d9-3a643a63a503": "2026-09-03",
   "simplify:989986f5-744c-44d9-8783-a3495ddadb27": "2026-08-19",
+  "simplify:98a47c6e-06dd-4d9d-95c5-02197443ddc8": "2026-11-19",
   "simplify:98a4a0b5-63ae-4794-a5ca-2c7e290d1bce": "2026-08-06",
   "simplify:98aabb98-548b-40b7-9318-4c51f6f1c399": "2026-07-31",
   "simplify:98b8f971-621c-46bf-8915-22ec116e536a": "2026-07-22",
@@ -4435,6 +4436,7 @@
   "red|entry to mid level software engineer": "2026-11-18 simplify",
   "red|software engineer": "2026-11-18 simplify",
   "red|software engineer level 0": "2026-11-18 simplify",
+  "rei|junior associate software engineer java full stack": "2026-11-19 simplify",
   "rli|associate software engineer": "2026-11-13 simplify",
   "rtx|software engineer 1": "2026-11-13 simplify",
   "rubrik|software engineer virtual platform": "2026-11-12 simplify",
@@ -4459,5 +4461,5 @@
   "zettasquared|forward engineer ai developer": "2026-11-13 simplify",
   "zoox|contract student worker software engineer 40hrs wk": "2026-11-19 simplify"
  },
- "last_tier2_at": "2026-11-19T04:19:23+00:00"
+ "last_tier2_at": "2026-11-19T13:35:44+00:00"
 }
