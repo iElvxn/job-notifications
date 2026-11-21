@@ -4271,6 +4271,7 @@
   "simplify:fbb35820-5f6d-46ad-b912-0db35c744da1": "2026-10-06",
   "simplify:fbb78d1c-8d2b-4a45-8229-7050e963ceb9": "2026-07-27",
   "simplify:fbc507b4-f388-457e-bd06-2b2092a7dad1": "2026-07-22",
+  "simplify:fbcc1432-da10-41dc-8e7a-16058604cc38": "2026-11-21",
   "simplify:fc077165-994d-480e-a1f5-4037f1b7f4bc": "2026-07-22",
   "simplify:fc07cf13-b666-439f-83e7-a5861fa41002": "2026-07-22",
   "simplify:fc0ba9c7-8038-43b5-ae74-d319237d1147": "2026-08-08",
@@ -4488,6 +4489,7 @@
   "rise|software engineer 1": "2026-11-20 simplify",
   "sante|ai engineer": "2026-11-20 simplify",
   "sierra|software engineer 1": "2026-11-14 simplify",
+  "starbridge|software engineer federal": "2026-11-21 simplify",
   "str|software engineer": "2026-11-21 simplify",
   "symbotic|software engineer core systems platform services": "2026-11-17 simplify",
   "textnow|software developer backend": "2026-11-14 simplify",
@@ -4507,5 +4509,5 @@
   "zoox|contract student worker software engineer 40hrs wk": "2026-11-19 simplify",
   "zscaler|software development engineer": "2026-11-21 simplify"
  },
- "last_tier2_at": "2026-11-21T07:00:56+00:00"
+ "last_tier2_at": "2026-11-21T15:17:47+00:00"
 }
