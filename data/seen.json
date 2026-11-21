@@ -2278,6 +2278,7 @@
   "simplify:7aabe808-d12f-4399-b2f0-e348094fa171": "2026-10-09",
   "simplify:7aaef6e7-9e7d-48e4-8cea-6c06e79af706": "2026-09-03",
   "simplify:7ab1c033-3124-4e15-9c57-6e49cbba7061": "2026-07-22",
+  "simplify:7ad57a9d-6cf2-4dea-bbb4-f6ad41b8a491": "2026-11-21",
   "simplify:7b0c1480-d0b7-4999-8881-7cf5699e4aa9": "2026-07-29",
   "simplify:7b0d6688-299a-480f-9354-5e5e92b47e2c": "2026-07-22",
   "simplify:7b28ad1a-3b67-44fa-9397-e62fd4fab9d3": "2026-07-23",
@@ -2315,6 +2316,7 @@
   "simplify:7d735d17-774c-40af-ab76-e77a8f5c0ef2": "2026-07-22",
   "simplify:7d7fcc05-30c1-4dc3-a5df-2990124154eb": "2026-07-29",
   "simplify:7d8768dc-f8bf-486b-bcea-cb2578964f69": "2026-07-22",
+  "simplify:7da54211-7443-4a5b-86bd-e49ac0409028": "2026-11-21",
   "simplify:7dbb5c10-5141-47a1-bf19-a1b0a452f334": "2026-09-04",
   "simplify:7dbe9685-0792-4856-ab07-9f72967defd3": "2026-09-11",
   "simplify:7dc64487-f056-4398-92c1-882600b6b151": "2026-07-22",
@@ -2751,6 +2753,7 @@
   "simplify:99a096e7-a5be-4022-8904-7687e11a9efa": "2026-09-18",
   "simplify:99c78802-8571-46cb-8d2b-1187887ca990": "2026-07-22",
   "simplify:99c9261f-9794-4deb-8e15-9bb47dc0ab42": "2026-10-02",
+  "simplify:99cd5349-8e9e-40e3-966e-f41ccfd17d61": "2026-11-21",
   "simplify:99ce2c9b-4b87-41b8-b970-321354839c77": "2026-07-22",
   "simplify:99d03a1a-766a-4c0d-92a6-d283adc7583a": "2026-07-22",
   "simplify:99d36c47-9c2d-45d5-87ea-42d0f26740a4": "2026-09-01",
@@ -4425,6 +4428,7 @@
   "berkshire|software engineer bhepg": "2026-11-18 simplify",
   "boeing|design and analysis engineer entry level or associate": "2026-11-14 simplify",
   "booz|systems engineer": "2026-11-14 simplify",
+  "cadence|software engineer recent grad verification ip team": "2026-11-21 simplify",
   "cambridge|software engineer 1 cloud": "2026-11-14 simplify",
   "cdphp|software engineer etl": "2026-11-14 simplify",
   "compunetix|software engineer": "2026-11-18 simplify",
@@ -4488,6 +4492,7 @@
   "rei|junior associate software engineer java full stack": "2026-11-19 simplify",
   "rise|software engineer 1": "2026-11-20 simplify",
   "sante|ai engineer": "2026-11-20 simplify",
+  "secureframe|software engineer new grad": "2026-11-21 simplify",
   "sierra|software engineer 1": "2026-11-14 simplify",
   "starbridge|software engineer federal": "2026-11-21 simplify",
   "str|software engineer": "2026-11-21 simplify",
@@ -4500,6 +4505,7 @@
   "usable|web developer 1 or 2": "2026-11-21 simplify",
   "usan|application developer new grad": "2026-11-20 simplify",
   "vertex|junior ai engineer": "2026-11-21 simplify",
+  "walmart|software engineer 3": "2026-11-21 simplify",
   "wellabe|software engineer 1 2 3": "2026-11-21 simplify",
   "wyetech|cloud software engineer 1": "2026-11-18 simplify",
   "wyetech|software engineer 0": "2026-11-18 simplify",
@@ -4509,5 +4515,5 @@
   "zoox|contract student worker software engineer 40hrs wk": "2026-11-19 simplify",
   "zscaler|software development engineer": "2026-11-21 simplify"
  },
- "last_tier2_at": "2026-11-21T15:17:47+00:00"
+ "last_tier2_at": "2026-11-21T20:56:36+00:00"
 }
