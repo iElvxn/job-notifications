@@ -1924,6 +1924,7 @@
   "simplify:65849b96-f8c1-491c-a19f-a23719bc19ce": "2026-07-22",
   "simplify:659b34df-a909-4297-a039-f36c5603ab51": "2026-08-18",
   "simplify:65aa39b5-7bc8-4c02-b357-de6d17a0abd8": "2026-07-22",
+  "simplify:65b1d554-dd51-4c64-beb3-aa0184ed3477": "2026-11-22",
   "simplify:65d9dfbd-5d39-42b0-988c-dd59701000db": "2026-07-22",
   "simplify:65e69b5f-6cf1-4352-9682-0a0f5166da73": "2026-07-22",
   "simplify:66055d03-6077-4b6b-a0dc-455d2dd18a88": "2026-09-12",
@@ -3623,6 +3624,7 @@
   "simplify:d274a4f7-9df9-45bf-b9c2-6b25e26d166d": "2026-08-19",
   "simplify:d28ae564-ffea-4b32-a718-38e5d8a33804": "2026-07-22",
   "simplify:d2bee24c-fe5c-403b-9483-ec8f0548321b": "2026-07-22",
+  "simplify:d2c0911d-44b1-488a-9922-b20915d74f54": "2026-11-22",
   "simplify:d2c0bf0b-c723-408a-83fd-9a51cb89a1f6": "2026-07-22",
   "simplify:d2efa917-60f3-4224-aad6-298a350ae93a": "2026-07-22",
   "simplify:d2f2d820-b9ed-43d7-81be-81b881a00689": "2026-07-22",
@@ -4423,6 +4425,7 @@
   "apple|ar vr software engineer spatial system ui vision products software": "2026-11-20 simplify",
   "apple|engineer new grad evolve an apple services rotation program": "2026-11-21 simplify",
   "applied|junior software developer": "2026-11-21 simplify",
+  "argonne|software engineer": "2026-11-22 simplify",
   "asm|software engineer early career": "2026-11-18 simplify",
   "ata|engineering software programmer": "2026-11-20 simplify",
   "berkshire|software engineer bhepg": "2026-11-18 simplify",
@@ -4480,6 +4483,7 @@
   "rise|software engineer 1": "2026-11-20 simplify",
   "sante|ai engineer": "2026-11-20 simplify",
   "secureframe|software engineer new grad": "2026-11-21 simplify",
+  "sierra|software engineer 1": "2026-11-22 simplify",
   "starbridge|software engineer federal": "2026-11-21 simplify",
   "str|software engineer": "2026-11-21 simplify",
   "symbotic|software engineer core systems platform services": "2026-11-17 simplify",
@@ -4500,5 +4504,5 @@
   "zoox|contract student worker software engineer 40hrs wk": "2026-11-19 simplify",
   "zscaler|software development engineer": "2026-11-21 simplify"
  },
- "last_tier2_at": "2026-11-22T00:47:28+00:00"
+ "last_tier2_at": "2026-11-22T07:33:29+00:00"
 }
