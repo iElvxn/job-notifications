@@ -4124,6 +4124,7 @@
   "simplify:f1831b63-984c-40df-8f23-78c3016365af": "2026-07-22",
   "simplify:f18e1c6b-1286-4e39-af87-b217d7a605a7": "2026-07-22",
   "simplify:f19b1b6b-457a-436b-9a2a-d6488e452bbd": "2026-09-10",
+  "simplify:f1ba0289-d24f-4662-94ca-892ed2c86b56": "2026-11-23",
   "simplify:f1cfc7fb-05c9-4483-ba10-7aa8fcca688f": "2026-10-12",
   "simplify:f1dff2f4-3103-4888-80cc-ae4b5a2a52d3": "2026-11-05",
   "simplify:f1ff7da9-0228-4439-858e-699aad2ebc40": "2026-07-22",
@@ -4430,6 +4431,7 @@
   "ata|engineering software programmer": "2026-11-20 simplify",
   "berkshire|software engineer bhepg": "2026-11-18 simplify",
   "cadence|software engineer recent grad verification ip team": "2026-11-21 simplify",
+  "calyx|junior software developer print packaging": "2026-11-23 simplify",
   "compunetix|software engineer": "2026-11-18 simplify",
   "crosscountry|junior forward deployed software engineer": "2026-11-17 simplify",
   "cwill|ai agent r d trainee full stack engineer bilingual mandarin": "2026-11-19 simplify",
@@ -4450,7 +4452,6 @@
   "huntington|software engineer 1": "2026-11-19 simplify",
   "intelliforce|junior software engineer prime": "2026-11-19 simplify",
   "interimage|software engineer level 0": "2026-11-17 simplify",
-  "johnson|nextgen software engineer new grad": "2026-11-15 simplify",
   "kira|software engineer entry level": "2026-11-19 simplify",
   "koch|software engineer ai agents": "2026-11-20 simplify",
   "laansu|junior software developer": "2026-11-21 simplify",
@@ -4469,8 +4470,6 @@
   "neurohire|forward deployed engineer": "2026-11-20 simplify",
   "neurohire|python developer": "2026-11-21 simplify",
   "nrg|ai enabled developer analyst 1": "2026-11-21 simplify",
-  "nvidia|deep learning framework communications engineer new college grad 2026": "2026-11-15 workday",
-  "nvidia|deep learning framework communications engineer new grad": "2026-11-15 simplify",
   "oracle|software engineer new grad oracle cloud infrastructure": "2026-11-21 simplify",
   "peraton|entry level software engineer ignite innovator program": "2026-11-17 simplify",
   "phoenix|software engineer 1": "2026-11-21 simplify",
@@ -4504,5 +4503,5 @@
   "zoox|contract student worker software engineer 40hrs wk": "2026-11-19 simplify",
   "zscaler|software development engineer": "2026-11-21 simplify"
  },
- "last_tier2_at": "2026-11-22T21:14:20+00:00"
+ "last_tier2_at": "2026-11-23T01:41:30+00:00"
 }
